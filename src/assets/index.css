@@ -1,0 +1,47 @@
+:root {
+  --back-color: #252730;
+  --primary-color: #dba87e;
+  --secondary-color: #786e64;
+  --text-color: #fff;
+}
+body {
+  background-color: var(--back-color) !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "Circular Std Black";
+  src: url(./fonts/CircularStd-Black.otf);
+}
+
+@font-face {
+  font-family: "Circular Std Bold";
+  src: url(./fonts/CircularStd-Bold.otf);
+}
+
+@font-face {
+  font-family: "Circular Std Book";
+  src: url(./fonts/CircularStd-Book.otf);
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url(./fonts/Montserrat-Bold.otf);
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url(./fonts/Montserrat-Regular.otf);
+}
+@font-face {
+  font-family: "SourceSansPro-Bold";
+  src: url(./fonts/SourceSansPro-Bold.otf);
+}

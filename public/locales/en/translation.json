@@ -1,0 +1,1005 @@
+{
+    "affiliate": {
+        "INTRODUCING THE Tokized": "INTRODUCING THE TOKIZED",
+        "AFFILIATE PROGRAM!": "AFFILIATE PROGRAM!",
+        "Become a Real Estate Agent": "Become a Real Estate Agent",
+        "When you invest in a Tokized property token, you are starting a tokenized real estate portfolio, the easiest way to invest in ownership of property in the United States. You also gain access to our Tokized Affiliate Program!": "When you invest in a Tokized property token, you are starting a tokenized real estate portfolio, the easiest way to invest in ownership of property in the United States. You also gain access to our Tokized Affiliate Program!",
+        "Tokized Affiliate Program": "Tokized.immo Affiliate Program",
+        "Investors in any Tokized property on the market get special perks 2% cashback on all Tokized Tokens sold VIP access to events and special promotions Early notification of new property listings": "Investors in any Tokized property on the market get special perks: 2% cashback on all Tokized Tokens sold VIP access to events and special promotions Early notification of new property listings",
+        "Anyone who owns just one Tokized Token is invited to join the Affiliate Program. Begin you real estate investment portfolio, and start earning rental payments and referral rewards to your wallet on a daily basis.": "Anyone who owns just one Tokized Token is invited to join the Affiliate Program. Begin you real estate investment portfolio, and start earning rental payments and referral rewards to your wallet on a daily basis.",
+        "Join the first generation of tokenized real estate professionals today!": "Join the first generation of tokenized real estate professionals today!",
+        "Become an Affiliate!": "Become an Affiliate!",
+        "Congratulations!": "Congratulations!",
+        "Join the new generation of digital real estate agents and grow your income stream with Tokized referrals.To get started, just sign in or register below!": "Join the new generation of digital real estate agents and grow your income stream with Tokized.immo referrals.To get started, just sign in or register below!",
+        "You are now a Tokized Affiliate!": "You are now a Tokized.Immo Affiliate!",
+        "You are ready to start earning referral rewards.": "You're ready to start earning referral rewards.",
+        "Head to your Affiliate Dashboard to get set up!": "Head to your Affiliate Dashboard to get set up!",
+        "AFFILIATE DASHBOARD": "AFFILIATE DASHBOARD"
+    },
+    "affiliateDashboard": {
+        "affiliateUrl": {
+            "Affiliate URLs": "Affiliate URLs",
+            "Your affiliate username is": "Your affiliate username is",
+            "Your referral URL is": "Your referral URL is",
+            "How Do Referral Links Work?": "How Do Referral Links Work?",
+            "When you share an affiliate link to TokizedImmo, we track the visit and purchases of any user who clicks that link.": "When you share an affiliate link to TokizedImmo, we track the visit and purchases of any user who clicks that link.",
+            "If that user buys in the same browser session after following your link, they are counted as your referral, and you earn a": "If that user buys in the same browser session after following your link, they are counted as your referral, and you earn a",
+            "2% commission": "2% commission",
+            "on their purchases... and all their purchases going forward!": "on their purchases... and all their purchases going forward!",
+            "For more information about how long you earn commission on a referred user's purchases, please see Lifetime Customers.": "For more information about how long you earn commission on a referred user's purchases, please see Lifetime Customers.",
+            "The links above point to our homepage, but you can also create links to any page on TokizedImmo.co in": "The links above point to our homepage, but you can also create links to any page on TokizedImmo.co in",
+            "one of two ways": "one of two ways",
+            "Copy the Tokized URL you want to link to, and simply replace": "Copy the Tokized URL you want to link to, and simply replace",
+            "with the new URL in your affiliate link. Make sure to keep the": "with the new URL in your affiliate link. Make sure to keep the",
+            "part — that's how we know the referral is yours!": "part — that's how we know the referral is yours!",
+            "Copy the Tokized URL you want to link to into our Referral URL Generator below, click 'Generate URL'.": "Copy the Tokized URL you want to link to into our Referral URL Generator below, click 'Generate URL'.",
+            "(For more about Custom Slugs, check out Settings.)": "(For more about Custom Slugs, check out Settings.)",
+            "And if you're linking from your own website and don't want to bother with affiliate links at all, you should check out Direct Links!": "And if you're linking from your own website and don't want to bother with affiliate links at all, you should check out Direct Links!",
+            "Referral URL Generator": "Referral URL Generator",
+            "Enter any URL from this website in the form below to generate a referral link!": "Enter any URL from this website in the form below to generate a referral link!",
+            "Page URL": "Page URL",
+            "GENERATE URL": "GENERATE URL",
+            "Affiliate User": "Affiliate User",
+            "Affiliated Amount": "Affiliated Amount",
+            "Requesting a Payout": "Requesting a Payout",
+            "REQUEST PAYMENT": "REQUEST PAYMENT",
+            "To request a payout of your accumulated Affiliate earnings, just email us at info@Tokized.com! A Tokized representative will respond shortly to finalize your request.": "To request a payout of your accumulated Affiliate earnings, just email us at info@Tokized.com! A Tokized representative will respond shortly to finalize your request."
+        }
+    },
+    "blog": {
+        "Blog posts": "Blog posts"
+    },
+    "Calculator": {
+        "Savings calculator": "Savings calculator",
+        "Starting placement": "Starting placement",
+        "Periodic savings": "Periodic savings",
+        "Duration of placement": "Duration of placement",
+        "Expected annual rate of return": "Expected annual rate of return",
+        "Total capital": "Total capital",
+        "Calculate": "Calculate",
+        "New Calculation": "New Calculation",
+        "Three possible options": "THREE POSSIBLE OPTIONS",
+        "You can": "You can",
+        "calculate the capital at term that you will have at the end of your savings plan (click on “calculate total capital”.": "calculate the capital at term that you will have at the end of your savings plan (click on “calculate total capital”.",
+        "But if you know how much capital you will need in X years, you can, knowing how much you can save per month": "But if you know how much capital you will need in X years, you can, knowing how much you can save per month",
+        "or year,": "or year,",
+        "calculate the initial capital you need, (click on “calculate the initial": "calculate the initial capital you need, (click on “calculate the initial payment“ or, knowing how much you can",
+       
+        "save today,": "save today,",
+        "calculate the amount of periodic savings you can build.": "calculate the amount of periodic savings you can build.",
+        "The main savings products [complete file]": "The main savings products [complete file]"
+    },
+    "Cart": {
+        "CONTINUE SHOPPING": "CONTINUE SHOPPING",
+        "Asset": "Asset",
+        "Token Price": "Token Price",
+        "Total Fees": "Total Fees",
+        "Purchase Price": "Purchase Price",
+        "Quantity": "Quantity",
+        "Subtotal": "Subtotal",
+        "Cart Totals": "Cart Totals",
+        "Total": "Total",
+        "PROCEED TO CHECKOUT": "PROCEED TO CHECKOUT",
+        "IS THIS ORDER A GIFT?": "IS THIS ORDER A GIFT?",
+        "Learn More": "Learn More",
+        "To make your order a gift, just check 'This order is a gift' at checkout, then enter the recipient's name, email, and your preferred delivery date. We'll email you a printable certificate to give in person, and we'll email that certificate to the gift recipient on the delivery date, too.": "To make your order a gift, just check 'This order is a gift' at checkout, then enter the recipient's name, email, and your preferred delivery date. We'll email you a printable certificate to give in person, and we'll email that certificate to the gift recipient on the delivery date, too.",
+        "The recipient can follow a simple link or QR code to register and complete ID verification, including registering an Ethereum wallet. When they're done, we'll dispense their gift tokens!": "The recipient can follow a simple link or QR code to register and complete ID verification, including registering an Ethereum wallet. When they're done, we'll dispense their gift tokens!",
+        "Note": "Note",
+        "Tokens may not yet be gifted to minors.": "Tokens may not yet be gifted to minors.",
+        "Important": "Important",
+        "Coupon Discount": "Coupon Discount",
+        "If you have a coupon code, please use coupon code... you can discount token prices.": "If you have a coupon code, please use coupon code... you can discount token prices.",
+        "Gift recipients who are U.S. citizens or residents must be verified as Accredited Investors before we can dispense their gifts.": "Gift recipients who are U.S. citizens or residents must be verified as Accredited Investors before we can dispense their gifts."
+    },
+    "Checkout": {
+        "Billing Details": "Billing Details",
+        "FIRST NAME": "FIRST NAME",
+        "LAST NAME": "LAST NAME",
+        "EMAIL ADDRESS": "EMAIL ADDRESS",
+        "PHONE": "PHONE",
+        "Country": "Country",
+        "STREET ADDRESS": "STREET ADDRESS",
+        "TOWN/CITY": "TOWN/CITY",
+        "POST CODE/ZIP": "POST CODE/ZIP",
+        "Additional Information": "Additional Information",
+        "THIS ORDER IS A GIFT": "THIS ORDER IS A GIFT",
+        "ORDER NOTES (OPTIONAL)": "ORDER NOTES (OPTIONAL)",
+        "Hello Sign": "Hello Sign",
+        "YOUR ORDER": "YOUR ORDER",
+        "Product": "Product",
+        "Sub Total": "Sub Total",
+        "TOTAL": "TOTAL",
+        "PAY WITH CRYPTOCURRENCY": "PAY WITH CRYPTOCURRENCY",
+        "Pay with cryptocurrency. If you pay in USDC or DAI, you must pay only on the ETHEREUM network!": "Pay with cryptocurrency. If you pay in USDC or DAI, you must pay only on the ETHEREUM network!",
+        "PAY WITH PAYPAL": "PAY WITH PAYPAL",
+        "Your proposal data will be used to process your order, support your experience throughout this website, and for other purposes described in our": "Your proposal data will be used to process your order, support your experience throughout this website, and for other purposes described in our",
+        "Privacy Policy": "Privacy Policy",
+        "I HAVE READ AND AGREE TO THE WEBSITE TEAMS AND CONDITIONS": "I HAVE READ AND AGREE TO THE WEBSITE TEAMS AND CONDITIONS",
+        "PLACE ORDER": "PLACE ORDER"
+    },
+    "Cookies": {
+        "info": {
+            "why_use_cookies": {
+                "title": "WHY DO WE USE COOKIES?",
+                "content": "To ensure that the website works properly and that you have an optimal user experience.\n   \t  \t  To understand the number of visitors to our site and the pages they view.\n   \t  \t  To make it possible to integrate social media on the website.\n   \t  \t  To generate ads tailored to your needs. \n   \t  \t  "
+            },
+            "what_is_cookies": {
+                "title": "WHAT IS A COOKIE?",
+                "content": "A cookie is a simple small file that is sent along with pages from this website and stored by the browser on your computer's \n   \t  \t  hard drive. The information stored therein can be sent back to our servers on a subsequent visit. A cookie is a file \n   \t  \t  containing an ID (a string of letters and numbers) that is sent by a web server to a web browser and stored by the browser. \n   \t  \t  The identifier is then sent back to the server each time the browser requests a page from the server. Cookies are small \n   \t  \t  pieces of data stored in a visitor's browser. They are usually used to track what settings users have selected and what \n   \t  \t  actions they have taken on a site.\n   \t  \t  \n   \t  \t  Cookies cannot be used to identify individuals, a cookie can only identify a machine. Cookies generally do not contain any \n   \t  \t  information that personally identifies a user, but personal information that we store about you may be linked to the \n   \t  \t  information stored in and obtained through cookies.\n   \t  \t  "
+            },
+            "use_of_permanent_cookies": {
+                "title": "Use of permanent cookies",
+                "content": "With the help of a permanent cookie we can recognize you when you visit our website again. The website can therefore be \n   \t  \t  specially set to your preferences. Even if you have given permission for the placement of cookies, we can remember this by\n   \t  \t   means of a cookie. As a result, you do not have to repeat your preferences every time, which saves you time and allows \n   \t  \t  you to use our website more pleasantly. Persistent cookies are stored by a web browser and remain valid until the set \n   \t  \t  expiry date, unless deleted by the user before the expiry date via your browser settings.\n   \t  \t  "
+            },
+            "use_of_session_cookies": {
+                "title": "Use of session cookies",
+                "content": "A session cookie expires at the end of the user session when the web browser is closed. They usually store information in\n   \t  \t  the form of a session identifier that does not personally identify the user. With the help of a session cookie we can see \n   \t     which parts of the website you have viewed during this visit. This allows us to adapt our service as much as possible to the\n   \t  \t  surfing behavior of our visitors. These cookies are automatically deleted when you close your web browser.\n   \t  \t  "
+            },
+            "google_analytics": {
+                "title": "Google Analytics",
+                "content": "Through our website, a cookie is placed from the company Google, as part of the 'Analytics' service. We use this service to \n   \t  \t  keep track of and to get reports on how visitors use the website. Google may provide this information to third parties if \n   \t  \t  Google is legally obliged to do so, or insofar as third parties process the information on behalf of Google. We have no \n   \t  \t  influence on this. We have not allowed Google to use the obtained analytics information for other Google services.\n   \t  \t  \n   \t  \t  The information that Google collects is anonymized as much as possible. Your IP address is emphatically not given. The \n   \t  \t  information is transferred to and stored by Google on servers in the United States. Google claims to adhere to the Safe \n   \t  \t  Harbor principles and is affiliated with the Safe Harbor program of the US Department of Commerce. This means that \n   \t  \t  there is an appropriate level of protection for the processing of any personal data.\n   \t  \t  "
+            },
+            "right_to_access": {
+                "title": "Right to access and correct or delete your data",
+                "content": "You have the right to request access to and correction or deletion of your data. In order to prevent misuse, we may ask you \n   \t  \t  to identify yourself adequately. When it comes to accessing personal data linked to a cookie, you must send a copy of the \n   \t  \t  cookie in question. You can find these in the settings of your browser.\n   \t  \t  \n   \t  \t  You can send your question using the contact details which can be found on our Privacy Statement.\n   \t  \t  "
+            },
+            "the_cookies_we_use": {
+                "title": "THE COOKIES WE USE",
+                "content": {
+                    "dftt": {
+                        "name": "DFTT_END_USER_PREV_BOOTSTRAPPED",
+                        "lifespan": "Two years",
+                        "purpose": "It tells Tokized that we've already created a record for \n   \t  \t  \t  \t  \t  \t  this site visitor so it doesn't require any work and it \n   \t  \t  \t  \t  \t  \t  saves us some time loading. Tokized classifies these \n   \t  \t  \t  \t  \t  \t  cookies of the Functionality type.\n   \t  \t  \t  \t  \t  \t  "
+                    },
+                    "xsrf_token": {
+                        "name": "XSRF_TOKEN",
+                        "lifespan": "Session",
+                        "purpose": "This cookie contains a unique ID that links to the\n   \t  \t  \t  \t  \t  \t  user's session information in your database. The browser delivers this cookie on future requests and the server knows who you are.\n   \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  \t  \t  "
+                    },
+                    "__gads": {
+                        "name": "__gads",
+                        "lifespan": "< 2 years",
+                        "purpose": "The purpose of this cookie is to measure interactions \n   \t  \t  \t  \t  with the ads on that domain and to prevent the same \n   \t  \t  \t  \t  ads from being shown to you too often. These \n   \t  \t  \t  \t  cookies cannot be read by Google when you are on a \n   \t  \t  \t  \t  site other than the one on which they are placed.\t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "__hssc": {
+                        "name": "__hssc",
+                        "lifespan": "1 year",
+                        "purpose": "This cookie keeps track of the sessions. This is used \n   \t  \t  \t  \t  to determine if we should increment the session \n   \t  \t  \t  \t  number and timestamps in the __hstc cookie. It \n   \t  \t  \t  \t  contains the domain, viewCount (increments every \n   \t  \t  \t  \t  page in a session) and session start timestamp.\n   \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "__hssrc": {
+                        "name": "__hssrc",
+                        "lifespan": "Session",
+                        "purpose": "When HubSpot changes the session cookie, this \n   \t  \t  \t  \t  cookie is also set. We set it to 1 and use it to \n   \t  \t  \t  \t  determine if the visitor has restarted their browser. \n   \t  \t  \t  \t  If this cookie does not exist when we manage \n   \t  \t  \t  \t  cookies, we will assume it is a new session.\n   \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "__hstc": {
+                        "name": "__hstc",
+                        "lifespan": "2 years",
+                        "purpose": "The main cookie for visitor tracking. It contains the \n   \t  \t  \t  \t  domain, utk (see below), initial timestamp (first visit), \n   \t  \t  \t  \t  last timestamp (last visit), current timestamp (this \n   \t  \t  \t  \t  visit), and session number (incremented for each \n   \t  \t  \t  \t  subsequent session).\n   \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "__utma": {
+                        "name": "__utma",
+                        "lifespan": "1 year 6 months",
+                        "purpose": "This cookie keeps track of how many times a visitor \n   \t  \t  \t  \t  has been to the site in relation to the cookie, when \n   \t  \t  \t  \t  their first visit was and when their last visit took \n   \t  \t  \t  \t  place. Google Analytics uses the information from \n   \t  \t  \t  \t  this cookie to calculate things like Days and Visits to\n   \t  \t  \t  \t   buy.\n   \t  \t  \t  \t  "
+                    },
+                    "__ga": {
+                        "name": "__ga",
+                        "lifespan": "2 years",
+                        "purpose": "The customer ID is stored in the Google Analytics \n   \t  \t  \t  \t  cookie. The GA cookie is set when a person first \n   \t  \t  \t  \t  visits your website. Google Analytics sends the client \n   \t  \t  \t  \t  ID along with each hit to associate hits with a user. \n   \t  \t  \t  \t  The GA cookie can only exist on the device and \n   \t  \t  \t  \t  browser where it is set.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "__utmx": {
+                        "name": "__utmx",
+                        "lifespan": "18 months",
+                        "purpose": "These Google Analytics cookies are used to engage \n   \t  \t  \t  \t  users in Content Experiments.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "hubspotutk": {
+                        "name": "hubspotutk",
+                        "lifespan": "10 years",
+                        "purpose": "This cookie is used to keep track of a visitor's identity. \n   \t  \t  \t  \t  This cookie is passed to HubSpot when submitting \n   \t  \t  \t  \t  forms and is used when deduplicating contacts.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_fbc": {
+                        "name": "_fbc",
+                        "lifespan": "3 months",
+                        "purpose": "This Facebook cookie is only set if the user has \n   \t  \t  \t  \t  landed on our page with a fbclid URL parameter. It \n   \t  \t  \t  \t  will contain a click ID to be used to track Facebook \n   \t  \t  \t  \t  Pixel events back to the Facebook click.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_fbp": {
+                        "name": "_fbp",
+                        "lifespan": "3 months",
+                        "purpose": "Used by Facebook to deliver a range of advertising \n   \t  \t  \t  \t  products, such as real-time bidding from third-party\n   \t  \t  \t  \t   advertisers.   The main purpose of this cookie is: \n   \t  \t  \t  \t  Targeting/Advertising\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_gcl_au": {
+                        "name": "_gcl_au",
+                        "lifespan": "1 month",
+                        "purpose": "Used by Google AdSense to experiment with \n   \t  \t  \t  \t  advertising efficiency on websites using their \n   \t  \t  \t  \t  services.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_gid": {
+                        "name": "_gid",
+                        "lifespan": "1 day",
+                        "purpose": "Registers a unique ID that is used to generate \n   \t  \t  \t  \t  statistical data about how the visitor uses the \n   \t  \t  \t  \t  website.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_hjid": {
+                        "name": "_hjid",
+                        "lifespan": "6 months",
+                        "purpose": "Hotjar cookie: This cookie is set when the customer \n   \t  \t  \t  \t  first lands on a page with the Hotjar script. It is used\n   \t  \t  \t  \t   to maintain the Hotjar User ID unique to that site on\n   \t  \t  \t  \t   the browser. This ensures that the behavior is \n   \t  \t  \t  \t  attributed to the same user ID on subsequent visits to\n   \t  \t  \t  \t   the same site.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "_hjptid": {
+                        "name": "_hjptid",
+                        "lifespan": "Session",
+                        "purpose": "Hotjar cookie: This cookie is set when the customer \n   \t  \t  \t  \t  first lands on a page with the Hotjar script. It is used \n   \t  \t  \t  \t  to maintain the Hotjar User ID unique to that site on\n   \t  \t  \t  \t   the browser. This ensures that the behavior is \n   \t  \t  \t  \t  attributed to the same user ID on subsequent visits \n   \t  \t  \t  \t  to the same site.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "ajs_anonymous_id": {
+                        "name": "ajs_anonymous_id",
+                        "lifespan": "1 year",
+                        "purpose": "These cookies are generally used for Analytics and \n   \t  \t  \t  \t  help count the number of people visiting a particular \n   \t  \t  \t  \t  site by tracing whether you've been there before. \n   \t  \t  \t  \t  This cookie has a lifespan of 1 year.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "ajs_group_id": {
+                        "name": "ajs_group_id",
+                        "lifespan": "1 year",
+                        "purpose": "This Analytics cookie gives you a unique group ID.\n   \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "ajs_user_id": {
+                        "name": "ajs_user_id",
+                        "lifespan": "1 year",
+                        "purpose": "This Analytics cookie gives you a unique user ID.\t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "c_user": {
+                        "name": "c_user",
+                        "lifespan": "3 months",
+                        "purpose": "The c_user cookie contains the user ID of the \n   \t  \t  \t  \t  currently logged in user. … If the 'keep me logged \n   \t  \t  \t  \t  in' checkbox is set, the cookie will expire after 90\n   \t  \t  \t  \t   days of inactivity. If the 'keep me logged in' \n   \t  \t  \t  \t  checkbox is not set, the cookie is a session cookie \n   \t  \t  \t  \t  and will be deleted when the browser is closed.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "datr": {
+                        "name": "datr",
+                        "lifespan": "1 year 6 months",
+                        "purpose": "The purpose of this cookie is to identify the web \n   \t  \t  \t  \t  browser used to connect to Facebook, regardless of \n   \t  \t  \t  \t  the logged in user. This cookie plays an important \n   \t  \t  \t  \t  role in Facebook's security and integrity features.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "fr": {
+                        "name": "fr",
+                        "lifespan": "3 months",
+                        "purpose": "Used by Facebook to deliver a range of advertising \n   \t  \t  \t  \t  products, such as real-time bidding from third-party \n   \t  \t  \t  \t  advertisers.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "intercom_session": {
+                        "name": "intercom session",
+                        "lifespan": "6 days",
+                        "purpose": "This cookie is used to show the user more relevant \n   \t  \t  \t  \t  advertisements. Purpose: Targeting/Adventures\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "laravel_cookie_consent": {
+                        "name": "laravel_cookie_consent",
+                        "lifespan": "20 years",
+                        "purpose": "This cookie is used to track the user's consent to \n   \t  \t  \t  \t  cookies.\t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "laravel_session": {
+                        "name": "laravel_session",
+                        "lifespan": "Session",
+                        "purpose": "These cookies are used to store file sessions in \n   \t  \t  \t  \t  storage/framework/sessions. These files are stored\n   \t  \t  \t  \t   in secure, encrypted cookies.\t  \t  \t  \t  \t  \t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "mp_hj_mixpanel": {
+                        "name": "mp_hj_mixpanel",
+                        "lifespan": "4 months",
+                        "purpose": "This cookie is used to apply Analytics.\t  \t  \t  \n   \t  \t  \t  \t  "
+                    },
+                    "optimizelyBuckets": {
+                        "name": "optimizelyBuckets",
+                        "lifespan": "8 years",
+                        "purpose": "This cookie is used to apply Analytics.\t  \t  \t  \n   \t  \t  \t  \t  "
+                    }
+                }
+            },
+            "anabling_disabling_cookie": {
+                "title": "Enabling and disabling cookies and their removal",
+                "content": "You can set your internet browser in such a way that cookies are not accepted, that you receive a warning when a cookie \n   \t  \t  is installed or that the cookies are subsequently removed from your hard drive. More information about enabling, disabling \n   \t  \t  and deleting cookies can be found in the instructions and/or using the Help function of your browser.\n   \t  \t  \n   \t  \t  In most browsers you can refuse cookies and also delete existing cookies. The methods for doing this vary from browser to \n   \t  \t  browser and version to version. Keep in mind that certain graphic elements may not appear correctly, or that you will not \n   \t  \t  be able to use certain applications.\n   \t  \t  \n   \t  \t  You can obtain current information about blocking and deleting cookies via these links:\n   \t  \t  \n   \t  \t  (a)  https://support.google.com/chrome/answer/95647?hl=en  (Chrome);\n   \t  \t  \n   \t  \t  (b)  https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences  (Firefox);\n   \t  \t  \n   \t  \t  (c)  http://www.opera.com/help/tutorials/security/cookies/  (Opera);\n   \t  \t  \n   \t  \t  (d)  https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies  (Internet \n   \t  \t  Explorer);\n   \t  \t  \n   \t  \t  (e)  https://support.apple.com/kb/PH21411  (Safari); and\n   \t  \t  \n   \t  \t  (f)  https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy  (Edge).\n   \t  \t  "
+            }
+        },
+        "Cookie Policy": "Cookie Policy",
+        "Save changes": "Save changes",
+        "NAME": "NAME",
+        "LIFESPAN": "LIFESPAN",
+        "PURPOSE": "PURPOSE"
+    },
+    "detail": {
+
+        "Investment":"Investment",
+        "Financials":"Financials",
+        "Details":"Details",
+        "Market":"Market",
+        "Documents":"Documents",
+        "Blockchain":"Blockchain",
+
+        "Projected IRR":"Projected IRR",
+        "Expected Income / ROI": "Expected Income / ROI",
+        "Rent Start Date":"Rent Start Date",
+        "Token Price": "Token Price",
+        "Rent Per Token": "Rent Per Token",
+        "Total Tokens": "Total Tokens",
+        "Property Type": "Property Type",
+        "Rental Type":"Rental Type",
+        "Rented?":"Rented?",
+        "Section 8?":"Section 8?",
+
+
+        "Annual Gross Rent":"Annual Gross Rent",
+        "Monthly Gross Rent":"Monthly Gross Rent",
+        "Monthly Costs": "Monthly Costs",
+        "Utilities": "Utilities",
+        "Property Taxes":"Property Taxes",
+        "Property Management (8.00%)":"Property Management (8.00%)",
+        "Maintenance Expenses":"Maintenance Expenses",
+        "Insurance": "Insurance",
+        "Tokized Marketplace (2.00%)":"Tokized Marketplace (2.00%)",
+        "Monthly Net rent":"Monthly Net rent",
+
+        "Anual Net rent":"Anual Net rent",
+        "Total Investment Value i":"Total Investment Value i",
+        "Underlying Asset Price":"Underlying Asset Price",
+        "Renovations & Upgrades":"Renovations & Upgrades",
+        "Operating Expense Reimbursement (10%)":"Operating Expense Reimbursement (10%)",
+        "Initial Maintenance Reserve (5%)":"Initial Maintenance Reserve (5%)",
+        "vacancy reserve (2%)":"vacancy reserve (2%)",
+        "Initial Renovation Reserve":"Initial Renovation Reserve",
+        "Administrative Fees":"Administrative Fees",
+        "Expected Income / ROI i":"Expected Income / ROI i",
+        "Projected Appreciation":"Projected Appreciation",
+        "Total Returns (Projected IRR)":"Total Returns (Projected IRR)",
+
+        "Full Address":"Full Address",
+        "Neighborhood":"Neighborhood",
+        "Construction Year":"Construction Year",
+        "Stories":"Stories",
+        "Total Units":"Total Units",
+        "Bedroom/ Bath":"Bedroom/ Bath",
+        "Office":"Office",
+        "Lot Size (Sqft)":"Lot Size (Sqft)",
+        "Interior Size (Sqft)":"Interior Size (Sqft)",
+        "Heating":"Heating",
+        "Cooling":"Cooling",
+        "Building Class":"Building Class",
+        "Foundation":"Foundation",
+        "Exterior Walls":"Exterior Walls",
+        "Roof Type":"Roof Type",
+        "Parking":"Parking",
+        "Renovated":"Renovated",
+        "Property Manager":"Property Manager",
+        
+        "MINIMUM INVESTMENT":"MINIMUM INVESTMENT",
+        "EXPECTED INCOME / ROI":"EXPECTED INCOME / ROI",
+        "PROJECT IRR":"PROJECT IRR",
+        "RENT PER TOKEN":"RENT PER TOKEN",
+        "TOTAL PRICE":"TOTAL PRICE",
+        "AVAILABLE STOCK":"AVAILABLE STOCK",
+        "PURCHASE TOKEN":"PURCHASE TOKEN",
+        "Minimum Purchase":"Minimum Purchase",
+
+        "Identifier":"Identifier",
+        "ETHEREUM Chain":"ETHEREUM Chain",
+        "Date:":"Date:",
+        "Contract Address":"Contract Address",
+        "Owner Wallet":"Owner Wallet",
+        "GNOSIS Chain":"GNOSIS Chain",
+        "Levinswap Pool":"Levinswap Pool",
+
+        "View Documents":"View Documents",
+
+        "MAP":"MAP"
+
+      
+    },
+    "faqs": {
+        "What is a blockchain?": "What is a blockchain?",
+        "What is a token? What is ‘tokenization’?": "What is a token? What is ‘tokenization’?",
+        "What are the benefits of tokenized real estate?": "What are the benefits of tokenized real estate?",
+        "How are properties chosen for inventory?": "How are properties chosen for inventory?",
+        "Who holds the deed to the house?": "Who holds the deed to the house?",
+        "How do we ensure each LLC owns the deed on its property?": "How do we ensure each LLC owns the deed on its property?",
+        "Who manages the properties?": "Who manages the properties?",
+        "What happens if the tenant does not pay rent?": "What happens if the tenant does not pay rent?",
+        "How much do I need to invest?": "How much do I need to invest?",
+        "What can I do with my Tokens?": "What can I do with my Tokens?",
+        "content": "Cryptocurrencies like Bitcoin and Ethereum are powered by a technology called the blockchain. At its most basic, a blockchain is a list of transactions that anyone can view and verify. The Bitcoin blockchain, for example, contains a record of every time someone sent or received bitcoin. Cryptocurrencies and the blockchain technology that powers them make it possible to transfer value online without the need for a middleman like a This means their accuracy is constantly being verified by a huge amount of computing power. The list of transactions contained in the blockchain is fundamental for most cryptocurrencies because it enables secure payments to be made between people who don’t know each other without having to go through a third-party verifier like a bank. Due to the cryptographic nature of these networks, payments via blockchain can be more secure than standard debit/credit card transactions. When making a Bitcoin payment, for instance, you don’t need to provide any sensitive information. That means there is almost zero risks of your financial information being compromised, or your identity being stolen. Blockchain technology is also exciting because it has many uses beyond cryptocurrency. Blockchains are being used to explore medical research, improve the accuracy of healthcare records, streamline supply chains, and so much more. What are some advantages of blockchains? They’re global: which means that cryptocurrencies can be sent across the planet quickly and cheaply. They increase privacy: Cryptocurrency payments don’t require you to include your personal information, which protects you from being hacked or having your identity stolen. They’re open: Because every single transaction on cryptocurrency networks is published publicly in the form of the blockchain, anyone can scrutinize them. That leaves no room for manipulation of transactions, changing the money supply, or adjusting the rules mid-game. The software that constitutes the core of these currencies is free and open-source so anyone can review the code. How does blockchain work? Picture a chain you might use for a ship’s anchor. But in this case, every link on the chain is a chunk of information that contains transaction data. At the top of the chain, you see what happened today, and as you"
+    },
+    "faqsNew": {
+        "New": {
+            "mainTitle": "These are the general guidelines that Tokized uses. An information note and \n  \tgeneral terms and conditions are drawn up for each property that may \n  \tdeviate from these questions. In case of doubt, the documents of the \n  \tproperty always apply.\n  \t \n  \tIs your question not listed? Feel free to send an email to info@Tokized.com , \n  \twe will be happy to help you. test it",
+            "thirdHeadingSubTitle": "For a complete and correct overview of the risks, we refer to our general terms and conditions and the \n  \t \tinformation note for investors. ",
+            "_first_heading": "PRACTICAL QUESTIONS",
+            "_practical_questions": {
+                "column_1": {
+                    "_1_column_1": "##What if there are major costs or repairs?##\n  The repairs are monitored by the independent manager \n  of the property. The costs of the works are finally \n  deducted from the rental income.",
+                    "_2_column_1": "##What if the property is not rented out?##\n  Then the manager will do everything possible to get the \n  property back rented out as soon as possible. An \n  independent broker will look for a tenant. As long as the \n  property is not rented out, as a token holder you will not \n  receive any income",
+                    "_3_column_1": "##What information do I receive as an investor?##\n  Tokized ensures that Token Holders are informed about, \n  among other things, the following:\n  \t \t \t \t \n  * Information from the Manager, such as changes in the \n  lease contracts, repairs…;\n  \t \t \t \t \n  * Relevant information about the Real Estate;\n  \t \t \t \t \n  * Possible changes to the Platform; and\n  \t \t \t \t \n  * Invitations to meetings, including the Extraordinary \n  General Meeting of Token Holders.",
+                    "_4_column_1": "##How many Tokized can I buy?##\n  There is no limit on the investment amount or quantity. \n  Go ahead!"
+                },
+                "column_2": {
+                    "_1_column_2": "##What if I want to sell my Tokized?##\n  That's perfectly possible! You can sell your Tokized to \n  whoever you want. This can be to friends or family, or\n  to other investors in the property. Currently, sales are \n  only possible to Belgians. This will be expanded in the \n  future.",
+                    "_2_column_2": "##When will it be decided to sell the property back?##A fixed end date is set for each property. Every 5 years \n  we organize a poll with all token holders. It can then be \n  decided with an 80% majority to sell the property early.",
+                    "_3_column_2": "##What if there are minor costs or repairs?##These are carried out by an independent steward, who \n  negotiates the best possible prices. The costs of the \n  works are deducted from the rental income.",
+                    "_4_column_2": "##Where can I track my investments? ##You can easily track your investments via the 'my \n  portfolio' button. On each building detail you will find \n  more information about the exploitation of that building."
+                }
+            },
+            "_second_heading": "TAX Questions",
+            "_tax_questions": {
+                "column_1": {
+                    "_1_column_1": "##Do I have to pay taxes on my Tokized income?##\n  \n  \t \t \tFrom a fiscal point of view, the income from your Tokized \n  \t \t \tconsists of 2 components. A 'repayment component' \n  \t \t \tand an 'interest' component. On the interest component \n  \t \t \tyou pay withholding tax that contains Tokized and \n  \t \t \ttransfers it for you. As a private individual, you do not \n  \t \t \thave to indicate this further. ",
+                    "_2_column_1": "##When will the rental income be paid?##\n  \t \n  You can find the payout times in the information note of \n  each property, which you can consult on the property\n  detail page. In principle, 6-monthly rental income is\n  paid out."
+                },
+                "column_2": {
+                    "_3_column_2": "##How much rental income will I actually receive?## <div><br></div><div><br></div><div><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Every 6 months, the manager will communicate a report containing </span></div><div><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">an overview of the rental income and costs received. The difference is paid between the owners.</span><br></div>"
+                }
+            },
+            "third_heading": "Risks around Tokized",
+            "_risk_questions": {
+                "column_1": {
+                    "_1_column_1": "##Risks related to the return and added value##\n  \n  If there is no rental income, you will not receive any \n  return as an investor. If the rental income is lower than \n  expected, you will receive a lower return as an investor.\n  If the property is eventually sold, it may be for a lower \n  amount than the original purchase value.",
+                    "_2_column_1": "##Bankruptcy Risks##\n  \t \n  There is a risk that, as a result of the bankruptcy of the\n  Issuer, the Token Holders would not be able to recover \n  the amounts to which they are entitled.",
+                    "_3_column_1": "##Risks related to the liquidity and value of the Tokized.##\n  \t \n  Tokized does not organize a market to trade Tokized \n  between themselves. You can of course always sell \n  yourself to acquaintances or via forums. This limits \n  liquidity.\n  \t \t \t \n  Ultimately, the property is always sold back, so you get \n  your part of the sales value back. "
+                },
+                "column_2": {
+                    "_1_column_2": "##Risks associated with economic crises.##\n  \n  The risk of rent arrears or vacancy generally increases \n  during economic or health crises.",
+                    "_2_column_2": "<span>Risks associated with the change in financial regulation \n  \t \t \tor supervisory position</span>\n  \t \t \t \n  It is possible that the issuance of Tokized will be subject to \n  stricter or modified regulations in the future, or the \n  competent supervisory authority will revise its position \n  in this regard. In that case, Tokized may incur costs to \n  comply, which may affect the Revenue.",
+                    "_3_column_2": "##Real estate risks##\n  \t \n  Real estate obsolete with the years. It is therefore \n  possible that additional investments are necessary, \n  which, if necessary, will be recovered from the rental \n  income.\n  \t \t \t \n  Other risks may include, but are not limited to, soil \n  contamination, expropriation, asbestos, natural \n  disasters, war, terror, other calamities and uncovered \n  damage or costs by fire or other insurers.\n  \t \t \t \n  However, a thorough due diligence is carried out before \n  the purchase of the Property to avoid these matters."
+                }
+            },
+            "_fourth_heading": "LEGAL Questions",
+            "_legal_questions": {
+                "column_1": {
+                    "_1_column_1": "##Is there a difference between token holders?##\n  \n  The Tokized Offered have the same rank ( pari passu ). ",
+                    "_2_column_1": "##How is the sales result calculated?##\n  \t \n  In the liquidation of the Tokized, the difference between on \n  the one hand:\n  \t \t \t \n  1. The proceeds of Transfer of the Real Estate;\n  2. Any rental income that has not yet been paid; and\n  3. The proceeds from the sale of the Issuer's other \n  assets;and otherwise:\n  \t \t \t \n  1. The reasonable costs associated with the Transfer of \n  the Property, including customary brokerage fees and \n  any other costs that might be incurred by the Issuer. \n  These costs are calculated at 3.0% on top of the \n  broker's salary who is appointed upon the Real Estate\n  Transfer;<div>\n  2. The reasonable costs, interests, fees and capital \n  repayments of the bank loans, if any, entered into for \n  the benefit of the Real Estate;</div><div>\n  3. All tax charges, insofar as they are due as a result of \n  the Transfer of the Real Estate or when setting up the \n  operation;</div><div>\n  4. The paid-up equity of the Issuer;</div><div>\n  5. The other debts and trade debts, with the exception of \n  the booked claim of the Token Holders;</div><div>\n  6. An amount that allows to pay the corporate income \n  tax and other possible taxes and levies owed by the\n  Issuer in connection with the Tokized ERC 20 Tokens \n  and the Real Estate; and\n  <br></div><div>7. Any other reasonable costs not yet charged;</div>",
+                    "_3_column_1": "##Who supervises Tokized?##\n  \t \n  \t \t \tTokized is not a regulated or licensed company. \n  \t \t \tNevertheless, the FSMA will supervise the Issuer in \n  \t \t \torder to guarantee a sufficient degree of investor \n  \t \t \tprotection. The investor is also advised that the Issuer \n  \t \t \twill not or cannot provide Investment Advice in \n  \t \t \tconnection with the issuance or purchase of the \n  \t \t \tOffered Tokized ERC 20 Tokens.",
+                    "_4_column_1": "##What are Tokized legally?##\n  \t \n  The Offered Tokized (full term is Tokized ERC 20 Token) are \n  “tokenized” debt instruments that incorporate rights to \n  the income, proceeds and realization value of the real \n  estate determined at the time of issue. An Tokized ERC \n  20 Token is not a bond: the return is not fixed and can \n  only be paid out if there is sufficient (rental) income. \n  Nor is there any capital guarantee at maturity. The \n  Token Holders will be reimbursed on the transfer of the\n  Real Estate solely on the basis of their share of the sale \n  price.\n  \t \t \t \n  The Offered Tokized ERC 20 Tokens are created via DLT.\n  In particular, each transaction with an Offered Immo \n  Token forms a block on a Chromia blockchain, and the \n  Offered Tokized ERC 20 Tokens can be traded on this \n  blockchain.\n  \t \t \t \n  The Offered Tokized ERC 20 Tokens are subject to \n  respective rights and obligations which are set out in\n  the Issuance Conditions and which each Token Holder \n  must commit to before being able to subscribe to the \n  Offered Tokized ERC 20 Tokens. The rights and \n  obligations remain attached to the Offered Tokized ERC \n  20 Tokens, in whatever hands they pass.\n  \t \t \t \n  The Tokized ERC 20 Tokens Offered are indivisible.\n  \t \t \t \n  \t \t \t "
+                },
+                "column_2": {
+                    "_1_column_2": "##Is a prospectus being written for the issuance of Tokized?##\n  \n  An information note is issued for each issue of Tokized. \n  This document is not a prospectus and is not reviewed \n  or approved by the Financial Services and Markets \n  Authority.",
+                    "_2_column_2": "##What costs are for the investor?##\n  \t \n  The costs relating to the Real Estate are charged or \n  passed on to the Token Holders, including, among other \n  things: the remuneration of the management controller, \n  the real estate tax and other basic charges, the costs \n  relating to the Platform, the insurances, the capital cost \n  of the Issuer , etc.)",
+                    "_3_column_2": "##How is the operating result calculated?##\n  \t \n  The amount to be distributed annually in respect of the\n  Issuer's financial year, which consists of the difference \n  between, on the one hand:\n  \t \t \t \n  1. The entirety of the rental income of the Real Estate;\n  2. The proceeds from all temporary investments related \n     to the real estate operation;\n  3. The other receipts insofar as they relate to the\n  \tImmovable Property, such as default interest, all kinds \n  \tof indemnities, recognition of unspent provisions and \n  \trevenues of any nature whatsoever relating to the\n  \tImmovable Property;\n  \tand otherwise:\n  \t \t \t \n  1. The reasonable costs, fees, fees, costs of repairs and \n  \tall kinds of provisions at the expense of the Issuer with\n  \tregard to (i) the Real Estate, (ii) the activity of the \n  \tIssuer in its capacity as owner or issuer of the Tokized \n  \tERC 20 Tokens including the operation of the \n  \tPlatform, and/or (ii) activities of the Manager. These \n  \tcosts are calculated at 3% of the gross rental income;\n  2. The reasonable costs, interests and capital \n  \trepayments of the bank loans or other financing, if \n  \tnecessary, entered into for the benefit of the Real \n  \tEstate;\n  3. Any deduction to form a provision for future \n  \tmaintenance and repair costs. The amount is fixed by \n  \tthe Issuer and subject to approval by the Management \n  \tController;\n  4. Reasonable costs related to the real estate appraiser's\n  \tfee, accounting costs as well as all possible costs of \n  \texperts;\n  5. An amount that allows to pay the corporate income \n  \ttax and other possible taxes or levies owed by the \n  \tIssuer in connection with the Tokized ERC 20 Tokens or \n  \tthe Real Estate; and\n  6. Costs related to vacancy and neglect;"
+                }
+            },
+            "ask_a_question": "ASK A QUESTION"
+        },
+        "Frequently asked questions": "Frequently asked questions",
+        "Save changes": "Save changes"
+    },
+    "generalinfo": {
+
+        "info": {
+            "mainTitle": "INFORMATION NOTE ABOUT THE OFFER OF “ Tokized ERC 20 Tokens” BY  Tokized REAL ESTATE LLC",
+            "_1_paragraph": "This document has been prepared by  Tokized Real Estate LLC.\n  \n  \tTHIS DOCUMENT IS NOT A PROSPECTUS AND HAS NOT BEEN REVIEWED NOR APPROVED BY THE FINANCIAL \n  \tSERVICES AND MARKETS AUTHORITY.\n  \t \n  \tAugust 15, 2021\n  \t \n  \tWARNING: THE INVESTOR RISES TO LOSE ALL OR PART OF THEIR INVESTMENT AND/OR NOT TO REACH THE \n  \tEXPECTED RETURN.\n  \t \n  \tTHE INVESTMENT INSTRUMENTS ARE NOT LISTED: THE INVESTOR RUNS THE RISK OF HAVING MAJOR PROBLEMS \n  \tOF SELLING HIS POSITION TO A THIRD PARTY IF THEY WISH TO DO SO.",
+            "_2_paragraph": "##Part I. – Main risks inherent in the issuer and the investment instruments offered, and specific to the offer concerned\n  \n  \t *Risk factors associated with  Tokized Real Estate A BV (hereinafter the “Issuer”)\n  \t *Preliminary remark##",
+            "_3_paragraph": "The Issuer is a private limited company under Belgian law whose main objective is the securitization of real estate in order \n  \tto allow investors to invest indirectly in real estate.\n  \t \n  \tThe Issuer achieves this objective by raising capital from the public in order to acquire real estate with a view to letting \n  \tand transferring it. The capital is raised, among other things, through the issuance of “tokenized” debt instruments (the “  \n  \tTokized ERC 20 Tokens ”).\n  \t \n  \tThrough these  Tokized ERC 20 Tokens, potential investors (the “ Token Holders ”) are offered an opportunity to invest in real \n  \testate. Although various options have been offered in Belgium for several decades to invest indirectly in real estate, the  \n  \tTokized ERC 20 Tokens offered in the context of this issue (the “ Offered  Tokized ERC 20 Tokens ”) are the first debt \n  \tinstruments to be issued in the form of tokens created through Distributed Ledger Technology (hereinafter “ DLT ”). DLT is \n  \ta type of technology that supports the capture of encrypted data in a distributed ledger .\n  \t \n  \tThe structure of this offer is as follows: Issuer property (the \" Property \") acquired / in the near future a property (the \"\n  \t  Property \") purchases]. One series of  Tokized ERC 20 Tokens will be issued for this Real Estate, namely the Offered  Tokized \n  \tERC 20 Tokens. The  Tokized ERC 20 Tokens Offered therefore relate exclusively to the Real Estate. Any subsequent \n  \tissuance of  Tokized ERC 20 Tokens by the Issuer will always relate to a different real estate and will be strictly separated \n  \tfrom the present issue / the Offered  Tokized ERC 20 Tokens.",
+            "_4_paragraph": "##*Risks related to the Issuer's business\n  \t *Risks associated with the concentration of the investment##",
+            "_5_paragraph": "The profits related to the Offered  Tokized ERC 20 Tokens depend solely on the annual rental income and/or realized capital \n  \tgains arising from the sale of the Real Estate (jointly the “ Revenues ”), which entails a concentration risk. Any (temporary) \n  \treduction or absence of rental income or a realized loss in value is also exclusively borne by the investors who have \n  \tsubscribed to the Offered  Tokized ERC 20 Tokens. Consequently, the income and risks of different real estate are not \n  \tpooled.\n  \t \n  \tThe concentration risk mentioned above means, among other things, that if the rental income is disappointing, this may \n  \thave an adverse effect on the return of the  Tokized ERC 20 Tokens on offer. If the sale of the Real Estate is accompanied by \n  \ta loss in value, for example as a result of a general decrease in real estate prices, each Token Holder can only claim a pro\n  \t  rata part of the sale proceeds.\n  \t \n  \tUnder no circumstances can the Issuer be held liable for disappointing Proceeds.",
+            "_6_paragraph": "##*Risks associated with a possible insolvency of the Issuer##\n  \tThere is a risk that, as a result of the bankruptcy of the Issuer, the Token Holders would not be able to recover the \n  \tamounts to which they are entitled. In principle, it cannot be excluded that the Issuer is unable to fulfill its obligations.",
+            "_7_paragraph": "##*Risks associated with real estate\n  \t *Risks associated with the Real Estate##",
+            "_8_paragraph": "Due to its nature, the Property may functionally and/or physically age, which may cause it to lose its attractiveness. In that \n  \tcase, additional investments may be necessary that may weigh on the Revenues.\n  \t \n  \tOther risks may include, but are not limited to, the (complete or incomplete) destruction of the Property, soil \n  \tcontamination, expropriation, asbestos, natural disasters, war, terror, other calamities and uncovered damage or costs \n  \tdue to fire. - or other insurers. However, a due diligence [was/is] performed prior to the purchase of the Property.",
+            "_9_paragraph": "##*Risks associated with construction activities in case of new construction##\n  \tThe current offer relates to a property yet to be established. Incorporation may involve counterparty risks if contractors, \n  \tsubcontractors, suppliers, architects or other actors involved fail to meet their obligations.]\n  \t \n  \t ##*Risks associated with the cyclical nature of the real estate market##\n  \tThe real estate market has a cyclical character, linked in particular to the general economic situation, interest rates and \n  \tthe expectations of the main actors with regard to economic growth and inflation. An economic slowdown, recession or \n  \tcrisis with a regional, national or international scope can have a negative impact on Revenue.",
+            "_10_paragraph": "*Risks associated with the offer\n  \t *Risks related to the limited liquidity and the value of the  Tokized ERC 20 Tokens\n  \tThe  Tokized ERC 20 Tokens Offered are not listed and will not be listed on a regulated market or on an MTF (Multilateral \n  \tTrading Facility). The Issuer does not organize a secondary market. Moreover, the  Tokized ERC 20 Tokens Offered do not \n  \toffer any protection against inflation or monetary erosion.",
+            "_11_paragraph": "*Risks associated with the change in financial regulation or supervisory position\n  \tIt is possible that the issuance of the Offered  Tokized ERC 20 Tokens will be subject to stricter or amended regulations in \n  \tthe future, or the competent supervisory authority will revise its position in this regard. In that case, the Issuer may incur \n  \tcosts to comply, which may affect the Revenues.\n  \t \n  \t *Risks associated with the COVID-19 pandemic and economic crisis\n  \tThe current COVID-19 pandemic and the measures taken by the government can have an unpredictable impact on the real \n  \testate market and on Revenues. The risk of rent arrears or vacancy generally increases during economic or health crises.\n  \t \n  \t *Risks associated with using the website\n  \tTechnical failures may occur when using the website where the Offered  Tokized ERC 20 Tokens are offered, such as, but \n  \tnot limited to, login, purchase or registration problems, server overload, cyber attacks (e.g. hacking, phishing).",
+            "_12_paragraph": "##Part II. – Information about the issuer\n  \tA.      Identity of the issuer##",
+            "_1_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "Seat\t <div>Legal form <div>Company number\t \n  Country of origin\t \n  web address\t \n  \t \t \t \t \t \t </div></div>",
+                    "purpose": "Engelhoekstraat 22B, 9800 Sint-Martens-Leerne\n  BV\n  769577115\n  Belgium\n  www. Tokized.be&nbsp;(the “&nbsp;Platform&nbsp;”)\t \t \t \t \t \t \n  \t \t \t \t \t \t "
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "Description of the \n  issuer's activities\t \n  \t \t \t \t \t \t ",
+                    "purpose": "The Issuer's sole activity is to offer  Tokized ERC 20 Tokens to potential \n  investors in order to allow them to invest indirectly in real estate.\t \t \t \t \t \t \n  \t \t \t \t \t \t "
+                },
+                "3°": {
+                    "name": "2°",
+                    "lifespan": "To the extent that such \n  information is known to the \n  issuer or the applicant for \n  admission to trading, identity \n  of persons holding more than \n  5% of the capital of the issuer, \n  and size (expressed as a \n  percentage of capital) of the \n  shareholdings they hold\t \n  \t \t \t \t \t \n  In connection with the \n  transactions between the \n  issuer and the persons referred \n  to under 3° and/or related \n  parties other than shareholders:\t \n  \n  \t \t \t \t ",
+                    "purpose": "As of 01/08/2021, the following persons own more than 5% of the \n  Issuer's shares:\n  (i) E. Warmoes owns 100% of the capital\t \t \t \t \t \t \t \t \t \t \n  \t \t \t \t "
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "– the nature and size of all \n  transactions that, individually \n  or together, are material to \n  the issuer.&nbsp;If the transactions \n  have not been concluded in \n  accordance with market \n  conditions, it is explained \n  why.&nbsp;For outstanding loans, \n  including guarantees of any \n  kind, the outstanding amount \n  is stated;\t \n  \t \t \t \t \n  – the amount or percentage \n  that the transactions concerned \n  represent in the issuer's turnover.\t \n  \t \t \t \t ",
+                    "purpose": "Tokized Real Estate A was founded on 14/06/2021.&nbsp;Therefore, no significant <div>transactions have yet been carried out.\n  \t \t \t \t </div>"
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "The identity of the members \n  of the legal management \n  body of the issuer (indication \n  of the permanent \n  representatives in the case \n  of directors or leaders who \n  are legal persons), the \n  members of the management \n  committee and the members \n  of the bodies charged with \n  the day-to-day management\t \t \t \t \t \n  \t \t \t \t ",
+                    "purpose": "Board of Directors\n  The Issuer is managed by one director, namely: E. Warmoes.\n  Executive Committee\n  The body charged with the day-to-day management consists of: \n  E. Warmoes.\n  \t \t \t \t "
+                },
+                "6°": {
+                    "name": "6°",
+                    "lifespan": "With regard to the last full \n  financial year, total amount\n  of the remuneration of the \n  persons referred to under 5°, \n  and total amount of the \n  amounts reserved or imputed\n  by the issuer or its \n  subsidiaries for the payment\n  of pensions or similar \n  benefits, or an appropriate \n  negative statement\t \n  \t \t \t \t ",
+                    "purpose": "[The Issuer was incorporated on 14/06/2021.&nbsp;No compensation \n  was therefore paid, provided for or booked for the persons \n  referred to under 5°.]\n  \t \t \t \t \t "
+                },
+                "7°": {
+                    "name": "7°",
+                    "lifespan": "For the persons referred to \n  under 5°, mention of any\n  conviction as referred to \n  in Article 20 of the Law of \n  25 April 2014 on the legal \n  status and supervision of \n  credit institutions and \n  stockbroking firms, or an \n  appropriate negative \n  statement\t \t \n  \t \t \t \t ",
+                    "purpose": "In the past five years [has not been a member of the board of \n  directors or of the executive board: (i) convicted of fraudulent \n  offenses;&nbsp;(ii) involved in a bankruptcy, suspension of payments \n  or liquidation;&nbsp;(iii) sanctioned or officially and publicly accused \n  by legal or regulatory authorities (including recognized \n  professional bodies).\n  None of the members of the governing body or of the executive \n  board has been declared incapacitated by a judicial authority to \n  act as a member of the issuer's management, management or \n  supervisory bodies in the past five years.&nbsp;The issuer is not \n  involved in lawsuits and/or arbitrations.\n  \t \t \t \t \t "
+                }
+            },
+            "_second_para_heading": "##B.      Financial information about the issuer##",
+            "_2_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "Insofar as the issuer was \n  already active at that time,\n  its annual accounts for the \n  last two financial years, \n  audited, where appropriate, i\n  n accordance with Article \n  13, §§ 1 or 2, 1°, of the Law \n  of 11 July 2018\t ",
+                    "purpose": "The Issuer was incorporated on 14/06/2021 and therefore has \n  no available financial statements yet."
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "Statement by the issuer that \n  it believes the working \n  capital is sufficient to meet \n  its needs for the next twelve \n  months or, if not, how it\n  intends to provide the \n  additional working capital \n  needed\t \n  \t \t \t \t \t ",
+                    "purpose": "The working capital of  Tokized Real Estate A is sufficient to meet \n  its current obligations and this at least for a period of 12 months \n  following the date of publication of this note.\n  \t \t \t \t \t "
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "Statement of equity and\n  indebtedness (specifying \n  debts with and without \n  guarantees and of secured \n  and unsecured debts) no \n  later than 90 days prior to \n  the date of the document.&nbsp;\n  Indebtedness also includes \n  indirect and contingent \n  liabilities\t \t \t \t    \n  \t \t \t ",
+                    "purpose": "Condition on 14/06/2021\n  (i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equity&nbsp;: EUR 12,500\n  (ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debts with guarantee&nbsp;at: EUR 0;&nbsp;and\n  (iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debts without guarantee&nbsp;on: EUR 0.\n  \t \t \t "
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "Description of any significant \n  change in the financial or \n  trading position that occurred \n  after the end of the last \n  financial year to which the \n  annual accounts referred to \n  under 1° above relate, or an \n  appropriate negative \n  statement\t \t \t \t \n  \t \t \t ",
+                    "purpose": "The Issuer was incorporated on 14/06/2021 and therefore does \n  not have a final financial year.&nbsp;In any event, there have been no \n  significant changes in the financial or trading position since \n  incorporation."
+                }
+            },
+            "_third_para_heading": "##C.      Description of the Underlying Asset \t  \t  \t  \n  \t  Part III. – Information on the offering of investment instruments \t  \t  \t  \n  \t  A.      Description of the offer \t  \t  \t  \n  \t  ##",
+            "_3_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": " Offer Terms\n  \t \t \t \n  \t \t \t \n  Minimum amount for which \n  the offer is made\n  \n  Minimum and/or maximum \n  subscription amount per \n  investor\n  \n  \t \t \t ",
+                    "purpose": "Any natural or legal person established in Belgium can subscribe \n  to the Offered  Tokized ERC 20 Tokens in accordance with the \n  procedure laid down in the issuance conditions regarding the \n  Offered  Tokized ERC 20 Tokens (the “&nbsp;Issue Conditions&nbsp;”).\t \n  \t \t \t \t \n  However, if less than 30% of the Offered  Tokized ERC 20 Tokens \n  is subscribed, the Issuer reserves the right to cancel the offer \n  and to refund the capital raised.\t \n  \n  Minimum subscription amount per investor: EUR 50, being 1 \n  Offered Immo Token.\t \n  \t \t \t "
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "Total price of the investment \n  instruments offered\n  \t \t \t ",
+                    "purpose": "EUR 50 x # Offered  Tokized ERC 20 Tokens = EUR Total Price<div><br></div>"
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "Timetable of the offer: start \n  and closing date of the offer, \n  issue date of the investment \n  instruments\n  \t \t \t \n  \t \t \t ",
+                    "purpose": "The subscription period runs from the issue of the information \n  note to the closing date.&nbsp;The offer will be closed early if the \n  maximum amount is reached before this date.\t \n  \t \t \t \n  If the minimum amount has not been reached on the closing \n  date, the offer period can be extended by a maximum of [six \n  (6)] months.&nbsp;Thereafter, the offer will be definitively closed \n  based on the amount raised (which must, however, be at least \n  equal to the minimum amount set).\t \n  \t \t \t "
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "Costs borne by the investor\n  \t \t \t ",
+                    "purpose": "The costs relating to the Real Estate are charged or passed on \n  to the Token Holders, including, among other things: the \n  remuneration of the management controller, the real estate \n  tax and other basic charges, the costs relating to the Platform,\n  the insurances, the capital cost of the Issuer , etc.)\t \n  \t \t \t \n  \t \t \t \t \n  The total annual costs are estimated per Offered Immo Token\n  at the time of the information note.\t \t \t \t \n  \t \t \t "
+                }
+            },
+            "_fourth_para_heading": "##B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;報價的原因##",
+            "_4_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "Description of the intended \n  use of the collected amounts\t \t \t \n  \t \t \t ",
+                    "purpose": "The current offer aims to finance the purchase of the Real Estate.&nbsp;\n  The Property will be (i) leased for the purpose of generating a \n  return to the Token Holders in the form of rental income, after \n  settlement of the above costs, and (ii) sold in accordance with \n  the terms of the Issue Conditions, after which the Token \n  Holders will also be entitled to a proportional share of any \n  realized capital gain.\t \n  \t \t \t "
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "Details of the financing of \n  the project that the offer \n  aims to realize\n  \t \t \t ",
+                    "purpose": "The current offer aims to finance the purchase of the Real \n  Estate.&nbsp;The Property will be (i) leased for the purpose of \n  generating a return to the Token Holders in the form of \n  rental income, after settlement of the above costs, and (ii) \n  sold in accordance with the terms of the Issue Conditions, \n  after which the Token Holders will also be entitled to a \n  proportional share of any realized capital gain.\t \n  \t \t \t "
+                }
+            },
+            "_fifth_para_heading": "<div><span style=\"color: rgb(3, 255, 164); font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Part IV.&nbsp;– Information about the investment instruments offered\t \t \t </span><br></div>##\tA.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Characteristics of the investment instruments offered##<br><div>##<br>##</div>",
+            "_5_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "Nature and category of the \n  investment instruments",
+                    "purpose": "The Offered  Tokized ERC 20 Tokens are “tokenized” debt \n  instruments that incorporate rights to the income, proceeds \n  and realization value of the real estate determined at the \n  time of issue.&nbsp;An Immo Debt Token is not a bond: the return \n  is not fixed and can only be paid out if there is sufficient \n  (rental) income.&nbsp;Nor is there any capital guarantee at \n  maturity.&nbsp;The Token Holders will be reimbursed on the \n  transfer of the Real Estate solely on the basis of their share\n  of the sale price.\n  \n  \n  The Offered  Tokized ERC 20 Tokens are created via DLT.&nbsp;In \n  particular, each transaction with an Offered Immo Token forms \n  a block on a Chromia blockchain, and the Offered  Tokized ERC \n  20 Tokens can be traded on this blockchain.\t \n  \n  The Offered  Tokized ERC 20 Tokens are subject to respective \n  rights and obligations which are set out in the Issuance \n  Conditions and which each Token Holder must commit to \n  before being able to subscribe to the Offered  Tokized ERC 20 \n  Tokens.&nbsp;The rights and obligations remain attached to the \n  Offered  Tokized ERC 20 Tokens, in whatever hands they pass.\t \n  \n  The  Tokized ERC 20 Tokens Offered are indivisible.\t \n  \t \t \t  "
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "Coin, denomination and \n  face value",
+                    "purpose": "The  Tokized ERC 20 Tokens Offered are denominated in Euro, \n  bear the denomination “ Tokized ERC 20 Tokens” and each have\n  a nominal value of EUR 50.\t \n  \t \t \t "
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "Description of the intended \n  use of the collected amounts\t \t \t \n  \t \t \t ",
+                    "purpose": "The Offered  Tokized ERC 20 Tokens have a fixed term of thirty \n  (30) years.&nbsp;They are partly repaid during the term in function\n  of the depreciation of the Real Estate, and partly on the sale \n  of the Real Estate with regard to the part of the Real Estate \n  that has not yet been depreciated.&nbsp;However, the refunded \n  amount in the event of a sale depends on the realized sale \n  price.\t \n  \t \t \t \n  Be handovers are of the Property set at five (5), ten (10) and \n  fifteen (15) years from the date of issue, in accordance with \n  the decision of the Extraordinary General Meeting of Token \n  Holders (see&nbsp;infra&nbsp;Part V).&nbsp;Therefore, the Token Holders\n  cannot decide at any time to proceed with the sale of the \n  Property.\t \n  \n  However, the Extraordinary General Meeting may, when an \n  exceptional opportunity arises, decide to transfer the Real \n  Estate outside these transfer moments (see&nbsp;infra&nbsp;part V).\t \n  \t \t \t \n  \t \t \t "
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "Rank of the investment \n  instruments in the capital \n  structure of the issuer in \n  the event of insolvency\n  \t \t \t \t \t \t \t \t \t \n  \t \t \t ",
+                    "purpose": "The  Tokized ERC 20 Tokens Offered have the same ranking \n  (&nbsp;pari passu&nbsp;).&nbsp;The Offered  Tokized ERC 20 Tokens do not grant \n  the Token Holders any priority or security.\t \n  \n  The rights of the Token Holders are subordinate to the rights \n  of secured creditors.\t \n  \n  The Token Holders have priority over the shareholders.\t \n  \n  \t \t \t "
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "Restrictions on the free \n  transfer of investment \n  instruments\t \t \t \t \t \t \n  \t \t \t ",
+                    "purpose": "The  Tokized ERC 20 Tokens Offered are freely transferable.&nbsp;\n  However, a Token Holder who wishes to transfer his tokens\n  is obliged to find a buyer himself.&nbsp;The Issuer will not and \n  can under no circumstances be deemed to bring two or \n  more investors into contact with each other as a result of\n  which a transaction can be effected between these Token \n  Holders.\t \t \t \t \n  \t \t \t "
+                },
+                "6°": {
+                    "name": "6°",
+                    "lifespan": "Annual Interest Rate\t \t \t \n  \t \t \t ",
+                    "purpose": "The Issuer provides an estimate of the gross rental yield and \n  capital gain per year at the time of the transfer of the Property.\t \n  \t \t \t \n  – Value of the Property invested in under this offer\t \n  \n  – Expected annual rental income\t \n  \n  – Expected costs on an annual basis\t \n  \n  \t \t \t "
+                },
+                "7°": {
+                    "name": "7°",
+                    "lifespan": "Date on which the interest \n  rate is paid\t \t \t \t \t \n  \t \t \t ",
+                    "purpose": "The variable rental income on the Property is paid annually on \n  the first day of the month of June.&nbsp;If this day does not fall on a \n  working day, the payment will be made on the next working day.\t \n  \n  The Issuer nevertheless has the option of distributing the variable \n  rental income semi-annually, in which case it will be regarded as \n  an advance on the annual rental income to be distributed.&nbsp;This \n  advance will be settled when the annual variable rental income\n  is paid on the above date.\t \t \t \t \n  \t \t \t "
+                }
+            },
+            "_13_paragraph": "##Part V. – Any other material information addressed orally or in writing to one or more investors\n  \n  \t1. Meetings of Token Holders\n  \t1° Common provisions##\n  \t \n  \tThe meetings of Token Holders are chaired by the chairman of the board of directors of the Issuer or his deputy mandated \n  \tby the board of directors. The chairman and a secretary designated by the latter form the bureau. Each Token Holder can \n  \tbe represented at the meeting by a proxy holder, whether or not a Token Holder. The board of directors of the Issuer may \n  \tdetermine the form of the proxies.",
+            "_14_paragraph": "2° Information meetings\n  \n  \tAn information meeting is held annually, ex officio and without notice, on the first Friday of February. If this day falls on a \n  \tpublic holiday, the meeting will take place on the next working day. The meeting will be held digitally [via the Platform].\n  \t \n  \tOn this occasion, the board of directors will explain the accounts relating to the buildings and inform the meeting about \n  \tall important elements related to the Real Estate and the  Tokized ERC 20 Tokens Offered.",
+            "_15_paragraph": "3° Extraordinary General Meetings\n  \n  \tIn addition, the Issuer may, if it deems it necessary and at the sole initiative of the board of directors, convene an \n  \textraordinary general meeting of Token Holders, which may make decisions that are binding on all Token Holders. The \n  \tIssuer invites the Token Holders via a notice on the Platform. The meeting will be held digitally [via the Platform].\n  \t \n  \tThe following decisions require the prior consent of the general meeting of Token Holder and in any case an extraordinary \n  \tgeneral meeting of Token Holders will be convened by the board of directors of the Issuer:\n  \t *\n  \tThe transfer of the Real Estate on one of the transfer moments, namely after five (5), ten (10) or fifteen (15) years from the \n  \tissue date. Six (6) months before any or upcoming transfer time, the Token Holder will be notified of the Transfer Time and \n  \twill be able to consent to the Transfer of the Property.\n  \t *In case of unfavorable market conditions, including a fall in real estate prices, the transfer moment may be postponed by \n  \tthe Extraordinary General Meetings of Token Holders;\n  \t \n  \t *Exceptional opportunities to sell the Property outside the fixed transfer times, including the sale to a company belonging \n  \tto the Issuer's group;\n  \t *The possible extension or conversion of the Real Estate for an amount that is higher than 10% of its current sales value. \n  \tBefore such decision is made, the meeting of Token Holders must decide on its financing method. If the financing is done \n  \tthrough a new issue of  Tokized ERC 20 Tokens, a preferential right is granted to the Token Holders. They may exercise this \n  \tpreferential subscription right during a period of fifteen (15) days from the date of opening of the subscription;\n  \t *The appointment of a new management controller;\n  \t *Reconstruction if the Real Estate is completely or partially destroyed;\n  \t *The amendment of the issuance conditions of the  Tokized ERC 20 Tokens.\n  \t *The extraordinary general meeting can only validly deliberate if the attendees represent at least half of the existing \n  \tOffered  Tokized ERC 20 Tokens. If this condition is not met, a new meeting is required. The second meeting must take \n  \tplace within the month following the first meeting and can deliberate regardless of the number of  Tokized ERC 20 Tokens \n  \ton offer present or represented.\n  \t \n  \tEach Immo Debt Token Offered is entitled to one vote. If the ownership of an Offered Immo Debt Token is divided \n  \tbetween different persons, [the board of directors/the director] has the right to suspend the voting rights attached thereto \n  \tuntil a single person has been designated as Token Holder in respect of the Issuer.\n  \t \n  \tAny decision to amend the Issue Conditions is taken by a [four-fifths] majority of the votes cast. All other decisions may be\n  \t  taken by a [two-thirds/simple] majority of the votes cast. In all cases, abstentions are not included in either the numerator\n  \t  or the denominator.",
+            "_16_paragraph": "##1. management controller##\n  \t  The Issuer will appoint a management controller to look after the interests of the Token Holders.\n  \t  \n  \t  The management controller has the following duties:\n  \t  \n  \t  * Approve the calculation of the operating result and the liquidation balance and make the necessary comments and \n  \t  proposals in this regard. To this end, the Board of Directors of the Issuer will submit the calculation to the management \n  \t  controller within the month following the closing of the financial year or the transfer of the Real Estate. The management \n  \t  controller will draw up a report on the aforementioned calculation, within one month of its receipt, in which he expresses \n  \t  his opinion on the merits of the transactions and his opinion on the correctness of the accounts;\n  \t  * Assess the Issuer's transactions and express its opinion on their merits, in particular with a view to informing Token \n  \t  Holders.\n  \t  In particular, the assessment should cover:\n  \t  \n  \t  * The useful use of the funds and the destination of temporary investments;\n  \t  * Compliance for the various parties with the agreements regarding the acquisition, management and rental of the Real \n  \t  Estate;\n  \t  * The justification for any renovation, repair or extension work;\n  \t  * The conditions for any transfer;\n  \t  * The convening of the extraordinary general meeting of Token Holders.\n  \t  * To provide advice to the board of directors of the Issuer if the conversion concerns 30% or less of the existing surface \n  \t  area of ​​the Property;\n  \t  * Attending the extraordinary general meetings of the Token Holders with an advisory vote.\n  \t  In the performance of its duties, the management controller has the right to access all documents of the Issuer relating to \n  \t  the distribution of the amounts due to the Token Holders. He may seek the advice of experts in special cases requiring \n  \t  specific technical knowledge, if this does not entail unreasonable costs for the Issuer.",
+            "_17_paragraph": "1. Tax treatment of the Offered  Tokized ERC 20 Tokens\n  \t  From a tax point of view, part of the payments made by the Issuer to the Token Holders constitute a redemption of the \n  \t  amount subscribed. That part is not taxable in Belgium. The balance of the payments made by the Issuer to the Token \n  \t  Holders represents a movable income and is in principle subject to withholding tax. However, no complete analysis is \n  \t  provided here regarding all tax aspects related to the Offered  Tokized ERC 20 Tokens.\n  \t  \n  \t  Token holders should consult their own tax advisors with regard to the consequences of the tax laws applicable in their \n  \t  state of citizenship, residence, habitual residence or domicile and of the tax laws of Belgium regarding the acquisition, \n  \t  holding and transfer of the Offered  Tokized ERC 20 Tokens and obtaining interest payments, principal payments and/or \n  \t  other amounts under the Offered  Tokized ERC 20 Tokens."
+        },
+        "General Information": "General Information Note",
+        "Save changes": "Save changes"
+    },
+"home": {
+    "Tokized Revolutionize":"Tokized Revolutionize",
+    "Real Estate Investment": "Real Estate Investment",
+    "Build your wealth starting $50 and receive monthly rent with our Technology developed on the ETHEREUM Blockchain": "Build your wealth <span style='color:#DBA87E;'>starting $50</span><br/> and receive monthly rent<br/> with our Technology developed on the<br/> <span style='color:#DBA87E;'>ETHEREUM Blockchain</span>",
+    
+    "VIEW MARKETPLACE": "VIEW MARKETPLACE",
+    "with ALL the ADVANTAGES of real estate without the unpleasant surprises":"with <span style='color:#DBA87E;'>ALL</span> the <span style='color:#DBA87E;'>ADVANTAGES</span> of<br/> real estate without the<br/> unpleasant surprises",
+    "A savings Investment":"A <span style='color:#DBA87E;'>savings</span><br/> <span style='color:#DBA87E;'>Investment</span>",
+    "HOW to Invest in Real Estate with TOKIZED.immo ?":"HOW to Invest in Real Estate<br/> with TOKIZED.immo ?",
+    
+    
+    "HOW IT WORKS": "HOW IT WORKS",
+    "How Tokized.immo work ?":"How <span style='color:#DBA87E;'>Tokized.immo</span> work ?",
+
+    "HOW DOES IT WORK?": "HOW DOES IT WORK?",
+    "The advantages without the downsides":"The <span style='color:#DBA87E;'>advantages</span> without the downsides",
+    "Tokized.immo thanks to its revolutionary":"Tokized.immo thanks to its revolutionary blockchain technology offers you a savings investment with all the advantages of real estate without the unpleasant surprises Between the search for a property, the title fees, the complicated management, the bad surprises, the charges, the unpaid rents... it's the obstacle course...",
+    "Profitability":"Profitability",
+    
+    "Ready to start investing":"Ready to<br/> start<br/> investing",
+    "Browse Properties":"Browse Properties",
+    "First Name":"First Name",
+    "FAQ":"FAQ",
+    "Your most frequently asked questions":"Your most<br/> frequently asked<br/> questions",
+    "we rely on":"We rely on your many feedbacks to try<br/>to answer your questions and expectations",
+    "UP to 12% * Earn rental Income Every week":"UP to 12% *<br/> Earn rental Income<br/> Every week",
+    "Liquidity":"Liquidity",
+    "Purchase and sale 100% online You buy and sell whenever you want":"Purchase and sale 100%<br/> online You buy and<br/> sell whenever you<br/> want",
+    "ZERO fees":"ZERO fees",
+    "Neither buying nor selling":"Neither buying nor selling",
+    "NO Management":"NO Management",
+    "No Looking for property to buyNo tenant searchTokized.immo take care of everything":"No Looking for property<br/> to buyNo tenant search</br>Tokized.immo take care<br/> of everything",
+    
+    "Email Address": "Email Address",
+    "Find out why now is a great time to buy US Real Estate": " Find out why now is a great time to buy US Real Estate",
+    "WHAT DO WE DO AT Tokized": "WHAT DO WE DO AT Tokized",
+    "We sell Real Estate properties through fractional ownership using blockchain technology. Each Real Estate Property offered to investors on Tokized is owned by a Limited Liability Corporation (LLC) which is fractionated and Tokenized. The TokizedTokens created for each property are then made available for purchase on Tokized platform.": "We sell Real Estate properties through fractional ownership using blockchain technology. Each Real Estate Property offered to investors on Tokized is owned by a Limited Liability Corporation (LLC) which is fractionated and Tokenized. The TokizedTokens created for each property are then made available for purchase on Tokized platform.",
+    "Become investor": "Become investor",
+    "It’s never been easier to invest in residential real estate": "It’s never been easier to invest in residential real estate",
+    "Sign up for free to access property details and get a personalized dashboard": "Sign up for free to access property details and get a personalized dashboard",
+    "Browse available properties and make an investment": "Browse available properties and make an investment",
+    "Receive your periodic distributions when rent is paid": "Receive your periodic distributions when rent is paidRe-invest to multiply your returns or withdrow to enjoy your cash!",
+    "Re-invest to multiply your returns or withdrow to enjoy your cash!": "Re-invest to multiply your returns or withdrow to enjoy your cash!",
+    "Create An Account": "Create An Account",
+    "Start Investing": "Start Investing",
+    "SIGN up free": "SIGN up free",
+    "Interested in Updates?": "Interested in Updates?",
+    "The Tokized Newsletter": "The Tokized Newsletter",
+    "Fractional, liquid real estate investing.": "Fractional, liquid real estate investing.",
+    "Stay in Touch With Us.": "Stay in Touch With Us.",
+    "Newsletter SIGN UP": "Newsletter SIGN UP",
+    "Why invest in real estate": "Why invest in real estate",
+    "It's an asset class that offers steady income and low volatility": "It's an asset class that offers steady income and low volatility",
+    "Best Performing Asset Class through Time": "Best Performing Asset Class through Time",
+    "Real Estate has historically been the number 1 investment for wealth creation": "Real Estate has historically been the number 1 investment for wealth creation",
+    "Passive Income": "Passive Income",
+    "Real Estate generates a recurring income stream from renting out the property": "Real Estate generates a recurring income stream from renting out the property",
+    "Stability": "Stability",
+    "Real Estate prices tend to be less volatile than stocks and other financial assets over the long run": "Real Estate prices tend to be less volatile than stocks and other financial assets over the long run",
+    "Residential": "Residential",
+    "Covid-19 has made housing more relevant than ever before": "Covid-19 has made housing more relevant than ever before",
+    "START NOW": "START NOW",
+    "NEED HELP GETTING STARTED?": "NEED HELP GETTING STARTED?",
+    "Talk to one of our team members and start building your portfolio": "Talk to one of our team members and start building your portfolio",
+    "SCHEDULE A CALL": "SCHEDULE A CALL",
+    "Your Full Name": "Your Full Name",
+    "This field is required": "This field is required",
+    "Your Email Address": "Your Email Address",
+    "Please enter a valid email address": "Please enter a valid email address",
+    "Your Contact Number": "Your Contact Number",
+    "Your Comments": "Your Comments",
+    "(optional)": "(optional)",
+    "You can write your comments here": "You can write your comments here",
+    "Cancel": "Cancel",
+    "Earn Income": "Earn Income",
+    "Enjoy Your Returns": "Enjoy Your Returns",
+    "Submit Request": "Submit Request"
+},
+"Register": {
+    "": "Register",
+    "FIRST NAME": "FIRST NAME",
+    "LAST NAME": "LAST NAME",
+    "PHONE": "PHONE",
+    "USERNAME": "USERNAME",
+    "EMAIL ADDRESS": "EMAIL ADDRESS",
+    "PASSWORD": "PASSWORD",
+    "ARE YOU A RESIDENT OR CITIZEN OF THE UNITED STATES OR ITS TERRITORIES?": "ARE YOU A RESIDENT OR CITIZEN OF THE UNITED STATES OR ITS TERRITORIES?",
+    "YES": "YES",
+    "NO": "NO",
+    "REGISTER": "REGISTER",
+    "Please input first name": "Please input first name",
+    "Please input last name": "Please input last name",
+    "Please input user name": "Please input user name",
+    "Please input phone": "Please input phone",
+    "Please input email": "Please input email",
+    "Please input correct email address": "Please input correct email address",
+    "Please input the password": "Please input the password"
+},
+"Product": {
+    "Minimum Investment": "MINIMUM INVESTMENT",
+    "TOTAL PRICE": "TOTAL PRICE",
+    "TOKEN PRICE": "TOKEN PRICE",
+    "Project IRR": "Project <span style='color:#DBA87E'>IRR<span>",
+    "EXPECTED INCOME / ROI": "EXPECTED INCOME / ROI",
+    "AVAILABLE":"AVAILABLE",
+    "STOCK":"Stock",
+    "Invest": "Invest",
+    "Total Tokens": "Total Tokens",
+    "Tokens Available": "Tokens Available",
+    "Sold Out": "Sold Out",
+    "Coming Soon": "Coming Soon",
+    "Start Now": "Start Now",
+    "SOLD OUT":"SOLD OUT"
+},
+"Login": {
+    "": "LOGIN",
+    "Please input user name or email": "Please input user name or email",
+    "Please input the password": "Please input the password",
+    "USERNAME OR EMAIL ADDRESS": "USERNAME OR EMAIL ADDRESS",
+    "PASSWORD": "PASSWORD",
+    "REMEMBER ME": "REMEMBER ME",
+    "Lost your password?": "Lost your password?"
+},
+"GetAccess": {
+    "Exclusive Real Estate Investment": "Exclusive Real Estate<br/>Investment",
+    "Revolutionizing": "Revolutionizing",
+    "property ownership": "property ownership",
+    "Blockchain": "Blockchain",
+    "Powered by": "Powered by",
+    "Rental Income Up to": "Rental Income Up to",
+    "Yield": "Yield",
+    "Get me access": "Get me access",
+    "Invitation code": "Invitation code"
+},
+"Team2": {
+    "Meet Our Team": "Meet Our Team",
+    "desc-1":"Tokized.immo is a union of seasoned real estate and blockchain industry executives, along with marketing, ecommerce and technology experts. Together, we are executing our collective vision to create a new real estate ownership experience."
+},
+"SellTokens": {
+    "Success": "Success",
+    "Sell token request success": "Sell token request success",
+    "Sell Tokens": "Sell Tokens",
+    "Sign in to sell your tokens!": "Sign in to sell your tokens!",
+    "SIGN IN": "SIGN IN",
+    "Tokens": "Tokens",
+    "desc-1": "Tokized.immo will buy back your TokizedImmookens! This service is limited to $2000 per week.<br/>Token buyback requires Tokized.immo approval, and can take up to 10 business days.<br/>We appreciate your patience!",
+    "desc-2": "We Are Currently<br/>Buying Back Tokens from <br/>properties with these statuses",
+    "SOLD OUT": "SOLD OUT",
+    "UNDER RENOVATION": "UNDER RENOVATION",
+    "OFFERING CLOSED": "OFFERING CLOSED",
+    "Sell Tokens From Property": "Sell Tokens From Property",
+    "Property": "Property",
+    "Price-Token": "Price/Token",
+    "Sale Price": "Sale Price",
+    "SUBTOTAL": "SUBTOTAL",
+    "Tokized FEE": "Tokized FEE",
+    "PROCESSOR FEE": "PROCESSOR FEE",
+    "TOTAL SALE": "TOTAL SALE",
+    "I verify that these values are correct.": "I verify that these values are correct.",
+    "SELL TOKENS": "SELL TOKENS"
+},
+"Privacy": {
+
+    "pol": {
+        "phone": "Phone",
+        "email": "Email",
+        "_1_paragraph": "Definitions\n  \t– Platform: the email info@Tokized.com  and all subordinate pages;\n  \t– Visitor: person who visits the Platform;\n  \t– Customer: person who places an order on the Platform.",
+        "_2_paragraph": "General\n  \tTokized is responsible for the processing of your personal data on the Platform.\n  \t \n  \tTokized complies with the 'Act of December 8, 1992 on the protection of privacy with regard to the processing of personal \n  \tdata', as amended by the Act of December 11, 1998, as well as the anti-spam provisions of Book XII of the Code of \n  \tEconomic Law regarding the “ law of the electronic economy”.\n  \t \n  \tTokized also complies with the European Regulation 2016/679 of 27 April 2016 on the protection of personal data by means \n  \tof the current Privacy Policy.",
+        "_3_paragraph": "Personal data\n  \tPersonal data that you provide us with:\n  \t \n  \tIP address;\n  \tsurfing behaviour;\n  \torigin;\n  \tsearch terms;\n  \tlogin data;\n  \te-mail address;\n  \tprofile picture;\n  \tcontact details.\n  \tTokized may collect data from you in several ways:\n  \t \n  \tthrough the use of cookies;\n  \tduring your registration or use of the platform;\n  \tby requesting further information, following contacts you have made with Tokized through this site;\n  \twhen filling out forms for discussing your problem or contact names;\n  \twhen entering, sharing and forwarding data at your initiative that you share with other users on our sites.",
+        "_4_paragraph": "Purposes of the processing\n  \tTokized will only use the Personal Data collected from you for the following purposes:\n  \t \n  \tmanaging your account on the Platform with a view to providing you with the best service possible, with the legal basis \n  \tbeing the execution of an agreement requested by you;\n  \tsending you direct marketing, newsletters, promotions and promotions, with your explicit prior consent as legal basis;\n  \tadequately answering your questions regarding the Platform or for the provision of services, with the legal basis of \n  \tproviding a service that you have requested;\n  \tthe verification of the uniqueness of the entered data and the veracity of the case.\n  \tYou are not obliged to disclose your Personal Data, but understand that the provision of certain services becomes \n  \timpossible if you refuse the processing.",
+        "_5_paragraph": "direct marketing\n  \tThe personal data will also be used for direct marketing, provided you have given additional explicit permission for this \n  \t (\"opt-in\").\n  \t \n  \tIf you are already included in our mailing list for receiving marketing materials in paper and/or electronic form, Tokized may \n  \tuse your data to send marketing and other materials related to Tokized, its products and/or services. Tokized may use the data \n  \tprovided by you to update documents stored by Tokized.\n  \t \n  \tThis consent can be withdrawn at any time, without justification and free of charge, for example by clicking on the \n  \tunsubscribe link provided for this purpose at the bottom of every promotional e-mail message.",
+        "_6_paragraph": "Transfer to third parties\n  \tIn the event of a complete or partial reorganization or transfer of activities of Tokized, whereby it reorganizes, transfers, \n  \tceases its business activities or if Tokized goes bankrupt, this may mean that your data is given to new entities or third \n  \tparties through which the business activities of Tokized are wholly or partially carried out. are transferred.\n  \t \n  \tTokized will make reasonable efforts to inform you in advance of the fact that Tokized will disclose your data to said third party, \n  \tbut you also acknowledge that this is not technically or commercially feasible under all circumstances.\n  \t \n  \tTokized will not sell, rent, distribute or otherwise make your Personal Data commercially available to third parties, except as \n  \tdescribed above or without your prior consent.\n  \t \n  \tIn rare cases, Tokized may be required to disclose your Personal Data pursuant to a court order or to comply with other \n  \tmandatory laws or regulations. Tokized will make reasonable efforts to inform you about this in advance, unless this is \n  \tsubject to legal restrictions.",
+        "_7_paragraph": "##Duration of processing##\n  \tThe personal data is stored and processed by us for a period that is necessary in function of the purposes of the \n  \tprocessing and in function of the contractual relationship.",
+        "_8_paragraph": "Your rights\n  \tYou have the following rights regarding your personal data:\n  \t \n  \tRight of access and inspection: You have the right to take cognizance of your personal data at any time free of charge, as \n  \twell as the use that We make of your personal data.\n  \tRight of correction, deletion and limitation: You are free to decide whether or not to communicate your personal data to \n  \tTokized. In addition, you always have the right to request us to correct, supplement or delete your personal data. You \n  \tacknowledge that in case of refusal of communication or request for removal of personal data, certain services and \n  \tproducts will not be available. You may also request that the processing of your Personal Data be restricted.\n  \tRight to object: You also have a right to object to the processing of your personal data for serious and legitimate reasons. \n  \tIn addition, you always have the right to object to the use of personal data for direct marketing purposes; in such a case \n  \tyou do not have to give reasons.\n  \tRight to withdraw consent: Insofar as the processing is based on your prior consent, you have the right to withdraw that \n  \tconsent.\n  \tYou can exercise your rights by contacting us, either by e-mail to  info@Tokized.com",
+        "_9_paragraph": "Security and confidentiality\n  \tWe have developed security measures that are adapted from a technical and organizational point of view to avoid the \n  \tdestruction, loss, falsification, modification, unauthorized access or incorrect notification to third parties of personal data \n  \tcollected as well as any other unauthorized processing of this information.\n  \t \n  \tUnder no circumstances can Tokized be held liable for any direct or indirect damage resulting from incorrect or unlawful \n  \tuse by a third party of the personal data.\n  \t \n  \tYou must comply with the security regulations at all times, including by preventing any unauthorized access to your login \n  \tand code. You are therefore solely responsible for the use made of the Platform from your computer, IP address and \n  \tidentification data, as well as for their confidentiality.",
+        "_10_paragraph": "##Access by third parties##\n  \tIn order to process your personal data, We grant access to your personal data to our employees. We guarantee a similar \n  \tlevel of protection by making contractual obligations enforceable against these employees that are similar to this Privacy \n  \tPolicy.",
+        "_11_paragraph": "Cookies\n  \tWhat are cookies?\n  \tA “cookie” is a small file sent by the Tokized server and placed on your computer's hard drive. The information stored on \n  \tthese cookies can only be read by us and only for the duration of the visit to the Platform.\n  \t \n  \tWhy do we use cookies?\n  \tOur Website uses cookies and similar technologies to distinguish your usage preferences from those of other users of our \n  \tWebsite. This helps us to provide you with a better user experience when you visit our Website and also allows us to \n  \toptimize our Website.\n  \t \n  \tTypes of cookies\n  \tAlthough there are different types of cookies, differentiated in terms of functionality, origin or retention period, the \n  \tlegislation mainly distinguishes between functional or technically necessary cookies on the one hand and all other \n  \tcookies on the other.\n  \t \n  \tTokized uses the following \"functional or necessary\" cookies for which your prior consent is not necessary:\n  \t \n  \t *Necessary cookies allow users to navigate through a website and use the functions of the website.\n  \t *Functional cookies increase the user-friendliness of a website by remembering your choices (e.g. language preferences, \n  \tregion, login).\n  \tTokized also uses the following cookies for which we do ask your prior consent:\n  \t \n  \t *Performance cookies collect data about the use of a website such as the number of visitors, the time visitors spend on a \n  \tweb page and error messages. We use Google Analytics (to collect anonymous data about how our website is used and \n  \tto compile visitor statistics – How Google uses data when you use our partners' sites or apps).\n  \t *Advertising cookies ensure that a website can send personalized advertising messages. Use our websites to provide \n  \tDoubleClick (collects data about page viewing and advertisements, and can create a user profile. This is basically done \n  \tanonymously unless the user identifies himself through his Google account).\n  \tFor cookies placed by third parties (including Google Analytics), we would like to refer you to the statements that these \n  \tparties provide on their respective websites. Please note: we have no influence whatsoever on the content of those \n  \tstatements, nor on the content of the cookies of these third parties.",
+        "_12_paragraph": "Your permission\n  \tOn your first visit to our Website you will be asked to accept our different types of cookies. You can allow or refuse \n  \tcookies category by category. You can change the cookie settings for our Website at any time via the hyperlink at the \n  \tbottom of our website and thus withdraw your consent.\n  \t \n  \tYou can refuse the installation of these cookies by choosing \"Refuse cookies\" in the pop-up screen offered for the first \n  \ttime use of the Platform.\n  \t \n  \tYou can also refuse or block cookies by changing the configuration parameters of your navigation system. Disabling \n  \tcookies may mean that you cannot use certain functionalities of the Platform.\n  \t \n  \tYou agree that Tokized has the right to post a script to detect ad blockers."
+    },
+    "": "Privacy Policy",
+    "Success": "Success",
+    "Privacy Policy saved!": "Privacy Policy saved!",
+    "Save changes": "Save changes"
+},
+"MyAccount": {
+    "DASHBOARD": "DASHBOARD",
+    "PORTFOLIO": "PORTFOLIO",
+    "ID VERIFICATION": "ID VERIFICATION",
+    "ORDERS": "ORDERS",
+    "ACCOUNT DETAILS": "ACCOUNT DETAILS",
+    "LOGOUT": "LOGOUT",
+    "MY ACCOUNT": "MY ACCOUNT",
+    "WHITE LIST": "WHITE LIST"
+},
+"AccountDetail": {
+    "This field is required": "This field is required",
+    "Failed": "Failed",
+    "Password does not match": "Password does not match",
+    "Account Details": "Account Details",
+    "Reset Password": "Reset Password",
+    "First Name": "First Name",
+    "Last Name": "Last Name",
+    "Username": "Username",
+    "Email": "Email",
+    "Current Password": "Current Password",
+    "Password": "Password",
+    "Confirm": "Confirm",
+    "Save": "Save"
+},
+"Dashboard": {
+    "Success": "Success",
+    "Wallet updated successfully": "Wallet updated successfully",
+    "ALERT": "ALERT",
+    "Please click on \"ID verification\" tab and upload your ID to verify.": "Please click on \"ID verification\" tab and upload your ID to verify.",
+    "IMPORTANT ALERT": "IMPORTANT ALERT",
+    "Please transfer": "Please transfer",
+    "tokens to the given wallet address": "tokens to the given wallet address",
+    "to complete order": "to complete order",
+    "To view details against order": "To view details against order",
+    "please click on 'ORDERS' tab": "please click on 'ORDERS' tab",
+    "Welcome to": "Welcome to 1Ri.co, Your source for Tokenized real estate",
+    "Transaction hash": "Transaction hash",
+    "Submit": "Submit",
+    "desc-1": "Check out 1Ri's latest properties: 1Ri Marketplace<br/>Please use the menu links to view your portfolio and manage your account.<br/>Need assistance? Please reach out to us via our chat below, or email us at: help@1ri.co."
+},
+"IDVerification": {
+    "": "Identity Verification",
+    "SUBMIT DOCUMENTS HERE": "SUBMIT DOCUMENTS HERE"
+},
+"Orders": {
+    "Orders": "Orders",
+    "Status": "Status",
+    "Order Type": "Order Type",
+    "Dates": "Dates",
+    "Total": "Total",
+    "Actions": "Actions"
+},
+"Portfolio": {
+    "Option1": "Option1",
+    "Deposit xDai": "Deposit xDai",
+    "Change Wallet Address": "Change Wallet Address",
+    "Save": "Save",
+    "Close": "Close",
+    "Rent": "Rent",
+    "Rent Payment Method": "Rent Payment Method",
+    "XDAI RENT DEPOSIT WALLET": "XDAI RENT DEPOSIT WALLET",
+    "Change wallet": "Change wallet",
+    "desc-1": "Rent will be deposited directly to this wallet on the xDai network. TokizedImmo pays the fees for these transactions.",
+    "Claim rent on Ethereum": "Claim rent on Ethereum",
+    "Asset By Sell": "Asset By Sell",
+    "Token Delivery Method": "Token Delivery Method",
+    "desc-2": "NOTE: Token balances held on the xDai network do not yet display in your Assets folder. This feature will be available in the coming weeks. Please view your xDail token balances in your wallet, or via Blockscout : Blockscout",
+    "5601 S Wood St, Chicago, IL 60636": "5601 S Wood St, Chicago, IL 60636",
+    "Tokens Rent": "Tokens Rent",
+    "Total Price": "Total Price",
+    "Value Held": "Value Held",
+    "Fraction Held": "Fraction Held",
+    "per year": "per year",
+    "Tokens issued": "Tokens issued",
+    "Price-Token": "Price/Token",
+    "Rent Token": "Rent Token",
+    "year": "year",
+    "Gross Rent": "Gross Rent",
+    "Net Rent": "Net Rent"
+},
+"MarketPlace": {
+    "price-low2low": "Price: low to high",
+    "price-high2low": "Price: high to high",
+    "Default Sorting": "Default Sorting",
+    "TOKIZED Marketplace":"TOKIZED Marketplace",
+    "Invest in US Real Estate":"Invest in US Real Estate Market through fractional tokenized ownership for only $50 per token<br/> Get rental income, sell anytime. Powered by blockchain.",
+    "Become the landlord of the future": "Become the landlord of the future",
+    "desc-1": "For the first time, investors around the globe can buy into the US real estate market through fully-compliant, fractional, tokenized ownership. Powered by blockchain.",
+    "LOOKING FOR OUR OLDER OFFERINGS?": "LOOKING FOR OUR OLDER OFFERINGS?",
+    "PREVIOUS PROPERTIES": "PREVIOUS PROPERTIES",
+    "Showing results": "Showing all {{count}} results"
+},
+"LostPassword": {
+    "Please input user name or email": "Please input user name or email",
+    "MY ACCOUNT": "MY ACCOUNT",
+    "Lost Password": "Lost Password",
+    "USERNAME OR EMAIL ADDRESS": "USERNAME OR EMAIL ADDRESS",
+    "Reset Password": "Reset Password"
+},
+"Learn": {
+    "ppm": "Private Placement memurandum (PPM)",
+    "PPM Supplement": "PPM Supplement",
+    "Series Designation": "Series Designation",
+    "Subscraption Agreement (Generic)": "Subscraption  Agreement (Generic)",
+    "content": "Hello! I'm the body",
+    "Introduction to Tokized": "Introduction to Tokized",
+    "desc-1": "For those just learning about Tokized, read this short introduction to the system. This provides a high-level overview of the Tokized system, and is a great way to get started.",
+    "READ MORE": "READ MORE",
+    "Download Whitepaper": "Download Whitepaper",
+    "desc-2": "The whitepaper describes the Tokized system. It provides an explanation for the need of tokenized real estate, as  well as the specifics of how Tokized has been built.",
+    "DOWNLOAD WHITEPAPER": "DOWNLOAD WHITEPAPER",
+    "Our Documentation": "Our Documentation",
+    "desc-3": "Transparency is a key principle of the blockchain technology that enables real estate tokenization. Tokized values this principle, and strives to make as much of our documentation available to our community as possible."
+},
+"Home3": {
+    "TOKIZED PROPERTIES": "TOKIZED PROPERTIES",
+    "VIEW ALL PROPERTIES":"VIEW ALL PROPERTIES",
+    "Build your real estate investment portfolio today": "Build your real estate investment portfolio today",
+    "you will receive rents and a potential real estate capital appreciation": "you will receive rents and a potential real estate capital appreciation",
+    "There is no house.":"There is no house."
+},
+"HowWorks": {
+    "how": {
+        "mainTitle": "From creating an account to your first investment. On this page \n  \twe explain step by step how to invest in an Tokized for the first time.",
+        "_1_step": {
+            "step": 1,
+            "title": "Registration",
+            "description": "To gain access to the property details, we ask you to \n  register without obligation. You can register via the \n  'Register' button at the top right. After registration you \n  will receive a confirmation email. It can take up to \n  3 minutes before you receive the email. If you do not \n  receive it, send a message to info@Tokized.com"
+        },
+        "_2_step": {
+            "step": 2,
+            "title": "Upload and ID card",
+            "description": "To buy an Tokized you have to identify yourself. This can easily \n  be done by sending a photo or copy of your identity card. \n  We use this information to check your eligibility to purchase \n  Tokized."
+        },
+        "_3_step": {
+            "step": 3,
+            "title": "Choose a \n  \t \tproperty(s) to invest",
+            "description": "Via the 'invest' button you get an overview of our available \n  properties. You can compare on type of property, return, \n  rental contracts, location… We ensure that all the \n  properties offered are of high quality, but you make the \n  final choice."
+        },
+        "_4_step": {
+            "step": 4,
+            "title": "Read the\n  \t \tdocumentation carefully",
+            "description": "We draw up an information note for each property. Read this \n  carefully, so you can invest with confidence. Further in the \n  process are the general and legal conditions. This \n  documentation is about the property itself."
+        },
+        "_5_step": {
+            "step": 5,
+            "title": "Choose an \n  \t \tinvestment amount",
+            "description": "You are free to choose how much you invest with a minimum \n  of €50. There is no maximum amount. "
+        },
+        "_6_step": {
+            "step": 6,
+            "title": "Read & \n  \t \taccept the terms",
+            "description": "Read the general issuance conditions and registration \n  agreement and information note. You can also read the \n  most frequently asked questions in our FAQ."
+        },
+        "_7_step": {
+            "step": 7,
+            "title": "Pay securely \n  \t \tvia Mollie",
+            "description": "You are free to choose how much you invest with a minimum \n  of €50. There is no maximum amount."
+        },
+        "_8_step": {
+            "step": 8,
+            "title": "Success!",
+            "description": "If everything went well, you are now the proud owner of your \n  new investment portfolio. You can find your investments \n  under 'my portfolio'.\n  \t \t \n  You will find a monthly update for each investment under \n  “documentation”.\n  You will receive your share of the rental income every 6 \n  months.\n  You will also receive important communication about the \n  investment by e-mail."
+        }
+    },
+    "Simple steps to become a real estate investor": "8 Simple steps to<br/> become a real estate investor",
+    "Save changes": "Save changes"
+},
+"header": {
+    "MY ACCOUNT": "MY ACCOUNT",
+    "ADMIN": "ADMIN",
+    "ACCOUNT": "ACCOUNT",
+    "CALCULATOR": "CALCULATOR",
+    "AFFILIATE DASHBOARD": "AFFILIATE DASHBOARD",
+    "LOGOUT": "LOGOUT",
+    "Affiliate Program": "Affiliate Program",
+    "Sign In": "SIGN IN",
+    "MARKETPLACE": "VIEW MARKETPLACE",
+    "SELL TOKENS": "SELL TOKENS",
+    "SELL MY PROPERTY":"SELL MY PROPERTY",
+    "AFFILIATE PROGRAM":"AFFILIATE PROGRAM",
+    "LEARN": "LEARN",
+    "FAQ": "FAQ",
+    "BLOG": "BLOG"
+},
+"footer": {
+    "Privacy Policy": "Privacy Policy",
+    "General Information": "General Information",
+    "Cookies Policy": "Cookies Policy",
+    "LEARN": "Learn",
+    "TEAM":"Team",
+    "BLOG":"Blog",
+    "FAQs": "FAQ",
+    "MARKETPLACE":"The Marketplace",
+    "HOME":"Home",
+    "SELL TOKENS": "Sell Tokens",
+    "SELL MY PROPERTY":"Sell My Property",
+    "content1": "This site is operated by Tokized Defi ,In, which is not a registered broker-dealer or investment advisor. Landshare does not give investment advice, endorsement, analysis or recommendations with respect to any securities. Nothing on this website should be construed as an offer to sell, solicitation of an offer to buy or a recommendation for any security by Tokized Defi Inc or any third party. You are solely responsible for determining whether any investment, investment strategy, security or related transaction is appropriate for you based on your personal investment objectives, financial circumstances and risk tolerance. You should consult with licensed legal professionals and investment advisors for any legal, tax, insurance or investment advice. All securities listed here are being offered by, and all information included on this site is the responsibility of, the applicable issuer of such securities. Tokized Defi Inc does not guarantee any investment performance, outcome or return of capital for any investment opportunity posted on this site.   By accessing this site and any pages thereof, you agree to be bound by the Terms of Service and Privacy Policy.",
+    "content2": "Past performance is no guarantee of future results. Any historical returns, expected returns, or probability projections may not reflect actual future performance. All investments involve risk and may result in partial or total loss. While the data we use from third parties is believed to be reliable, we cannot ensure the accuracy or completeness of data provided by sellers or other third parties. Neither Tokized Defi, Inc nor any of its affiliates provide tax advice and do not represent in any manner that the outcomes described herein will result in any particular tax consequence. Prospective investors should confer with their personal tax advisors regarding the tax consequences based on their particular circumstances. Neither Tokized Defi, Inc nor any of its affiliates assume responsibility for the tax consequences for any investor of any investment.",
+    "Website Disclosures":"Website Disclosures",
+    "Accessibility Statement":"Accessibility Statement",
+    "Terms of Service":"Terms of Service"
+}
+}

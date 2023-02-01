@@ -1,0 +1,59 @@
+.property-form {
+  border: none;
+  border-bottom: 2px solid #dba87e;
+  color: #dba87e;
+}
+.property-form:focus {
+  box-shadow: none;
+  border-bottom: 2px solid #dba87e;
+  color: #dba87e;
+}
+.property-form::placeholder {
+  color: #dba87e;
+  opacity: 0.5;
+}
+
+.multi-item {
+  height: 40px;
+  background-color: #796f65;
+  width: 500px;
+  border-radius: 5px;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+.multi-item .multi-card {
+  height: 30px;
+  width: 30px;
+  background-color: #dba87e;
+  margin: 11px 0px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  padding-top: 4px;
+}
+.multi-item .multi-card-text {
+  color: white;
+  margin: 0px 20px;
+}
+.multi-item-active {
+  height: 40px;
+  background-color: #393531;
+  width: 500px;
+  border-radius: 5px;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+.multi-item-active .multi-card {
+  height: 30px;
+  width: 30px;
+  background-color: #dba87e;
+  margin: 11px 0px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  padding-top: 4px;
+}
+.multi-item-active .multi-card-text {
+  color: white;
+  margin: 0px 20px;
+}

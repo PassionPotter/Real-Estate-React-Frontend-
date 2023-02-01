@@ -1,0 +1,340 @@
+{
+    "affiliate": {
+        "INTRODUCING THE DINELI": "介紹 DINELI",
+        "AFFILIATE PROGRAM!": "附屬計劃!",
+        "Become a Real Estate Agent": "成為房地產經紀人",
+        "When you invest in a Dineli property token, you are starting a tokenized real estate portfolio, the easiest way to invest in ownership of property in the United States. You also gain access to our Dineli Affiliate Program!": "當您投資 Dineli 房地產代幣時，您就開始了一個代幣化的房地產投資組合，這是在美國投資房地產所有權的最簡單方法。 您還可以訪問我們的 Dineli 聯盟計劃！",
+        "Dineli Affiliate Program": "Dineli 聯盟計劃",
+        "Investors in any Dineli property on the market get special perks 2% cashback on all Dineli Tokens sold VIP access to events and special promotions Early notification of new property listings": "市場上任何 Dineli 物業的投資者均可獲得特別優惠： 出售所有 Dineli 代幣可獲得 2% 的現金返還 VIP 參加活動和特別促銷活動 提前通知新物業上市",
+        "Anyone who owns just one Dineli Token is invited to join the Affiliate Program. Begin you real estate investment portfolio, and start earning rental payments and referral rewards to your wallet on a daily basis.": "任何只擁有一個 Dineli 代幣的人都會被邀請加入聯盟計劃。 開始您的房地產投資組合，並開始每天賺取租金和推薦獎勵到您的錢包。",
+        "Join the first generation of tokenized real estate professionals today!": "立即加入第一代代幣化的房地產專業人士！",
+        "Become an Affiliate!": "成為加盟商！",
+        "Congratulations!": "恭喜！",
+        "Join the new generation of digital real estate agents and grow your income stream with Dineli referrals.To get started, just sign in or register below!": "加入新一代數字房地產經紀人，通過 Dineli 推薦來增加您的收入來源。要開始，只需在下面登錄或註冊！",
+        "You are now a Dineli Affiliate!": "您現在是 Dineli 的附屬機構！",
+        "You are ready to start earning referral rewards.": "您已準備好開始賺取推薦獎勵。",
+        "Head to your Affiliate Dashboard to get set up!": "前往您的附屬儀表板進行設置！",
+        "AFFILIATE DASHBOARD": "附屬儀表板"
+    },
+    "affiliateDashboard": {
+        "affiliateUrl": {
+            "Affiliate URLs": "附屬網址",
+            "Your affiliate username is": "您的會員用戶名是",
+            "Your referral URL is": "您的推薦網址是",
+            "How Do Referral Links Work?": "推薦鏈接如何工作？",
+            "When you share an affiliate link to RealT, we track the visit and purchases of any user who clicks that link.": "當您分享 RealT 的附屬鏈接時，我們會跟踪點擊該鏈接的任何用戶的訪問和購買。",
+            "If that user buys in the same browser session after following your link, they are counted as your referral, and you earn a": "如果該用戶在點擊您的鏈接後在同一個瀏覽器會話中購買，他們將被視為您的推薦人，您將獲得",
+            "2% commission": "2% 佣金",
+            "on their purchases... and all their purchases going forward!": "關於他們的購買……以及他們未來的所有購買！",
+            "For more information about how long you earn commission on a referred user's purchases, please see Lifetime Customers.": "有關您從推薦用戶的購買中賺取佣金的時間的更多信息，請參閱終身客戶。",
+            "The links above point to our homepage, but you can also create links to any page on RealT.co in": "以上鍊接指向我們的主頁，但您也可以在 RealT.co 中創建指向任何頁面的鏈接",
+            "one of two ways": "兩種方式之一",
+            "Copy the Dineli URL you want to link to, and simply replace": "複製您要鏈接到的 Dineli URL，然後簡單地替換",
+            "with the new URL in your affiliate link. Make sure to keep the": "在您的會員鏈接中使用新 URL。 確保保留",
+            "part — that's how we know the referral is yours!": "部分 - 這就是我們如何知道推薦是您的！",
+            "Copy the Dineli URL you want to link to into our Referral URL Generator below, click 'Generate URL'.": "將您要鏈接到的 Dineli URL 複製到下面的推薦 URL 生成器中，單擊“生成 URL”。",
+            "(For more about Custom Slugs, check out Settings.)": "（有關自定義 Slug 的更多信息，請查看設置。）",
+            "And if you're linking from your own website and don't want to bother with affiliate links at all, you should check out Direct Links!": "如果您是從自己的網站鏈接並且根本不想打擾附屬鏈接，您應該查看直接鏈接！",
+            "Referral URL Generator": "推薦網址生成器",
+            "Enter any URL from this website in the form below to generate a referral link!": "在下面的表格中輸入來自本網站的任何 URL 以生成推薦鏈接！",
+            "Page URL": "網頁網址",
+            "GENERATE URL": "生成網址",
+            "Affiliate User": "附屬用戶",
+            "Affiliated Amount": "附屬金額",
+            "Requesting a Payout": "要求付款",
+            "To request a payout of your accumulated Affiliate earnings, just email us at info@dineli.com! A Dineli representative will respond shortly to finalize your request.": "要請求支付您累積的會員收入，只需發送電子郵件至 info@dineli.com！ Dineli 代表將很快回復以完成您的請求。"
+        }
+    },
+    "blog": {
+        "Blog posts": "博客文章"
+    },
+    "Calculator": {
+        "Savings calculator": "儲蓄計算器",
+        "Starting placement": "開始安置",
+        "Periodic savings": "定期儲蓄",
+        "Duration of placement": "安置時間",
+        "Expected annual rate of return": "預期年回報率",
+        "Total capital": "總資本",
+        "Calculate": "計算",
+        "New Calculation": "新計算",
+        "Three possible options": "三種可能的選擇",
+        "You can": "你可以",
+        "calculate the capital at term that you will have at the end of your savings plan (click on “calculate total capital”.": "計算您在儲蓄計劃結束時將擁有的資本（點擊“計算總資本”.",
+        "But if you know how much capital you will need in X years, you can, knowing how much you can save per month": "但是如果你知道 X 年後你需要多少資本，你就可以，知道你每個月可以節省多少",
+        "or year,": "或年份，",
+        "calculate the initial capital you need, (click on “calculate the initial": "計算您需要的初始資本，（點擊“計算初始資本",
+        "payment“ or, knowing how much you can": "付款“或者，知道您可以支付多少",
+        "save today,": "保存今天，",
+        "calculate the amount of periodic savings you can build.": "計算您可以建立的定期儲蓄金額。",
+        "The main savings products [complete file]": "主要儲蓄產品【完整檔案】"
+    },
+    "Cart": {
+        "CONTINUE SHOPPING": "繼續購物",
+        "Asset": "資產",
+        "Token Price": "代幣價格",
+        "Total Fees": "總費用",
+        "Purchase Price": "購買價格",
+        "Quantity": "數量",
+        "Subtotal": "小計",
+        "Cart Totals": "購物車總數",
+        "Total": "全部的",
+        "PROCEED TO CHECKOUT": "進行結算",
+        "IS THIS ORDER A GIFT?": "這個訂單是禮物嗎？",
+        "Learn More": "學到更多",
+        "To make your order a gift, just check 'This order is a gift' at checkout, then enter the recipient's name, email, and your preferred delivery date. We'll email you a printable certificate to give in person, and we'll email that certificate to the gift recipient on the delivery date, too.": "要使您的訂單成為禮物，只需在結帳時選中“此訂單是禮物”，然後輸入收件人的姓名、電子郵件和您的首選交貨日期。 我們將通過電子郵件向您發送可打印的證書以供當面贈送，並且我們也會在交付日期通過電子郵件將該證書發送給禮品收件人。",
+        "The recipient can follow a simple link or QR code to register and complete ID verification, including registering an Ethereum wallet. When they're done, we'll dispense their gift tokens!": "收件人可以通過一個簡單的鏈接或二維碼來註冊並完成身份驗證，包括註冊一個以太坊錢包。 完成後，我們將分發他們的禮品代幣！",
+        "Note": "筆記",
+        "Tokens may not yet be gifted to minors.": "代幣可能尚未贈送給未成年人。",
+        "Important": "重要的",
+        "Gift recipients who are U.S. citizens or residents must be verified as Accredited Investors before we can dispense their gifts.": "美國公民或居民的禮物接收者必須先被驗證為合格投資者，然後我們才能分發他們的禮物。"
+    },
+    "Checkout": {
+        "Billing Details": "結算明細",
+        "FIRST NAME": "名",
+        "LAST NAME": "姓",
+        "EMAIL ADDRESS": "電子郵件地址",
+        "PHONE": "電話",
+        "Country": "國家",
+        "STREET ADDRESS": "街道地址",
+        "TOWN/CITY": "鎮/市",
+        "POST CODE/ZIP": "郵政編碼/郵政編碼",
+        "Additional Information": "附加信息",
+        "THIS ORDER IS A GIFT": "這份訂單是一份禮物",
+        "ORDER NOTES (OPTIONAL)": "訂購說明（可選）",
+        "Hello Sign": "你好標誌",
+        "YOUR ORDER": "您的訂單",
+        "Product": "產品",
+        "Sub Total": "小計",
+        "TOTAL": "全部的",
+        "PAY WITH CRYPTOCURRENCY": "使用加密貨幣支付",
+        "Pay with cryptocurrency. If you pay in USDC or DAI, you must pay only on the ETHEREUM network!": "使用加密貨幣支付。 如果您使用 USDC 或 DAI 付款，則必須僅在 ETHEREUM 網絡上付款！",
+        "PAY WITH PAYPAL": "PAY WITH PAYPAL",
+        "Your proposal data will be used to process your order, support your experience throughout this website, and for other purposes described in our": "您的提案數據將用於處理您的訂單、支持您在整個網站上的體驗，以及用於我們的",
+        "Privacy Policy": "隱私政策",
+        "I HAVE READ AND AGREE TO THE WEBSITE TEAMS AND CONDITIONS": "我已閱讀並同意網站條款和條件",
+        "PLACE ORDER": "下訂單"
+    },
+    "Cookies": {
+        "why_use_cookies": {
+            "title": "我們為什麼要使用 Cookie？",
+            "content": "以確保網站的正確運行和最佳的用戶體驗。 \n\t\t了解我們網站的訪問者數量和他們瀏覽的頁面。 \n\t\t將社交網絡整合到網站中。 \n \t \t根據您的需要製作廣告。 \n\t\t"
+        },
+        "what_is_cookies": {
+            "title": "什麼是餅乾？",
+            "content": "cookie 是一個簡單的小文件，它與本網站的頁面一起發送，並由您的瀏覽器\n\t\t 保存在您的計算機硬盤中。存儲在其中的信息可以在您下次訪問時發送回我們的服務器。 cookie 是一個 \n\t\t 文件，其中包含一個標識符（一串字母和數字），由網絡服務器發送到網絡瀏覽器並存儲在那裡。 \n\t\t 然後每次瀏覽器從服務器請求一個頁面時，ID 都會被發送回服務器。 Cookies 是存儲在訪問者瀏覽器中的小\n\t\t 條數據。它們通常用於跟踪用戶選擇了哪些設置以及他們在網站上採取了哪些\n\t\t 操作。 \n\t\t\n\t\t cookies不能用來識別人，cookies只能識別一台機器。 Cookies 通常不會\n\t\t 包含允許您識別用戶身份的信息，但我們持有的關於您的個人信息可能與\n\t\t 通過cookies 存儲和獲取的信息相關聯。 \n\t\t"
+        },
+        "use_of_permanent_cookies": {
+            "title": "持久性 cookie 的使用",
+            "content": "借助持久性 cookie，我們可以在您再次訪問我們的網站時識別出您。因此，網站可以\n\t\t根據您的喜好專門定制。即使您已授予放置 cookie 的權限，我們也可以使用 \n\t\t cookie 記住這一點。因此，您不必每次都重複您的偏好，這樣可以節省您的時間並且\n\t\t 使我們的網站更加愉快。持久性 cookie 存儲在網絡瀏覽器中，並在設置的\n\t\t 到期日期之前一直有效，除非用戶在瀏覽器設置中在到期前將其刪除。 \n\t\t"
+        },
+        "use_of_session_cookies": {
+            "title": "會話 cookie 的使用",
+            "content": "當 Web 瀏覽器關閉時，會話 cookie 在用戶會話結束時過期。 它們通常以會話 ID 的 \n\t\t 形式存儲信息，該 ID 不會識別用戶的個人身份。 使用會話 cookie，我們可以\n\t 查看您在訪問期間查看了網站的哪些部分。 這使我們能夠盡可能地使我們的服務適應訪問者在網上沖浪時的\n\t\t 行為。 當您關閉瀏覽器時，這些 cookie 會自動刪除。 \n\t\t"
+        },
+        "google_analytics": {
+            "title": "谷歌分析",
+            "content": "在我們的網站上，cookie 由 Google 放置，作為分析服務的一部分。我們使用此服務來\n\t\t 跟踪和接收有關訪問者如何使用網站的報告。如果 Google 有法律義務這樣做，或者第三方代表 Google 處理信息，Google 可能會向第三方提供這些信息。我們不\n\t\t 影響這一點。我們未授權 Google 將收到的分析信息用於其他 Google 服務。 \n\t\t\n\t\t 谷歌收集的信息盡可能匿名。您的 IP 地址未明確披露。信息\n\t\t 由谷歌在美國的服務器上傳輸和存儲。 Google 聲稱遵守安全港指南，並且是美國商務部安全港計劃的成員。這意味著\n\t\t 有適當級別的保護來處理任何個人數據。 \n\t\t"
+        },
+        "right_to_access": {
+            "title": "訪問和糾正或刪除您的數據的權利",
+            "content": "您有權要求訪問、更正或刪除您的數據。 為防止濫用，我們可能會要求您\n\t\t 充分錶明自己的身份。 在訪問與 cookie 相關的個人數據時，您應該發送 cookie 的副本 \n\t\t。 您可以在瀏覽器設置中找到它們。 \n \t \t \n \t \t 您可以使用我們的隱私聲明中提供的聯繫信息提交您的問題。 \n\t\t"
+        },
+        "the_cookies_we_use": {
+            "title": "我們使用的餅乾",
+            "content": {
+                "dftt": {
+                    "name": "DFTT_END_USER_PREV_BOOTSTRAPPED",
+                    "lifespan": "兩年",
+                    "purpose": "它告訴dineli我們已經為\n\t\t\t\t\t\t這個站點的訪問者創建了一個條目，所以它不需要任何工作並且\n\t\t\t\t\t\t\t 節省啟動時間。 dineli 按功能對這些 \n\t\t\t\t\t\t\t cookie 進行分類。 \n\t\t\t\t\t\t"
+                },
+                "xsrf_token": {
+                    "name": "XSRF_TOKEN",
+                    "lifespan": "會議",
+                    "purpose": "此 cookie 包含一個唯一標識符，它指的是 \n\t\t\t\t\t\t 有關您數據庫中用戶會話的信息。 瀏覽器會在以後的請求中傳遞這個 cookie，服務器知道你是誰。 \n\t\t\t\t\t\n\t\t\t\t\t\t"
+                },
+                "__gads": {
+                    "name": "__gads",
+                    "lifespan": "<2年",
+                    "purpose": "此 cookie 的目的是衡量 \n\t\t\t\t\t 與此域上的廣告的互動，並防止相同的 \n\t\t\t\t 廣告過於頻繁地展示。 如果您在一個 \n\t\t\t\t 站點而不是託管它們的站點，則這些 \n\t\t\t\t cookie 將無法被 Google 讀取。 \t\t\t\t\n\t\t\t\t"
+                },
+                "__hssc": {
+                    "name": "__hssc",
+                    "lifespan": "1年",
+                    "purpose": "此 cookie 跟踪會話。 這用於 \n\t\t\t\t 來確定我們是否應該增加 \n\t\t\t\t __hstc cookie 中的會話號和時間戳。 它\n\t\t\t\t\t 包含域、viewCount（會話中每\n\t\t\t\t\t 頁遞增）和會話開始時間戳。 \n\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "__hssrc": {
+                    "name": "__hssrc",
+                    "lifespan": "會議",
+                    "purpose": "當 HubSpot 更改會話 cookie 時，該 cookie\n\t\t\t\t 也被設置。 我們將它設置為 1 並使用它來\n\t\t\t\t 確定訪問者是否已經重新啟動了他們的瀏覽器。 \n\t\t\t\t 如果我們管理\n\t\t\t\tcookies時這個cookies不存在，我們會假設這是一個新的會話。 \n\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "__hstc": {
+                    "name": "__hstc",
+                    "lifespan": "2年",
+                    "purpose": "用於跟踪訪問者的主要 cookie。 它包含域\n\t\t\t\t、utk（見下文）、開始時間戳（第一次訪問）、\n\t\t\t\t最後一次時間戳（上次訪問）、當前時間戳（這是\n\t\t\t\t訪問），以及會話編號（每個\n\t \t\t \t後續會話遞增）。 \n\t\t\t\t\n\t\t\t\t"
+                },
+                "__utma": {
+                    "name": "__utma",
+                    "lifespan": "1年6個月",
+                    "purpose": "此 cookie 跟踪訪問者 \n\t\t\t\t\t 相對於該 cookie 在站點上的次數、\n\t\t\t\t\t 是他們第一次訪問的時間以及他們最後一次訪問的時間\n\t\t\t\t 處。 Google Analytics 使用來自這個 cookie \n\t\t\t\t 的信息來計算參數，例如 \n\t\t\t\t 購買之前的天數和訪問次數。 \n\t\t\t\t"
+                },
+                "__ga": {
+                    "name": "__ga",
+                    "lifespan": "2年",
+                    "purpose": "客戶 ID 存儲在 Google Analytics cookie\n\t\t\t\t 中。 GA cookie 是在某人第一次\n\t\t\t\t 訪問您的網站時設置的。 Google Analytics 向客戶端 \n\t\t\t\t\t 發送一個 ID 以及每個點擊，以將點擊與用戶相關聯。 \n\t\t\t\t GA cookie 只能存在於設備和\n\t\t\t\t 安裝它的瀏覽器上。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "__utmx": {
+                    "name": "__utmx",
+                    "lifespan": "18個月",
+                    "purpose": "這些 Google Analytics cookie 用於吸引 \n\t\t\t\t\t 用戶嘗試內容。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "hubspotutk": {
+                    "name": "hubspotutk",
+                    "lifespan": "10年",
+                    "purpose": "此 cookie 用於跟踪訪問者的身份。 \n \t \t \t \t 此cookie 在表單提交時傳遞給HubSpot \n \t \t \t \t 並用於聯繫人重複數據刪除。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_fbc": {
+                    "name": "_fbc",
+                    "lifespan": "3個月",
+                    "purpose": "這個 Facebook cookie 僅在用戶 \n\t\t\t\t\t 使用 fbclid url 參數訪問我們的頁面時設置。 它\n\t\t\t\t 將包含點擊的id，它將用於在Facebook 點擊之前跟踪Facebook\n\t\t\t\t 像素事件。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_fbp": {
+                    "name": "_fbp",
+                    "lifespan": "3個月",
+                    "purpose": "Facebook 用於投放一系列廣告\n\t\t\t\t\t 產品，例如來自第三方廣告商的實時競價\n\t\t\t\t。 這個cookie的主要目的是：\n\t\t\t\t 定位/廣告\t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_gcl_au": {
+                    "name": "_gcl_au",
+                    "lifespan": "1個月",
+                    "purpose": "被 Google Adsense 用於在使用其 \n\t\t\t\t 服務的網站上試驗 \n\t\t\t\t\t 的廣告效果。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_gid": {
+                    "name": "_gid",
+                    "lifespan": "1天",
+                    "purpose": "註冊一個唯一標識符，用於生成 \n\t\t\t\t\t 有關訪問者如何使用 \n\t\t\t\t 網站的統計信息。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_hjid": {
+                    "name": "_hjid",
+                    "lifespan": "6個月",
+                    "purpose": "Hotjar cookie：當客戶端\n\t\t\t\t 第一次訪問Hotjar 腳本頁面時設置此cookie。 用於\n\t\t\t\t在瀏覽器中存儲本站唯一的Hotjar用戶ID\n\t\t\t\t。 這確保了在隨後訪問\n\t\t\t\t 同一站點時，行為被分配到\n\t\t\t\t\t 到相同的用戶ID。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "_hjptid": {
+                    "name": "_hjptid",
+                    "lifespan": "會議",
+                    "purpose": "Hotjar cookie：當客戶端\n\t\t\t\t 第一次訪問Hotjar 腳本頁面時設置此cookie。 用於\n\t\t\t\t在瀏覽器中存儲本站唯一的Hotjar用戶ID\n\t\t\t\t。 這確保了在隨後訪問\n\t\t\t\t 同一站點時，行為被分配到\n\t\t\t\t\t 到相同的用戶ID。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "ajs_anonymous_id": {
+                    "name": "ajs_anonymous_id",
+                    "lifespan": "1年",
+                    "purpose": "這些 cookie 通常用於分析和 \n\t\t\t\t 幫助您計算訪問特定 \n\t\t\t\t\t 站點的人數，如果您以前去過那裡。 \n\t\t\t\t 這個 cookie 的生命週期為 1 年。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "ajs_group_id": {
+                    "name": "ajs_group_id",
+                    "lifespan": "1年",
+                    "purpose": "此 Google Analytics cookie 為您提供唯一的組 ID。 \n\t\t\t\t\n\t\t\t\t"
+                },
+                "ajs_user_id": {
+                    "name": "ajs_user_id",
+                    "lifespan": "1年",
+                    "purpose": "此 Google Analytics cookie 為您提供唯一的用戶 ID。 \t\t\t\t\n\t\t\t\t"
+                },
+                "c_user": {
+                    "name": "c_user",
+                    "lifespan": "3個月",
+                    "purpose": "c_user cookie 包含當前登錄的用戶的 ID\n\t\t\t\t。 ...如果“讓我保持登錄\n\t\t\t\t”複選框被選中，cookie 將在 90\n\t\t\t\t 天不活動後過期。 如果保持我登錄\n \t \t \t \t未被選中，則該cookie是會話cookie \n \t \t \t \t並且將在您關閉瀏覽器時被刪除。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "datr": {
+                    "name": "datr",
+                    "lifespan": "1年6個月",
+                    "purpose": "這個cookie的目的是識別網絡瀏覽器，\n\t\t\t\t，用於連接到Facebook，無論用戶是否\n\t\t\t\t登錄。 此 cookie 在 Facebook 的安全性和完整性功能中扮演著重要的\n\t\t\t\t\t 角色。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "fr": {
+                    "name": "fr",
+                    "lifespan": "3個月",
+                    "purpose": "Facebook用於提供一系列廣告\n\t\t\t\t\t產品，例如來自第三方廣告商的實時競價\n\t\t\t\t。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "intercom_session": {
+                    "name": "intercom session",
+                    "lifespan": "6天",
+                    "purpose": "此 cookie 用於提供與用戶更相關的廣告。 目的：瞄準/冒險\t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "laravel_cookie_consent": {
+                    "name": "laravel_cookie_consent",
+                    "lifespan": "20年",
+                    "purpose": "此cookie用於跟踪用戶同意使用cookie\n\t\t\t\t。 \t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "laravel_session": {
+                    "name": "laravel_session",
+                    "lifespan": "會議",
+                    "purpose": "這些cookies用於在\n\t\t\t\t\t存儲/框架/會話中存儲文件會話。 這些文件存儲在\n\t\t\t\t\t 中安全加密的cookies。 \t\t\t\t\t\t\t\t\n\t\t\t\t"
+                },
+                "mp_hj_mixpanel": {
+                    "name": "mp_hj_mixpanel",
+                    "lifespan": "4個月",
+                    "purpose": "此 cookie 用於分析目的。 \t\t\t\n\t\t\t\t"
+                },
+                "optimizelyBuckets": {
+                    "name": "optimizelyBuckets",
+                    "lifespan": "8年",
+                    "purpose": "此 cookie 用於分析目的。 \t\t\t\n\t\t\t\t"
+                }
+            }
+        },
+        "anabling_disabling_cookie": {
+            "title": "啟用和禁用 cookie 並刪除它們",
+            "content": "您可以設置您的互聯網瀏覽器，以便不接受 cookie，當 cookie\n\t\t 被設置時您會收到警告，或者 cookie 隨後會從您的硬盤驅動器中刪除。有關啟用、禁用 \n\t\t 和刪除 cookie 的更多信息，請參閱說明和/或瀏覽器的幫助功能。 \n\t\t\n\t\t 在大多數瀏覽器中，您可以拒絕cookies，也可以刪除現有的cookies。執行此操作的方法因瀏覽器不同而不同\n\t\t 和版本不同。請注意，某些圖形可能無法正確顯示，或者您\n\t\t 可能無法使用某些應用程序。 \n \t \t \n \t \t 您可以通過以下鏈接獲取有關阻止和刪除 cookie 的最新信息：\n \t \t \n \t \t (a) https://support.google。 com / chrome / answer / 95647?hl = en (Chrome); \n\t\t\n\t\t (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox); \n\t\t\n\t\t (c) http://www.opera.com/help/tutorials/security/cookies/ (Opera); \n\t\t\n\t\t (d) https://support.microsoft。 com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies（Internet\n\t\t Explorer）； \n\t\t\n\t\t (e) https://support.apple.com/kb/PH21411 (Safari);和\n\t\t\n\t\t (f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge)。 \n\t\t"
+        },
+        "Cookie Policy": "Cookie 政策",
+        "Save changes": "保存更改",
+        "NAME": "名稱",
+        "LIFESPAN": "壽命",
+        "PURPOSE": "目的"
+    },
+    "detail": {
+        "Total Investment": "總投資額",
+        "TOKEN PRICE": "代幣價格",
+        "Total TOKEN": "總代幣",
+        "TOKEN Available": "代幣可用",
+        "Google Map": "谷歌地圖",
+        "EtherScanID": "EtherScanID",
+        "Property Detail": "物業詳情",
+        "Market Evaluation Details": "市場評估詳情",
+        "Longterm Asset Management": "長期資產管理",
+        "COMING SOON": "即將推出",
+        "PURCHASE TOKEN": "購買代幣",
+        "Purchase limit": "購買限額",
+        "Property Highlights": "物業亮點",
+        "Expected Yield": "預期收益",
+        "Rent Starts from": "租金從",
+        "Yearly Rent Per Token": "每個代幣的年租金",
+        "Token Value": "代幣價值",
+        "Generated Token": "生成的令牌",
+        "Property Type": "財產種類",
+        "Neighborhood": "鄰里",
+        "Square Feet": "平方英尺",
+        "Lot Size": "批量",
+        "Bedroom/Bath": "臥室/浴室",
+        "Construction Year": "建設年份",
+        "Current Status of Property": "財產現狀",
+        "Section 8": "第 8 節",
+        "All details displayer here are best estimates based on current market": "此處顯示的所有詳細信息都是基於當前市場的最佳估計",
+        "conditions, and may change in future.": "條件，並可能在未來發生變化。",
+        "Such type of investments are highly risky which may result in partial or": "此類投資風險高，可能導致部分或",
+        "total loss of your investment": "您的投資全損",
+        "Financials": "金融",
+        "Yearly Gross Rent": "年總租金",
+        "Monthly Gross Rent": "每月總租金",
+        "Monthly Costs": "每月費用",
+        "Property Management (7.00%)": "物業管理 (7.00%)",
+        "Dineli Platform (2.00%)": "Dineli 平台 (2.00%)",
+        "Property Taxes": "財產稅",
+        "Insurance": "保險",
+        "Utilities": "公用事業",
+        "Monthly Net Rent": "每月淨租金",
+        "Yearly Net Rent": "年淨租金",
+        "Underlying Asset Price": "標的資產價格",
+        "Dineli Listing Fee (10%)": "Dineli 上市費 (10%)",
+        "Initial Maintenance Reserve": "初始維護儲備",
+        "Property Reserve Accumulation": "財產儲備積累",
+        "Compound": "化合物"
+    }
+}

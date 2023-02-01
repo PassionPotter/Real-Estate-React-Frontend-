@@ -1,0 +1,887 @@
+{
+    "affiliate": {
+        "INTRODUCING THE DINELI": "介紹 DINELI",
+        "AFFILIATE PROGRAM!": "附屬計劃！",
+        "Become a Real Estate Agent": "成為房地產經紀人",
+        "When you invest in a Dineli property token, you are starting a tokenized real estate portfolio, the easiest way to invest in ownership of property in the United States. You also gain access to our Dineli Affiliate Program!": "當您投資 Dineli 房產代幣時，您就開始了一個代幣化的房地產投資組合，這是在美國投資房產所有權的最簡單方法。您還可以訪問我們的 Dineli 聯盟計劃！",
+        "Dineli Affiliate Program": "Dineli 聯盟計劃",
+        "Investors in any Dineli property on the market get special perks 2% cashback on all Dineli Tokens sold VIP access to events and special promotions Early notification of new property listings": "市場上任何 Dineli 房產的投資者都可以獲得特別優惠： 出售所有 Dineli 代幣的 2% 現金返還 VIP 活動和特別促銷活動 新房產上市的早期通知",
+        "Anyone who owns just one Dineli Token is invited to join the Affiliate Program. Begin you real estate investment portfolio, and start earning rental payments and referral rewards to your wallet on a daily basis.": "任何只擁有一個 Dineli 代幣的人都會被邀請加入聯盟計劃。開始您的房地產投資組合，並開始每天賺取租金和推薦獎勵到您的錢包。",
+        "Join the first generation of tokenized real estate professionals today!": "立即加入第一代代幣化的房地產專業人士！",
+        "Become an Affiliate!": "成為加盟商！",
+        "Congratulations!": "恭喜！",
+        "Join the new generation of digital real estate agents and grow your income stream with Dineli referrals.To get started, just sign in or register below!": "加入新一代數字房地產經紀人，通過 Dineli 推薦來增加您的收入來源。要開始，只需在下面登錄或註冊！",
+        "You are now a Dineli Affiliate!": "您現在是 Dineli 的附屬機構！",
+        "You are ready to start earning referral rewards.": "您已準備好開始賺取推薦獎勵。",
+        "Head to your Affiliate Dashboard to get set up!": "前往您的附屬儀表板進行設置！",
+        "AFFILIATE DASHBOARD": "附屬儀表板"
+    },
+    "affiliateDashboard": {
+        "affiliateUrl": {
+            "Affiliate URLs": "附屬網址",
+            "Your affiliate username is": "您的會員用戶名是",
+            "Your referral URL is": "您的推薦網址是",
+            "How Do Referral Links Work?": "推薦鏈接如何工作？",
+            "When you share an affiliate link to RealT, we track the visit and purchases of any user who clicks that link.": "當您分享 RealT 的附屬鏈接時，我們會跟踪點擊該鏈接的任何用戶的訪問和購買。",
+            "If that user buys in the same browser session after following your link, they are counted as your referral, and you earn a": "如果該用戶在點擊您的鏈接後在同一個瀏覽器會話中購買，他們將被視為您的推薦人，您將獲得",
+            "2% commission": "2% 佣金",
+            "on their purchases... and all their purchases going forward!": "關於他們的購買……以及他們未來的所有購買！",
+            "For more information about how long you earn commission on a referred user's purchases, please see Lifetime Customers.": "有關您從推薦用戶的購買中賺取佣金的時間的更多信息，請參閱終身客戶。",
+            "The links above point to our homepage, but you can also create links to any page on RealT.co in": "以上鍊接指向我們的主頁，但您也可以在 RealT.co 中創建指向任何頁面的鏈接",
+            "one of two ways": "兩種方式之一",
+            "Copy the Dineli URL you want to link to, and simply replace": "複製您要鏈接到的 Dineli URL，然後簡單地替換",
+            "with the new URL in your affiliate link. Make sure to keep the": "在您的會員鏈接中使用新 URL。確保保留",
+            "part — that's how we know the referral is yours!": "部分 - 這就是我們如何知道推薦是您的！",
+            "Copy the Dineli URL you want to link to into our Referral URL Generator below, click 'Generate URL'.": "將您要鏈接到的 Dineli URL 複製到下面的推薦 URL 生成器中，單擊“生成 URL”。",
+            "(For more about Custom Slugs, check out Settings.)": "（有關自定義 Slug 的更多信息，請查看設置。）",
+            "And if you're linking from your own website and don't want to bother with affiliate links at all, you should check out Direct Links!": "如果您是從自己的網站鏈接並且根本不想打擾附屬鏈接，您應該查看直接鏈接！",
+            "Referral URL Generator": "推薦網址生成器",
+            "Enter any URL from this website in the form below to generate a referral link!": "在下面的表格中輸入來自本網站的任何 URL 以生成推薦鏈接！",
+            "Page URL": "網頁網址",
+            "GENERATE URL": "生成網址",
+            "Affiliate User": "附屬用戶",
+            "Affiliated Amount": "附屬金額",
+            "Requesting a Payout": "要求付款",
+            "REQUEST PAYMENT": "請求付款",
+            "To request a payout of your accumulated Affiliate earnings, just email us at info@dineli.com! A Dineli representative will respond shortly to finalize your request.": "要請求支付您累積的會員收入，只需發送電子郵件至 info@dineli.com！ Dineli 代表將很快回復以完成您的請求。"
+        }
+    },
+    "blog": {
+        "Blog posts": "博客文章"
+    },
+    "Calculator": {
+        "Savings calculator": "儲蓄計算器",
+        "Starting placement": "開始安置",
+        "Periodic savings": "定期儲蓄",
+        "Duration of placement": "安置時間",
+        "Expected annual rate of return": "預期年回報率",
+        "Total capital": "總資本",
+        "Calculate": "計算",
+        "New Calculation": "新計算",
+        "Three possible options": "三種可能的選擇",
+        "You can": "你可以",
+        "calculate the capital at term that you will have at the end of your savings plan (click on “calculate total capital”.": "計算您在儲蓄計劃結束時將擁有的資本（點擊“計算總資本”。",
+        "But if you know how much capital you will need in X years, you can, knowing how much you can save per month": "但是如果你知道 X 年後你需要多少資本，你就可以，知道你每個月可以節省多少",
+        "or year,": "或年份，",
+        "calculate the initial capital you need, (click on “calculate the initial": "計算您需要的初始資本，（點擊“計算初始資本",
+        "payment“ or, knowing how much you can": "付款“或者，知道您可以支付多少",
+        "save today,": "保存今天，",
+        "calculate the amount of periodic savings you can build.": "計算您可以建立的定期儲蓄金額。",
+        "The main savings products [complete file]": "主要儲蓄產品【完整檔案】"
+    },
+    "Cart": {
+        "CONTINUE SHOPPING": "繼續購物",
+        "Asset": "資產",
+        "Token Price": "代幣價格",
+        "Total Fees": "總費用",
+        "Purchase Price": "購買價格",
+        "Quantity": "數量",
+        "Subtotal": "小計",
+        "Cart Totals": "購物車總數",
+        "Total": "全部的",
+        "PROCEED TO CHECKOUT": "進行結算",
+        "IS THIS ORDER A GIFT?": "這個訂單是禮物嗎？",
+        "Learn More": "了解更多",
+        "To make your order a gift, just check 'This order is a gift' at checkout, then enter the recipient's name, email, and your preferred delivery date. We'll email you a printable certificate to give in person, and we'll email that certificate to the gift recipient on the delivery date, too.": "要使您的訂單成為禮物，只需在結帳時選中“此訂單是禮物”，然後輸入收件人的姓名、電子郵件和您的首選交貨日期。我們將通過電子郵件向您發送可打印的證書以供當面贈送，並且我們也會在交付日期通過電子郵件將該證書發送給禮品收件人。",
+        "The recipient can follow a simple link or QR code to register and complete ID verification, including registering an Ethereum wallet. When they're done, we'll dispense their gift tokens!": "收件人可以通過一個簡單的鏈接或二維碼來註冊並完成身份驗證，包括註冊一個以太坊錢包。完成後，我們將分發他們的禮品代幣！",
+        "Note": "筆記",
+        "Tokens may not yet be gifted to minors.": "代幣可能尚未贈送給未成年人。",
+        "Important": "重要的",
+        "Coupon Discount": "優惠券折扣",
+        "If you have a coupon code, please use coupon code... you can discount token prices.": "如果您有優惠券代碼，請使用優惠券代碼...您可以打折代幣價格。",
+        "Gift recipients who are U.S. citizens or residents must be verified as Accredited Investors before we can dispense their gifts.": "美國公民或居民的禮物接收者必須先被驗證為合格投資者，然後我們才能分發他們的禮物。"
+    },
+    "Checkout": {
+        "Billing Details": "結算明細",
+        "FIRST NAME": "名",
+        "LAST NAME": "姓",
+        "EMAIL ADDRESS": "電子郵件地址",
+        "PHONE": "電話",
+        "Country": "國家",
+        "STREET ADDRESS": "街道地址",
+        "TOWN/CITY": "鎮/市",
+        "POST CODE/ZIP": "郵政編碼/郵政編碼",
+        "Additional Information": "附加信息",
+        "THIS ORDER IS A GIFT": "這份訂單是一份禮物",
+        "ORDER NOTES (OPTIONAL)": "訂購說明（可選）",
+        "Hello Sign": "你好標誌",
+        "YOUR ORDER": "您的訂單",
+        "Product": "產品",
+        "Sub Total": "小計",
+        "TOTAL": "全部的",
+        "PAY WITH CRYPTOCURRENCY": "使用加密貨幣支付",
+        "Pay with cryptocurrency. If you pay in USDC or DAI, you must pay only on the ETHEREUM network!": "使用加密貨幣支付。如果您使用 USDC 或 DAI 付款，則必須僅在 ETHEREUM 網絡上付款！",
+        "PAY WITH PAYPAL": "用貝寶支付",
+        "Your proposal data will be used to process your order, support your experience throughout this website, and for other purposes described in our": "您的提案數據將用於處理您的訂單、支持您在整個網站上的體驗，以及用於我們的",
+        "Privacy Policy": "隱私政策",
+        "I HAVE READ AND AGREE TO THE WEBSITE TEAMS AND CONDITIONS": "我已閱讀並同意網站團隊和條件",
+        "PLACE ORDER": "下訂單"
+    },
+    "Cookies": {
+        "info": {
+            "why_use_cookies": {
+                "title": "我們為什麼要使用 Cookie？",
+                "content": "確保網站正常運行並確保您擁有最佳的用戶體驗。\n 了解我們網站的訪問者數量和他們查看的頁面。\n 使在網站上集成社交媒體成為可能。\n 生成適合您需求的廣告。"
+            },
+            "what_is_cookies": {
+                "title": "什麼是餅乾？",
+                "content": "cookie 是一個簡單的小文件，它與本網站的頁面一起發送並由瀏覽器存儲在您的計算機上\n 硬盤。存儲在其中的信息可以在後續訪問時發送回我們的服務器。 cookie 是一個文件\n 包含由 Web 服務器發送到 Web 瀏覽器並由瀏覽器存儲的 ID（一串字母和數字）。\n 每次瀏覽器從服務器請求頁面時，標識符就會被發送回服務器。餅乾很小\n 存儲在訪問者瀏覽器中的數據片段。它們通常用於跟踪用戶選擇了哪些設置以及\n 他們在網站上採取的行動。\n \n cookie 不能用於識別個人，cookie 只能識別機器。 Cookies 通常不包含任何\n 個人識別用戶的信息，但我們存儲的有關您的個人信息可能與\n 通過 cookie 存儲和獲取的信息。"
+            },
+            "use_of_permanent_cookies": {
+                "title": "永久cookies的使用",
+                "content": "借助永久性 cookie，我們可以在您再次訪問我們的網站時識別出您。因此該網站可以\n 專門設置為您的喜好。即使您已授予放置 cookie 的權限，我們也可以通過以下方式記住這一點\n cookie 的意思。因此，您不必每次都重複您的偏好，從而節省您的時間並允許\n 您可以更愉快地使用我們的網站。持久性 cookie 由網絡瀏覽器存儲，並在設置之前一直有效\n 到期日，除非用戶在到期日之前通過瀏覽器設置刪除。"
+            },
+            "use_of_session_cookies": {
+                "title": "會話 cookie 的使用",
+                "content": "當 Web 瀏覽器關閉時，會話 cookie 在用戶會話結束時過期。他們通常將信息存儲在\n 不識別用戶個人身份的會話標識符的形式。在會話 cookie 的幫助下，我們可以看到\n 您在此次訪問期間瀏覽了網站的哪些部分。這使我們能夠盡可能地使我們的服務適應\n 我們訪客的瀏覽行為。當您關閉網絡瀏覽器時，這些 cookie 會自動刪除。"
+            },
+            "google_analytics": {
+                "title": "谷歌分析",
+                "content": "通過我們的網站，Google 公司會放置一個 cookie，作為“分析”服務的一部分。我們使用這項服務來\n 跟踪並獲取有關訪問者如何使用網站的報告。如果出現以下情況，Google 可能會將這些信息提供給第三方\n 谷歌有法律義務這樣做，或者在第三方代表谷歌處理信息的情況下。我們沒有\n 對此的影響。我們不允許谷歌將獲得的分析信息用於其他谷歌服務。\n \n Google 收集的信息已盡可能匿名。您的 IP 地址沒有明確給出。這\n 信息被轉移到谷歌並由谷歌存儲在美國的服務器上。谷歌聲稱遵守安全\n Harbour 原則並隸屬於美國商務部的安全港計劃。這意味著\n 對任何個人數據的處理都有適當的保護級別。"
+            },
+            "right_to_access": {
+                "title": "訪問和更正或刪除您的數據的權利",
+                "content": "您有權要求訪問和更正或刪除您的數據。為了防止濫用，我們可能會要求您\n 以充分識別自己。在訪問鏈接到 cookie 的個人數據時，您必鬚髮送一份\n 有問題的餅乾。您可以在瀏覽器的設置中找到這些。\n \n 您可以使用我們的隱私聲明中的聯繫方式發送您的問題。"
+            },
+            "the_cookies_we_use": {
+                "title": "我們使用的餅乾",
+                "content": {
+                    "dftt": {
+                        "name": "DFTT_END_USER_PREV_BOOTSTRAPPED",
+                        "lifespan": "兩年",
+                        "purpose": "它告訴 dineli 我們已經為\n 這個網站的訪問者所以它不需要任何工作，它\n 為我們節省了一些加載時間。 dineli 對這些進行分類\n 功能類型的 cookie。"
+                    },
+                    "xsrf_token": {
+                        "name": "XSRF_TOKEN",
+                        "lifespan": "會議",
+                        "purpose": "此 cookie 包含一個唯一的 ID，該 ID 鏈接到\n 數據庫中用戶的會話信息。瀏覽器會在以後的請求中傳送這個 cookie，服務器知道你是誰。"
+                    },
+                    "__gads": {
+                        "name": "__年",
+                        "lifespan": "< 2 年",
+                        "purpose": "此 cookie 的目的是衡量交互\n 與該域上的廣告並防止相同\n 向您展示的廣告過於頻繁。這些\n 當您在使用時，Google 無法讀取 cookie\n 放置它們的站點以外的站點。"
+                    },
+                    "__hssc": {
+                        "name": "__hssc",
+                        "lifespan": "1年",
+                        "purpose": "此 cookie 會跟踪會話。這是用\n 確定我們是否應該增加會話\n __hstc cookie 中的數字和時間戳。它\n 包含域，viewCount（每增加一個\n 會話中的頁面）和會話開始時間戳。"
+                    },
+                    "__hssrc": {
+                        "name": "__hssrc",
+                        "lifespan": "會議",
+                        "purpose": "當 HubSpot 更改會話 cookie 時，這\n cookie 也已設置。我們將其設置為 1 並將其用於\n 確定訪問者是否重新啟動了瀏覽器。\n 如果我們管理時這個cookie不存在\n cookie，我們將假設它是一個新會話。"
+                    },
+                    "__hstc": {
+                        "name": "__hstc",
+                        "lifespan": "2年",
+                        "purpose": "用於訪問者跟踪的主要 cookie。它包含\n 域、utk（見下文）、初始時間戳（第一次訪問）、\n 上次時間戳（上次訪問），當前時間戳（此\n 訪問）和會話編號（每次遞增\n 後續會話）。"
+                    },
+                    "__utma": {
+                        "name": "__utma",
+                        "lifespan": "1年6個月",
+                        "purpose": "此 cookie 會記錄訪問者的訪問次數\n 訪問過與 cookie 相關的網站，當\n 他們第一次訪問是在他們最後一次訪問時\n 地方。 Google Analytics 使用來自\n 此 cookie 用於計算諸如天數和訪問次數之類的內容\n 買。"
+                    },
+                    "__ga": {
+                        "name": "__ga",
+                        "lifespan": "2年",
+                        "purpose": "客戶 ID 存儲在 Google Analytics（分析）中\n 曲奇餅。 GA cookie 是在一個人第一次\n 訪問您的網站。谷歌分析發送客戶端\n ID 以及每個點擊以將點擊與用戶相關聯。\n GA cookie 只能存在於設備上並且\n 瀏覽器設置的地方。"
+                    },
+                    "__utmx": {
+                        "name": "__utmx",
+                        "lifespan": "18個月",
+                        "purpose": "這些 Google Analytics cookie 用於參與\n 內容實驗中的用戶。"
+                    },
+                    "hubspotutk": {
+                        "name": "集線器",
+                        "lifespan": "10年",
+                        "purpose": "此 cookie 用於跟踪訪問者的身份。\n 這個cookie在提交時傳遞給HubSpot\n 形成並在對聯繫人進行重複數據刪除時使用。"
+                    },
+                    "_fbc": {
+                        "name": "_fbc",
+                        "lifespan": "3個月",
+                        "purpose": "此 Facebook cookie 僅在用戶有\n 使用 fbclid URL 參數登陸我們的頁面。它\n 將包含用於跟踪 Facebook 的點擊 ID\n 像素事件回到 Facebook 點擊。"
+                    },
+                    "_fbp": {
+                        "name": "_fbp",
+                        "lifespan": "3個月",
+                        "purpose": "被 Facebook 用來投放一系列廣告\n 產品，例如來自第三方的實時競價\n 廣告商。這個cookie的主要目的是：\n 定位/廣告"
+                    },
+                    "_gcl_au": {
+                        "name": "_gcl_au",
+                        "lifespan": "1個月",
+                        "purpose": "由 Google AdSense 用於試驗\n 使用他們的網站的廣告效率\n 服務。"
+                    },
+                    "_gid": {
+                        "name": "_gid",
+                        "lifespan": "1天",
+                        "purpose": "註冊用於生成的唯一 ID\n 關於訪問者如何使用的統計數據\n 網站。"
+                    },
+                    "_hjid": {
+                        "name": "_hjid",
+                        "lifespan": "6個月",
+                        "purpose": "Hotjar cookie：這個cookie是在客戶\n 首先使用 Hotjar 腳本登陸頁面。它被使用\n 維護該站點唯一的 Hotjar 用戶 ID\n 瀏覽器。這確保行為是\n 在隨後的訪問中歸因於相同的用戶 ID\n 同一個網站。"
+                    },
+                    "_hjptid": {
+                        "name": "_hjptid",
+                        "lifespan": "會議",
+                        "purpose": "Hotjar cookie：這個cookie是在客戶\n 首先使用 Hotjar 腳本登陸頁面。它被使用\n 維護該站點唯一的 Hotjar 用戶 ID\n 瀏覽器。這確保行為是\n 在後續訪問中歸因於相同的用戶 ID\n 到同一個網站。"
+                    },
+                    "ajs_anonymous_id": {
+                        "name": "ajs_anonymous_id",
+                        "lifespan": "1年",
+                        "purpose": "這些 cookie 通常用於分析和\n 幫助計算訪問特定地點的人數\n 通過跟踪您以前是否去過那裡來訪問站點。\n 此 cookie 的使用壽命為 1 年。"
+                    },
+                    "ajs_group_id": {
+                        "name": "ajs_group_id",
+                        "lifespan": "1年",
+                        "purpose": "此分析 cookie 為您提供唯一的組 ID。"
+                    },
+                    "ajs_user_id": {
+                        "name": "ajs_user_id",
+                        "lifespan": "1年",
+                        "purpose": "此分析 cookie 為您提供唯一的用戶 ID。"
+                    },
+                    "c_user": {
+                        "name": "c_user",
+                        "lifespan": "3個月",
+                        "purpose": "c_user cookie 包含用戶的用戶 ID\n 當前登錄的用戶。 … 如果“讓我保持登錄狀態”\n in' 複選框被設置，cookie 將在 90 後過期\n 不活動的日子。如果“讓我保持登錄狀態”\n 複選框未設置，cookie 是會話 cookie\n 並且會在瀏覽器關閉時被刪除。"
+                    },
+                    "datr": {
+                        "name": "數據",
+                        "lifespan": "1年6個月",
+                        "purpose": "此 cookie 的目的是識別網絡\n 用於連接到 Facebook 的瀏覽器，無論\n 登錄的用戶。這個 cookie 很重要\n 在 Facebook 的安全性和完整性功能中的作用。"
+                    },
+                    "fr": {
+                        "name": "fr",
+                        "lifespan": "3個月",
+                        "purpose": "被 Facebook 用來投放一系列廣告\n 產品，例如來自第三方的實時競價\n 廣告商。"
+                    },
+                    "intercom_session": {
+                        "name": "對講會話",
+                        "lifespan": "6天",
+                        "purpose": "此 cookie 用於向用戶顯示更相關的信息\n 廣告。目的：瞄準/冒險"
+                    },
+                    "laravel_cookie_consent": {
+                        "name": "laravel_cookie_consent",
+                        "lifespan": "20年",
+                        "purpose": "此 cookie 用於跟踪用戶對\n 餅乾。"
+                    },
+                    "laravel_session": {
+                        "name": "laravel_session",
+                        "lifespan": "會議",
+                        "purpose": "這些 cookie 用於將文件會話存儲在\n 存儲/框架/會話。這些文件被存儲\n 在安全的加密 cookie 中。"
+                    },
+                    "mp_hj_mixpanel": {
+                        "name": "mp_hj_mixpanel",
+                        "lifespan": "4個月",
+                        "purpose": "此 cookie 用於應用分析。"
+                    },
+                    "optimizelyBuckets": {
+                        "name": "優化桶",
+                        "lifespan": "8年",
+                        "purpose": "此 cookie 用於應用分析。"
+                    }
+                }
+            },
+            "anabling_disabling_cookie": {
+                "title": "啟用和禁用 cookie 及其刪除",
+                "content": "您可以將您的互聯網瀏覽器設置為不接受 cookie，當 cookie 出現時您會收到警告\n 已安裝或隨後從您的硬盤驅動器中刪除 cookie。有關啟用、禁用的更多信息\n 可以在說明和/或使用瀏覽器的幫助功能中找到刪除 cookie 的方法。\n \n 在大多數瀏覽器中，您可以拒絕 cookie 並刪除現有的 cookie。執行此操作的方法因瀏覽器而異\n 瀏覽器和版本。請記住，某些圖形元素可能無法正確顯示，或者您不會\n 能夠使用某些應用程序。\n \n 您可以通過以下鏈接獲取有關阻止和刪除 cookie 的最新信息：\n \n (a) https://support.google.com/chrome/answer/95647?hl=en (Chrome)；\n \n (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox)；\n \n (c) http://www.opera.com/help/tutorials/security/cookies/（歌劇）；\n \n (d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies（互聯網\n 探險家）；\n \n (e) https://support.apple.com/kb/PH21411 (Safari)；和\n \n (f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy（邊緣）。"
+            }
+        },
+        "Cookie Policy": "Cookie 政策",
+        "Save changes": "保存更改",
+        "NAME": "姓名",
+        "LIFESPAN": "壽命",
+        "PURPOSE": "目的"
+    },
+    "detail": {
+        "Total Investment": "總投資額",
+        "TOKEN PRICE": "代幣價格",
+        "Total TOKEN": "總代幣",
+        "TOKEN Available": "代幣可用",
+        "Google Map": "谷歌地圖",
+        "EtherScanID": "以太網掃描ID",
+        "Property Detail": "物業詳情",
+        "Market Evaluation Details": "市場評估詳情",
+        "Longterm Asset Management": "長期資產管理",
+        "COMING SOON": "即將推出",
+        "PURCHASE TOKEN": "購買代幣",
+        "Purchase limit": "購買限額",
+        "Property Highlights": "物業亮點",
+        "Expected Yield": "預期收益",
+        "Rent Starts from": "租金從",
+        "Yearly Rent Per Token": "每個代幣的年租金",
+        "Token Value": "代幣價值",
+        "Generated Token": "生成的令牌",
+        "Property Type": "財產種類",
+        "Neighborhood": "鄰里",
+        "Square Feet": "平方英尺",
+        "Lot Size": "批量",
+        "Bedroom/Bath": "臥室/浴室",
+        "Construction Year": "建設年份",
+        "Current Status of Property": "財產現狀",
+        "Section 8": "第 8 節",
+        "All details displayer here are best estimates based on current market": "此處顯示的所有詳細信息都是基於當前市場的最佳估計",
+        "conditions, and may change in future.": "條件，並可能在未來發生變化。",
+        "Such type of investments are highly risky which may result in partial or": "此類投資風險高，可能導致部分或",
+        "total loss of your investment": "您的投資全損",
+        "Financials": "金融",
+        "Yearly Gross Rent": "年總租金",
+        "Monthly Gross Rent": "每月總租金",
+        "Monthly Costs": "每月費用",
+        "Property Management (7.00%)": "物業管理 (7.00%)",
+        "Dineli Platform (2.00%)": "Dineli 平台 (2.00%)",
+        "Property Taxes": "財產稅",
+        "Insurance": "保險",
+        "Utilities": "公用事業",
+        "Monthly Net Rent": "每月淨租金",
+        "Yearly Net Rent": "年淨租金",
+        "Underlying Asset Price": "標的資產價格",
+        "Dineli Listing Fee (10%)": "Dineli 上市費 (10%)",
+        "Initial Maintenance Reserve": "初始維護儲備",
+        "Property Reserve Accumulation": "財產儲備積累",
+        "Compound": "化合物"
+    },
+    "faqs": {
+        "What is a blockchain?": "什麼是區塊鏈？",
+        "What is a token? What is ‘tokenization’?": "什麼是令牌？什麼是“代幣化”？",
+        "What are the benefits of tokenized real estate?": "代幣化房地產有什麼好處？",
+        "How are properties chosen for inventory?": "如何為庫存選擇屬性？",
+        "Who holds the deed to the house?": "誰持有房屋的契約？",
+        "How do we ensure each LLC owns the deed on its property?": "我們如何確保每個有限責任公司都擁有其財產的契約？",
+        "Who manages the properties?": "誰管理財產？",
+        "What happens if the tenant does not pay rent?": "如果租戶不支付租金會怎樣？",
+        "How much do I need to invest?": "我需要投資多少？",
+        "What can I do with my Tokens?": "我可以用我的代幣做什麼？",
+        "content": "比特幣和以太坊等加密貨幣由一種稱為區塊鏈的技術提供支持。最基本的，區塊鍊是任何人都可以查看和驗證的交易列表。例如，比特幣區塊鏈包含每次有人發送或接收比特幣的記錄。加密貨幣和為其提供動力的區塊鏈技術使得無需像 a 一樣的中間人即可在線轉移價值成為可能。這意味著它們的準確性不斷得到大量計算能力的驗證。區塊鏈中包含的交易列表對於大多數加密貨幣來說是基礎，因為它可以在互不認識的人之間進行安全支付，而無需通過銀行等第三方驗證機構。由於這些網絡的加密性質，通過區塊鏈進行支付可能比標準借記卡/信用卡交易更安全。例如，在進行比特幣支付時，您無需提供任何敏感信息。這意味著您的財務信息被洩露或您的身份被盜的風險幾乎為零。區塊鏈技術也令人興奮，因為它除了加密貨幣之外還有許多用途。區塊鏈正被用於探索醫學研究、提高醫療記錄的準確性、簡化供應鍊等等。區塊鏈有哪些優勢？它們是全球性的：這意味著加密貨幣可以快速、廉價地發送到整個地球。它們增加了隱私：加密貨幣支付不需要您提供您的個人信息，這可以保護您免遭黑客攻擊或身份被盜。它們是開放的：因為加密貨幣網絡上的每一筆交易都以區塊鏈的形式公開發布，任何人都可以對其進行審查。這為操縱交易、改變貨幣供應或在遊戲中期調整規則留下了空間。構成這些貨幣核心的軟件是免費和開源的，因此任何人都可以查看代碼。區塊鍊是如何運作的？想像一條可能用於船錨的鏈條。但在這種情況下，鏈上的每一個環節都是一塊包含交易數據的信息。在鏈的頂部，您會看到今天發生的事情，並且當您"
+    },
+    "faqsNew": {
+        "New": {
+            "mainTitle": "這些是 dineli 使用的一般準則。 為可能會偏離這些問題的每個財產製定了信息說明和 \n \t 一般條款和條件。 如有疑問，\n \t 屬性的文檔始終適用。\n \t \n \t 您的問題未列出嗎？ 請隨時發送電子郵件至 info@dineli.com ，\n \t 我們將很樂意為您提供幫助。 測試一下",
+            "thirdHeadingSubTitle": "有關風險的完整和正確概述，請參閱我們的一般條款和條件以及 \n \t \t 投資者信息說明。",
+            "_first_heading": "實際問題",
+            "_practical_questions": {
+                "column_1": {
+                    "_1_column_1": "##如果發生重大費用或維修怎麼辦？##\n 維修由物業的獨立經理\n 監控。 工程費用最終\n從租金收入中扣除。",
+                    "_2_column_1": "##如果物業沒有出租怎麼辦？##\n 那麼經理會盡一切可能盡快讓\n物業收回出租。 \n 獨立經紀人將尋找租戶。 只要\n房產沒有出租出去，作為代幣持有者你就不會\n獲得任何收入",
+                    "_3_column_1": "##作為投資者，我會收到哪些信息？##\n dineli 確保代幣持有者了解以下信息，\n 其中包括：\n \t \t \t \t \n * 來自經理的信息 , 如\n 租賃合同的變化、維修……；\n \t \t \t \t \n * 房地產的相關信息；\n \t \t \t \t \n * 可能的變化 該平台; 和\n \t \t \t \t \n * 會議邀請，包括特別\n 代幣持有人大會。",
+                    "_4_column_1": "##我可以購買多少個dineli？##\n投資金額或數量沒有限制。 \n 加油！"
+                },
+                "column_2": {
+                    "_1_column_2": "##如果我想賣掉我的dineli怎麼辦？##\n這完全有可能！ 你可以把你的 Dineli 賣給 \n 任何你想要的人。 這可以是給朋友或家人，也可以是\n 給該物業的其他投資者。 目前，只有比利時人可以銷售。 這將在\n 未來擴展。",
+                    "_2_column_2": "##何時決定將房產賣回？##每個房產都有固定的結束日期。 每 5 年\n 我們組織一次所有代幣持有者的投票。 然後可以以 80% 的多數決定提前出售該房產。",
+                    "_3_column_2": "##如果有小成本或維修怎麼辦？##這些是由獨立管家進行的，他們\n協商出最優惠的價格。 \n 工程的費用從租金收入中扣除。",
+                    "_4_column_2": "##我在哪裡可以追踪我的投資？ ##您可以通過“我的\n 投資組合”按鈕輕鬆跟踪您的投資。 在每個建築物的細節上，您都會找到\n 有關該建築物開發的更多信息。"
+                }
+            },
+            "_second_heading": "稅務問題",
+            "_tax_questions": {
+                "column_1": {
+                    "_1_column_1": "##我的 Dineli 收入需要納稅嗎？##\n \n \t \t \t 從財政的角度來看，你的 Dineli \n \t \t \t 的收入由 2 個部分組成。 一個“還款部分”\n \t \t \t 和一個“利息”部分。 在利息部分 \n \t \t \t 你支付包含 dineli 的預扣稅，\n \t \t \t 為你轉移它。 作為個人，您不必\n \t \t \t 進一步表明這一點。",
+                    "_2_column_1": "##租金收入何時支付？##\n \t \n您可以在\n每個物業的信息說明中找到支付時間，您可以在物業詳情頁面查閱。 原則上，支付 6 個月的租金收入。"
+                },
+                "column_2": {
+                    "_3_column_2": "##我實際會收到多少租金收入？## <div><br></div><div><br></div><div><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">每 6 個月，經理將傳達一份報告，其中包含 </span></div><div><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">收到的租金收入和成本概覽。 差額由業主支付。</span><br></div>"
+                }
+            },
+            "third_heading": "Dineli 周圍的風險",
+            "_risk_questions": {
+                "column_1": {
+                    "_1_column_1": "##與回報和附加值相關的風險##\n \n 如果沒有租金收入，您作為投資者將不會獲得任何\n回報。 如果租金收入低於\n 預期，作為投資者，您將獲得較低的回報。\n 如果該物業最終被出售，其價格可能會低於\n 原始購買價值。",
+                    "_2_column_1": "##破產風險##\n \t \n 由於發行人破產，代幣持有人可能無法收回\n 他們有權獲得的金額。",
+                    "_3_column_1": "##與dineli 的流動性和價值相關的風險。##\n \t \n dineli 不組織市場來在它們之間交易dineli \n。 您當然可以隨時將自己推銷給熟人或通過論壇。 這限制了\n 流動性。\n \t \t \t \n 最終，該財產總是被售回，因此您可以收回\n 部分的銷售價值。"
+                },
+                "column_2": {
+                    "_1_column_2": "##與經濟危機相關的風險。##\n \n 在經濟或健康危機期間，拖欠租金或空置的風險通常會增加\n。",
+                    "_2_column_2": "<span style=\"color:#03ffa4 !important\">與金融監管\n \t \t \t 或監管職位變化相關的風險</span>\n \t \t \t \n dineli 的發布可能會受到\n 更嚴格或修改的規定的約束，或者\n 主管監管部門將修改其在這方面的立場\n。 在這種情況下，dineli 可能會產生成本來遵守，這可能會影響收入。",
+                    "_3_column_2": "##房地產風險##\n \t \n 房地產隨著歲月的流逝而過時。 因此，\n 可能需要額外的投資，\n 如有必要，將從租金收入中收回\n。\n \t \t \t \n 其他風險可能包括但不限於， 土壤\n 污染、徵用、石棉、自然\n 災害、戰爭、恐怖、其他災難和未發現的\n 火災或其他保險公司的損害或費用。\n \t \t \t \n 然而，徹底的盡職調查是 在\n 購買該物業之前進行以避免這些事情。"
+                }
+            },
+            "_fourth_heading": "法律問題",
+            "_legal_questions": {
+                "column_1": {
+                    "_1_column_1": "##代幣持有者之間有區別嗎？##\n \n 提供的 dineli 具有相同的等級（ pari passu ）。 ",
+                    "_2_column_1": "##銷售結果是如何計算的？##\n \t \n 在平倉中，\n 一方面的區別：\n \t \t \t \n 1. 轉入收益 房地產；\n 2. 任何尚未支付的租金收入； 和\n 3. 出售發行人其他\n 資產的收益；否則：\n \t \t \t \n 1. 與轉讓\n 財產相關的合理費用，包括慣常的經紀費 \n 發行人可能產生的任何其他費用。 \n 這些費用是在\n 房地產轉讓時任命的經紀人工資的基礎上按 3.0% 計算的\n;<div>\n 2. 為房地產利益而訂立的銀行貸款的合理成本、利息、費用和資本\n 償還（如有）；</div><div>\n 3. 所有稅費，只要是由於\n 房地產轉讓或設立\n 操作而產生的；</div><div>\n 4、發行人實收股本；</div><div>\n 5. 其他債務和貿易債務，除\n代幣持有人的賬面債權；</div><div>\n 6. 允許支付發行人所欠的與 Dineli ERC 20 代幣 \n 和房地產有關的企業收入\n 稅和其他可能的稅費和徵稅； 和\n <br></div><div>7. 任何其他尚未收取的合理費用；</div>",
+                    "_3_column_1": "##誰監督 dineli？##\n \t \n \t \t \t dineli 不是受監管或許可的公司。\n \t \t \t 儘管如此，FSMA 將在 \n \t \t \t 以保證對投資者\n \t \t \t 有足夠程度的保護。還建議投資者\n \t \t \t 不會或不能在\n \t 提供投資建議 \t \t 與發行或購買 \n \t \t \t 提供的 Dineli ERC 20 代幣有關。",
+                    "_4_column_1": "##什麼是合法的dineli？##\n \t \n 提供的dineli（全稱是Dineli ERC 20 代幣）是\n“代幣化”的債務工具，包含\n 收入、收益和實現價值的權利發行時確定的不動產。 Dineli ERC \n 20 代幣不是債券：回報不是固定的，只有在有足夠的（出租）收入時才能\n 支付。 \n 也沒有任何到期的資本保證。 \n 代幣持有人將在轉讓房地產時獲得補償，\n 僅根據他們在銷售中的份額\n 價格。\n \t \t \t \n 提供的 Dineli ERC 20 代幣是通過創建的DLT。\n 特別是，每筆帶有提供的 Immo \n 代幣的交易都會在 Chromia 區塊鏈上形成一個區塊，\n 提供的 Dineli ERC 20 代幣可以在這個區塊鏈上進行交易。\n \t \t \t \n 提供的 Dineli ERC 20 代幣受\n 發行條件中規定的\n 各自權利和義務的約束，並且每個代幣持有人\n 在能夠訂閱\n 提供的 Dineli ERC 20 之前必須承諾這些權利和義務代幣。權利和\n 義務仍然附屬於所提供的 Dineli ERC \n 20 代幣，無論他們通過什麼人。\n \t \t \t \n 所提供的 Dineli ERC 20 代幣是不可分割的。\n \t \t \t \n \t \t \t"
+                },
+                "column_2": {
+                    "_1_column_2": "##是否正在為dineli的發行編寫招股說明書？##\n \n每發行一次dineli都會發布信息說明。 \n 本文件不是招股說明書，未經金融服務和市場管理局審核\n 或批准\n。",
+                    "_2_column_2": "##投資者的成本是多少？##\n \t \n 與房地產相關的成本被收取或\n 轉嫁給代幣持有者，其中包括\n 其他事項：管理控制人的報酬 , \n 房產稅及其他基本費用，\n與平台相關的費用，保險，發行人的資金成本\n等）",
+                    "_3_column_2": "##如何計算經營業績？##\n \t \n 發行人財政年度每年分配的金額，包括\n 之間的差額，一方面：\n \t \t \t \n 1. 房地產的全部租金收入；\n 2. 與房地產經營有關的所有臨時性投資的收益；\n 3. 其他相關收入\n \t 不動產，例如違約利息、各種\n \t 賠償、確認未動用準備金和\n \t 與\n \t 不動產有關的任何性質的收入；\n \t 及其他：\n \t \t \t \n 1. 發行人承擔的合理費用、費用、費用、維修費用和\n \t 各種規定，\n \t 關於（ i) 房地產，(ii) \n \t 發行人作為 Dineli \n \t ERC 20 代幣的所有者或發行人的活動，包括 \n \t 平台的運營，和/或（ ii) 經理的活動.這些\n \t 成本按總租金收入的3% 計算；\n 2. 合理的成本、利息和資本\n \t 償還銀行貸款或其他融資，如果\n \t 必要，簽訂為了Real \n \t Estate 的利益；\n 3. 任何扣除以形成未來\n \t 維護和維修費用的準備金。金額由\n \t 發行人確定，並須經管理層批准\n \t 控制者；\n 4. 與房地產估價師\n \t 費用、會計成本以及所有可能的費用相關的合理成本\n \t 專家；\n 5. 允許支付與 Dineli ERC 20 代幣或 \n 相關的\n \t 發行人欠的企業收入\n \t 稅款和其他可能的稅款或徵稅的金額\t 房地產；和\n 6. 與空置和疏忽相關的成本；"
+                }
+            },
+            "ask_a_question": "問一個問題"
+        },
+        "Frequently asked questions": "經常問的問題",
+        "Save changes": "保存更改"
+    },
+    "generalinfo": {
+        "info": {
+            "mainTitle": "關於由 dineli REAL ESTATE LLC 提供的“Dineli ERC 20 代幣”的信息說明",
+            "_1_paragraph": "本文件由 dineli Real Estate LLC 編寫。\n\n本文件不是招股說明書，未經財務部審查或批准\n服務和市場管理局。\n\n2021 年 8 月 15 日\n\n警告：投資者可能會失去全部或部分投資和/或無法達到\n預期收益。\n\n投資工具未列出：投資者承擔出現重大問題的風險\n如果第三方願意，將其職位出售給第三方。",
+            "_2_paragraph": "##第 I 部分 – 發行人和所提供的投資工具固有的主要風險，以及有關要約的特定風險\n\n\t*與dineli Real Estate A BV（以下簡稱“發行人”）相關的風險因素\n\t*初步說明##",
+            "_3_paragraph": "發行人是比利時法律下的一家私人有限公司，其主要目標是房地產證券化\n允許投資者間接投資房地產。\n\n發行人通過從公眾籌集資金來收購房地產，以期出租以實現這一目標。\n並轉移它。除其他外，通過發行“代幣化”債務工具（“\nDineli ERC 20 代幣”）。\n\n通過這些 Dineli ERC 20 代幣，潛在投資者（“代幣持有者”）有機會投資於實際\n財產。儘管幾十年來比利時提供了多種間接投資房地產的選擇，但\n在此問題的背景下提供的 Dineli ERC 20 代幣（“提供的 Dineli ERC 20 代幣”）是第一筆債務\n以通過分佈式賬本技術（以下簡稱“DLT”）創建的代幣形式發行的工具。分佈式賬本技術是\n一種支持在分佈式賬本中捕獲加密數據的技術。\n\n本次要約的結構如下：發行人財產（“財產”）獲得/在不久的將來一項財產（“財產”）\n財產“）購買]。將為該房地產發行一系列 Dineli ERC 20 代幣，即提供的 Dineli\nERC 20 代幣。因此，提供的 Dineli ERC 20 代幣僅與房地產相關。任何後續\n發行人發行的 Dineli ERC 20 代幣將始終與不同的房地產相關，並將嚴格分開\n來自本期/提供的 Dineli ERC 20 代幣。",
+            "_4_paragraph": "##*與發行人業務相關的風險\n\t*與投資集中度相關的風險##",
+            "_5_paragraph": "與提供的 Dineli ERC 20 代幣相關的利潤僅取決於年租金收入和/或已實現資本\n出售房地產所產生的收益（統稱為“收入”），存在集中風險。任何（臨時）\n租金收入的減少或缺失或已實現的價值損失也完全由擁有\n訂閱了提供的 Dineli ERC 20 代幣。因此，不同房地產的收益和風險並不相同。\n匯集。\n\n上述集中風險意味著，除其他外，如果租金收入令人失望，這可能\n對提供的 Dineli ERC 20 代幣的返還產生不利影響。如果出售房地產伴隨著\n價值損失，例如由於房地產價格普遍下跌，每個代幣持有人只能索賠\n銷售收益的一部分。\n\n在任何情況下，發行人均不對令人失望的收益承擔責任。",
+            "_6_paragraph": "##*與發行人可能破產相關的風險##\n \t存在這樣一種風險，即由於發行人破產，代幣持有人將無法收回他們所獲得的\n \t金額 有權。 原則上不排除發行人無法履行義務。",
+            "_7_paragraph": "##*與房地產相關的風險\n \t*與房地產相關的風險##",
+            "_8_paragraph": "由於其性質，該物業可能會在功能上和/或物理上老化，這可能會導致其失去吸引力。在那裡面\n在這種情況下，可能需要額外的投資，這可能會對收入造成壓力。\n\n其他風險可能包括但不限於（完全或不完全）財產、土壤\n污染、徵用、石棉、自然災害、戰爭、恐怖、其他災難和未發現的損壞或費用\n由於火災。 - 或其他保險公司。但是，在購買該物業之前[曾經/正在]進行了盡職調查。",
+            "_9_paragraph": "##*在新建築的情況下與建築活動相關的風險##\n \t當前報價與尚未建立的財產有關。 如果承包商、\n \t分包商、供應商、建築師或其他相關參與者未能履行其義務，公司註冊可能涉及交易對手風險。]\n \t\n \t##*與房地產市場週期性相關的風險# #\n \t房地產市場具有周期性，尤其與總體經濟形勢、利率和主要參與者對經濟增長和通貨膨脹的預期有關。 區域、國家或國際範圍內的經濟放緩、衰退或\n \t危機可能會對收入產生負面影響。",
+            "_10_paragraph": "*與報價相關的風險\n*與有限流動性和 Dineli ERC 20 代幣價值相關的風險\n提供的 Dineli ERC 20 代幣未上市，也不會在受監管的市場或 MTF（多邊\n交易設施）。發行人不組織二級市場。此外，提供的 Dineli ERC 20 代幣不\n提供任何防止通貨膨脹或貨幣侵蝕的保護。",
+            "_11_paragraph": "*與金融監管或監管地位變化相關的風險\n所提供的 Dineli ERC 20 代幣的發行可能會受到更嚴格或修訂的法規的約束\n未來，或主管監管部門將修改其在這方面的立場。在這種情況下，發行人可能會招致\n合規成本，這可能會影響收入。\n\n*與 COVID-19 大流行和經濟危機相關的風險\n當前的 COVID-19 大流行和政府採取的措施可能對實際情況產生不可預測的影響\n房地產市場和收入。在經濟或健康危機期間，拖欠租金或空置的風險通常會增加。\n\n*與使用網站相關的風險\n使用提供 Dineli ERC 20 代幣的網站時可能會發生技術故障，例如，但\n不限於登錄、購買或註冊問題、服務器過載、網絡攻擊（例如黑客攻擊、網絡釣魚）。",
+            "_12_paragraph": "##第二部分。 – 有關發行人的信息\n\tA. 發行人的身份##",
+            "_1_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "席位 <div>法律形式 <div>公司編號\n出生國家\n網址\n</div></div>",
+                    "purpose": "Engelhoekstraat 22B, 9800 Sint-Martens-Leerne\nBV\n769577115\n比利時\n萬維網。迪內利貝"
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "說明\n發行人的活動",
+                    "purpose": "發行人的唯一活動是向潛在客戶提供 Dineli ERC 20 代幣\n投資者，以允許他們間接投資房地產。"
+                },
+                "3°": {
+                    "name": "2°",
+                    "lifespan": "以至於這種\n信息是已知的\n發行人或申請人\n交易准入，身份\n持有超過\n發行人資本的5%，\n和大小（表示為\n的資本百分比）\n他們持有的股份\n\n與\n之間的交易\n發行人及轉介人士\n低於 3° 和/或相關\n股東以外的各方：",
+                    "purpose": "截至 2021 年 1 月 8 日，以下人士擁有超過 5% 的股份\n發行人股份：\n(i) E. Warmoes 擁有 100% 的資本"
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "– 所有的性質和大小\n個別交易\n或一起，對\n發行人。",
+                    "purpose": "dineli房地產A成立於14/06/2021。"
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "成員身份\n法制管理\n發行人的主體（指示\n永久的\n本案代表\n董事或領導者\n是法人），\n管理層成員\n委員會和成員\n被指控的機構\n日常管理",
+                    "purpose": "董事會\n發行人由一名董事管理，即：E. Warmoes。\n執行委員會\n負責日常管理的機構包括：\nE.Warmoes。"
+                },
+                "6°": {
+                    "name": "6°",
+                    "lifespan": "關於最後一個滿\n財政年度，總額\n的報酬\n5°以下提到的人，\n和總金額\n保留或估算的金額\n由發行人或其\n子公司支付\n養老金或類似的\n福利，或適當的\n否定陳述",
+                    "purpose": "[發行人於 2021 年 6 月 14 日註冊成立。"
+                },
+                "7°": {
+                    "name": "7°",
+                    "lifespan": "對於所指的人\n低於 5°，提及任何\n所指的定罪\n在第 20 條\n2014 年 4 月 25 日關於法律\n狀態和監督\n信貸機構和\n股票經紀公司，或\n適當的否定\n陳述",
+                    "purpose": "在過去五年內[未擔任董事會成員\n董事或執行董事會：(i) 被判欺詐\n罪行；"
+                }
+            },
+            "_second_para_heading": "##B. 有關發行人的財務信息##",
+            "_2_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "只要發行人是\n那個時候已經很活躍了，\n其年度賬目\n過去兩個財政年度，\n經審計，在適當的情況下，我\n根據第\n13, §§ 1 或 2, 1°, 法律\n2018 年 7 月 11 日",
+                    "purpose": "發行人於 2021 年 6 月 14 日註冊成立，因此\n尚無可用的財務報表。"
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "發行人聲明\n它相信工作\n資金足以滿足\n它對接下來十二個的需求\n幾個月，如果沒有，怎麼辦\n打算提供\n額外營運資金\n需要",
+                    "purpose": "帝力地產A的營運資金足以滿足\n其目前的義務，並且至少持續 12 個月\n自本說明發布之日起。"
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "權益報表和\n負債（指明\n有和沒有債務\n擔保和擔保\n和無擔保債務）沒有\n遲於 90 天前\n文件的日期。",
+                    "purpose": "條件 14/06/2021\n（一世）"
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "任何重要的描述\n財務或\n發生的交易頭寸\n最後一次結束後\n財政年度\n提及的年度賬目\n低於 1° 以上相關，或\n適當的否定\n陳述",
+                    "purpose": "發行人於 2021 年 6 月 14 日註冊成立，因此\n沒有最後一個財政年度。"
+                }
+            },
+            "_third_para_heading": "＃＃C。 標的資產描述 \t \t \t \n \t 第三部分。 – 有關提供投資工具的信息 \t \t \t \n \t A. 要約說明 \t \t \t \n \t ##",
+            "_3_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "優惠條款\n\n\n最低金額\n報價已提出\n\n最小值和/或最大值\n每份認購金額\n投資者",
+                    "purpose": "在比利時成立的任何自然人或法人都可以認購\n根據提供的 Dineli ERC 20 代幣\n發行條件中規定的程序\n提供 Dineli ERC 20 代幣（“"
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "投資總價\n提供的工具",
+                    "purpose": "50 歐元 x"
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "報價時間表：開始\n和要約的截止日期，\n投資發行日\n儀器",
+                    "purpose": "訂閱期自信息發布之日起計算\n注意截止日期。"
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "投資人承擔的費用",
+                    "purpose": "與不動產相關的成本被收取或轉嫁\n給代幣持有人，其中包括：\n管理控制人的報酬，房地產\n稅費和其他基本費用，與平台相關的費用，\n保險、發行人的資本成本等）\n\n\n每個提供的 Immo 代幣估計每年的總成本\n在信息說明的時候。"
+                }
+            },
+            "_fourth_para_heading": "##B.",
+            "_4_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "預期的描述\n使用所收集的金額",
+                    "purpose": "目前的報價旨在為購買房地產提供資金。"
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "融資詳情\n提供的項目\n旨在實現",
+                    "purpose": "目前的報價旨在資助購買雷亞爾\n財產。"
+                }
+            },
+            "_fifth_para_heading": "<div><span style=\"color: rgb(3, 255, 164); font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">第四部分。&nbsp;-有關提供的投資工具的信息\t \t \t</span><br></div>##\tA.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所提供投資工具的特點##<br><div>##<br>##</div>",
+            "_5_content": {
+                "1°": {
+                    "name": "1°",
+                    "lifespan": "性質和類別\n投資工具",
+                    "purpose": "提供的 Dineli ERC 20 代幣是“代幣化”債務\n包含對收入、收益的權利的工具\n和確定的房地產的實現價值\n發行時間。"
+                },
+                "2°": {
+                    "name": "2°",
+                    "lifespan": "硬幣、面額和\n面值",
+                    "purpose": "提供的 Dineli ERC 20 代幣以歐元計價，\n面額為“Dineli ERC 20 代幣”，每個代幣都有\n面值為 50 歐元。"
+                },
+                "3°": {
+                    "name": "3°",
+                    "lifespan": "預期的描述\n使用所收集的金額",
+                    "purpose": "提供的 Dineli ERC 20 代幣的固定期限為 30\n（30年。"
+                },
+                "4°": {
+                    "name": "4°",
+                    "lifespan": "投資排名\n首都的工具\n發行人的結構\n破產事件",
+                    "purpose": "提供的 Dineli ERC 20 代幣具有相同的排名\n("
+                },
+                "5°": {
+                    "name": "5°",
+                    "lifespan": "免費的限制\n投資轉移\n儀器",
+                    "purpose": "提供的 Dineli ERC 20 代幣可自由轉讓。"
+                },
+                "6°": {
+                    "name": "6°",
+                    "lifespan": "年利率",
+                    "purpose": "發行人提供總租金收益率的估計值和\n轉讓財產時每年的資本收益。\n\n– 根據此要約投資的物業價值\n\n– 預期年租金收入\n\n– 每年的預期成本"
+                },
+                "7°": {
+                    "name": "7°",
+                    "lifespan": "利息的日期\n支付率",
+                    "purpose": "該物業的可變租金收入每年支付\n六月的第一天。"
+                }
+            },
+            "_13_paragraph": "##Part V. – 向一個或多個投資者口頭或書面提出的任何其他重要信息\n \n \t1° 代幣持有人會議\n \t1° 共同規定##\n \t \n \t代幣持有人會議由發行人董事會主席或其授權的副手主持\n \t由董事會擔任 . 主席和後者指定的秘書組成主席團。 每個代幣持有人都可以\n \t由代理持有人代表出席會議，無論是否為代幣持有人。 發行人的董事會可以\n \t確定代理人的形式。",
+            "_14_paragraph": "2°信息會議\n\n每年 2 月的第一個星期五舉行一次信息會議，當然，恕不另行通知。如果這一天落在\n公共假期，會議將在下一個工作日舉行。會議將[通過平台]以數字方式舉行。\n\n屆時，董事會將解釋有關建築物的賬目並通知會議\n與提供的房地產和 Dineli ERC 20 代幣相關的所有重要元素。",
+            "_15_paragraph": "3° 臨時股東大會\n\n此外，發行人在認為必要時，可以在董事會的單獨倡議下召集\n代幣持有人特別大會，可能會做出對所有代幣持有人具有約束力的決定。這\n發行人通過平台上的通知邀請代幣持有人。會議將[通過平台]以數字方式舉行。\n\n以下決定需要獲得代幣持有人大會的事先同意，並且在任何情況下都是特別的\n代幣持有人大會將由發行人董事會召集：\n*\n房地產在其中一個轉讓時刻的轉讓，即在五 (5)、十 (10) 或十五 (15) 年後\n發行日期。在任何或即將到來的轉移時間前六 (6) 個月，代幣持有者將收到轉移時間和\n將能夠同意該財產的轉讓。\n*在不利的市場條件下，包括房地產價格下跌，轉讓時間可能會推遲\n代幣持有人特別大會；\n\n*在固定轉讓時間之外出售物業的絕佳機會，包括出售給屬於\n發行人集團；\n*房地產可能的擴展或轉換金額高於其當前銷售價值的 10%。\n在做出此類決定之前，代幣持有者會議必須決定其融資方式。如果融資完成\n通過新發行的 Dineli ERC 20 代幣，賦予代幣持有人優先權。他們可能會行使這個\n自認購開始之日起十五 (15) 天內的優先認購權；\n*任命新的管理控制人；\n*重建，如果房地產完全或部分毀壞；\n* Dineli ERC 20代幣發行條件的修改。\n*臨時股東大會只有在出席人數至少有一半的情況下才能有效審議\n提供 Dineli ERC 20 代幣。如果不滿足此條件，則需要重新召開會議。第二次會議必須採取\n在第一次會議後的一個月內舉行，無論 Dineli ERC 20 代幣的數量如何，都可以進行審議\n提供或代表。\n\n每個提供的 Immo 債務代幣都有權投一票。如果提供的 Immo Debt Token 的所有權被分割\n不同人之間，【董事會/董事】有權中止其所附的表決權\n直到一個人被指定為發行人的代幣持有人。\n\n任何修改發行條件的決定均由 [五分之四] 多數票作出。所有其他決定可能是\n以 [三分之二/簡單] 多數票通過。在所有情況下，棄權不包括在分子中\n或分母。",
+            "_16_paragraph": "##1。管理控制者##\n \t 發行人將任命一名管理控制者來照顧代幣持有者的利益。\n \t \n \t 管理控制者的職責如下：\n \t \n \t *批准經營成果和清算餘額的計算，並就此提出必要的意見和\n\t 建議。為此，發行人董事會將在財政年度結束或不動產轉讓後的一個月內將計算結果提交給管理層\n\t控制者。管理層\n \t 控制者將在收到報告後一個月內就上述計算擬定一份報告，在報告中，他對交易的價值和賬目正確性發表意見； \n \t * 評估發行人的交易並對其價值發表意見，特別是為了通知代幣 \n \t 持有人。\n \t 特別是，評估應包括：\n \t \n \t * 資金的有用用途和臨時投資的目的地；\n \t * 各方遵守有關不動產收購、管理和租賃的協議；\n \t *任何翻新、維修或擴建工作的理由；\n \t * 任何轉讓的條件；\n \t * 代幣持有人臨時股東大會的召開。\n \t * 向董事會提供建議如果轉換涉及現有表面的 30% 或更少ce \n \t 財產區域；\n \t * 以諮詢投票方式參加代幣持有人臨時股東大會。\n \t 在履行職責時，管理控制人有權訪問發行人的所有文件，涉及\n \t 分配給代幣持有人的金額。他可以在需要\n \t 特定技術知識的特殊情況下尋求專家的建議，前提是這不會給發行人帶來不合理的成本。",
+            "_17_paragraph": "1. 提供的 Dineli ERC 20 代幣的稅務處理\n從稅收的角度來看，發行人向代幣持有人支付的部分款項構成了對代幣持有人的贖回。\n認購金額。這部分在比利時不徵稅。發行人向代幣支付的餘額\n持有人代表可動收入，原則上需繳納預扣稅。但是沒有完整的分析\n此處提供與提供的 Dineli ERC 20 代幣相關的所有稅務方面的信息。\n\n代幣持有者應就其適用稅法的後果諮詢自己的稅務顧問。\n國籍、居住地、慣常居所或住所的狀態以及比利時關於收購的稅法，\n持有和轉讓提供的 Dineli ERC 20 代幣並獲得利息支付、本金支付和/或\n提供的 Dineli ERC 20 代幣下的其他金額。"
+        },
+        "General Information": "一般信息",
+        "Save changes": "保存更改"
+    },
+    "home": {
+        "Tokized Revolutionize":"Tokized 革新",
+        "Real Estate Investment": "房地产投资",
+        "Build your wealth starting $50 and receive monthly rent with our Technology developed on the ETHEREUM Blockchain": "使用我们在 <span style='color:#DBA87E;'>ETHEREUM 区块链上</span>开发的技术<br/>，<span style='color:#DBA87E;'>从 50 美元</span>开始积累财富并获得月租金",
+        "VIEW MARKETPLACE": "查看市场",
+        "HOW IT WORKS": "这个怎么运作",
+        "A savings Investment":"<span style='color:#DBA87E;'>储蓄投资</span>",
+        "HOW to Invest in Real Estate with TOKIZED.immo ?":"如何通过 TOKIZED.immo<br/> 投资房地产？",
+        "with ALL the ADVANTAGES of real estate without the unpleasant surprises":"拥有房地产的<span style='color:#DBA87E;'>所有优势</span><br/>，没有令人不快的惊喜"
+        
+    },
+    "Register": {
+        "": "登記",
+        "FIRST NAME": "名",
+        "LAST NAME": "姓",
+        "PHONE": "電話",
+        "USERNAME": "用戶名",
+        "EMAIL ADDRESS": "電子郵件地址",
+        "PASSWORD": "密碼",
+        "ARE YOU A RESIDENT OR CITIZEN OF THE UNITED STATES OR ITS TERRITORIES?": "您是美國或其領土的居民或公民嗎？",
+        "YES": "是的",
+        "NO": "不",
+        "REGISTER": "登記",
+        "Please input first name": "請輸入名字",
+        "Please input last name": "請輸入姓氏",
+        "Please input user name": "請輸入用戶名",
+        "Please input phone": "請輸入電話",
+        "Please input email": "請輸入郵箱",
+        "Please input correct email address": "請輸入正確的電子郵件地址",
+        "Please input the password": "請輸入密碼"
+    },
+    "Product": {
+        "Minimum Investment": "最低投資",
+        "TOTAL PRICE": "總價",
+        "TOKEN PRICE": "代幣價格",
+        "RENT PER TOKEN": "每個代幣的租金",
+        "Expected Yield": "預期收益",
+        "Invest": "投資",
+        "Total Tokens": "總代幣",
+        "Tokens Available": "可用代幣",
+        "Sold Out": "售罄",
+        "Coming Soon": "即將推出",
+        "Start Now": "現在開始"
+    },
+    "Login": {
+        "": "登錄",
+        "Please input user name or email": "請輸入用戶名或郵箱",
+        "Please input the password": "請輸入密碼",
+        "USERNAME OR EMAIL ADDRESS": "用戶名或郵箱地址",
+        "PASSWORD": "密碼",
+        "REMEMBER ME": "記住賬號",
+        "Lost your password?": "忘記密碼？"
+    },
+    "GetAccess": {
+        "Exclusive Real Estate Investment": "獨家房地產投資",
+        "Revolutionizing": "革新",
+        "property ownership": "財產所有權",
+        "Blockchain": "區塊鏈",
+        "Powered by": "供電",
+        "Rental Income Up to": "租金收入高達",
+        "Yield": "屈服",
+        "Get me access": "讓我訪問",
+        "Invitation code": "邀請代碼"
+    },
+    "Team2": {
+        "Meet Our Team": "認識我們的團隊",
+        "Dineli is a union of seasoned real estate and blockchain industry executives, along with marketing, ecommerce and technology experts. Together, we are executing our collective vision to create a new real estate ownership experience.": "Dineli 是由經驗豐富的房地產和區塊鏈行業高管以及營銷、電子商務和技術專家組成的聯盟。我們正在共同執行我們的集體願景，以創造新的房地產所有權體驗。"
+    },
+    "SellTokens": {
+        "Success": "成功",
+        "Sell token request success": "出售代幣請求成功",
+        "Sell Tokens": "出售代幣",
+        "Sign in to sell your tokens!": "登錄以出售您的代幣！",
+        "SIGN IN": "登入",
+        "Tokens": "代幣",
+        "desc-1": "Dineli 將回購您的 DineliTokens！該服務每週限額為 2000 美元。\n 代幣回購需要 Dineli 批准，最多可能需要 10 個工作日。感謝您的耐心等待！",
+        "desc-2": "我們正在\n 回購代幣\n 具有這些狀態的屬性",
+        "SOLD OUT": "售罄",
+        "UNDER RENOVATION": "裝修中",
+        "OFFERING CLOSED": "發售結束",
+        "Sell Tokens From Property": "從財產出售代幣",
+        "Property": "財產",
+        "Price-Token": "價格/代幣",
+        "Sale Price": "銷售價格",
+        "SUBTOTAL": "小計",
+        "DINELI FEE": "迪內利費用",
+        "PROCESSOR FEE": "處理器費",
+        "TOTAL SALE": "總銷售額",
+        "I verify that these values are correct.": "我驗證這些值是否正確。",
+        "SELL TOKENS": "出售代幣"
+    },
+    "Privacy": {
+        "pol": {
+            "phone": "電話",
+            "email": "電子郵件",
+            "_1_paragraph": "定義\n– 平台：郵箱 info@dineli.com 和所有下屬頁面；\n– 訪客：訪問平台的人；\n– 客戶：在平台下訂單的人。",
+            "_2_paragraph": "一般的\ndineli 負責在平台上處理您的個人數據。\n\ndineli 遵守 1992 年 12 月 8 日關於在處理個人信息時保護隱私的法案\n數據”，經 1998 年 12 月 11 日法案修訂，以及法典第 XII 卷的反垃圾郵件條款\n經濟法關於“電子經濟法”。\n\ndineli 還遵守 2016 年 4 月 27 日關於通過以下方式保護個人數據的歐洲法規 2016/679\n當前的隱私政策。",
+            "_3_paragraph": "個人資料\n您向我們提供的個人數據：\n\nIP地址;\n衝浪行為；\n起源;\n搜索詞；\n登錄數據；\n電子郵件地址;\n個人資料圖片；\n聯繫方式。\ndineli 可能會通過多種方式從您那裡收集數據：\n\n通過使用cookies；\n在您註冊或使用平台期間；\n通過請求更多信息，關注您通過本網站與 dineli 建立的聯繫；\n填寫表格以討論您的問題或聯繫人姓名時；\n在您主動輸入、共享和轉發您與我們網站上的其他用戶共享的數據時。",
+            "_4_paragraph": "處理目的\ndineli 只會將向您收集的個人數據用於以下目的：\n\n管理您在平台上的帳戶，以便在法律依據的情況下為您提供最好的服務\n執行您要求的協議；\n在您明確事先同意作為法律依據的情況下，向您發送直接營銷、時事通訊、促銷和促銷活動；\n充分回答您關於平台或提供服務的問題，並具有法律依據\n提供您要求的服務；\n對輸入數據的唯一性和案件的真實性進行驗證。\n您沒有義務披露您的個人數據，但了解某些服務的提供將成為\n如果您拒絕處理，則不可能。",
+            "_5_paragraph": "直銷\n個人數據也將用於直接營銷，前提是您對此給予了額外的明確許可\n（“選擇參加”）。\n\n如果您已被列入我們接收紙質和/或電子形式的營銷材料的郵件列表中，dineli 可能會\n使用您的數據發送與 Dineli、其產品和/或服務相關的營銷和其他材料。 dineli 可能會使用這些數據\n您提供的用於更新 dineli 存儲的文檔。\n\n可以隨時撤回此同意，無需任何理由且免費，例如通過單擊\n在每封促銷電子郵件的底部為此目的提供了取消訂閱鏈接。",
+            "_6_paragraph": "轉讓給第三方\n如果 dineli 的活動發生全部或部分重組或轉移，則其重組、轉移、\n停止其業務活動或如果 dineli 破產，這可能意味著您的數據被提供給新的實體或第三方\nDineli 的業務活動全部或部分通過的各方。被轉移。\n\nDineli 將盡合理努力提前通知您 Dineli 將向上述第三方披露您的數據的事實，\n但您也承認，這在所有情況下都不是技術上或商業上可行的。\n\ndineli 不會將您的個人數據出售、出租、分發或以其他方式提供給第三方，除非\n如上所述或未經您事先同意。\n\n在極少數情況下，dineli 可能需要根據法院命令或遵守其他規定披露您的個人數據\n強制性法律或法規。 dineli 將盡合理努力提前通知您，除非這是\n受法律限制。",
+            "_7_paragraph": "##處理的持續時間##\n \t我們在\n \t處理目的和合同關係功能所必需的一段時間內存儲和處理個人數據。",
+            "_8_paragraph": "您的權利\n您對您的個人數據享有以下權利：\n\n訪問和檢查權：您有權隨時免費查看您的個人數據，因為\n以及我們對您的個人數據的使用。\n更正、刪除和限制的權利：您可以自由決定是否將您的個人數據傳達給\n迪內利此外，您始終有權要求我們更正、補充或刪除您的個人數據。你\n承認在拒絕溝通或要求刪除個人數據的情況下，某些服務和\n產品將不可用。您還可以要求限制處理您的個人數據。\n反對權：您也有權出於嚴重和合法的原因反對處理您的個人數據。\n此外，您始終有權反對將個人數據用於直接營銷目的；在這種情況下\n你不必給出理由。\n撤回同意的權利：只要處理是基於您的事先同意，您就有權撤回該同意\n同意。\n您可以通過發送電子郵件至 info@dineli.com 聯繫我們來行使您的權利",
+            "_9_paragraph": "安全保密\n我們制定了從技術和組織角度進行調整的安全措施，以避免\n個人數據的破壞、丟失、篡改、修改、未經授權的訪問或錯誤通知第三方\n收集以及對這些信息的任何其他未經授權的處理。\n\n在任何情況下，Dineli 均不對因不正確或非法操作造成的任何直接或間接損害負責\n第三方使用個人數據。\n\n您必須始終遵守安全規定，包括防止任何未經授權的訪問您的登錄\n和代碼。因此，您對從您的計算機、IP 地址和\n身份數據，以及它們的機密性。",
+            "_10_paragraph": "##第三方訪問##\n \t為了處理您的個人數據，我們授予我們的員工訪問您的個人數據的權限。 我們通過對這些員工強制執行與本隱私\n \tPolicy 類似的合同義務來保證類似的\n \t 保護級別。",
+            "_11_paragraph": "餅乾\n什麼是餅乾？\n“cookie”是由 dineli 服務器發送並放置在您計算機硬盤上的小文件。存儲在的信息\n這些 cookie 只能由我們讀取，並且只能在訪問平台期間讀取。\n\n我們為什麼要使用cookies？\n我們的網站使用 cookie 和類似技術將您的使用偏好與我們的其他用戶的使用偏好區分開來\n網站。這有助於我們在您訪問我們的網站時為您提供更好的用戶體驗，也使我們能夠\n優化我們的網站。\n\n餅乾的種類\n儘管有不同類型的 cookie，在功能、來源或保留期限方面有所不同，但\n立法主要區分一方面是功能性或技術上必要的 cookie，另一方面是所有其他\n另一邊的餅乾。\n\ndineli 使用以下不需要您事先同意的“功能性或必要”cookie：\n\n*必要的cookies允許用戶瀏覽網站並使用網站的功能。\n*功能性 cookie 通過記住您的選擇（例如語言首選項、\n地區，登錄）。\ndineli 還使用我們事先徵得您同意的以下 cookie：\n\n*性能 cookie 收集有關網站使用的數據，例如訪問者數量、訪問者在網站上花費的時間\n網頁和錯誤信息。我們使用 Google Analytics（收集有關我們網站如何使用和\n編制訪問者統計數據 – 當您使用我們合作夥伴的網站或應用程序時，Google 如何使用數據）。\n*廣告cookies確保網站可以發送個性化的廣告信息。使用我們的網站提供\nDoubleClick（收集有關頁面瀏覽和廣告的數據，並可以創建用戶配置文件。這基本上就完成了\n匿名，除非用戶通過他的 Google 帳戶表明身份）。\n對於第三方（包括 Google Analytics）放置的 cookie，我們希望您參考以下聲明：\n各方在各自的網站上提供。請注意：我們對這些內容的內容沒有任何影響\n聲明，也沒有關於這些第三方 cookie 的內容。",
+            "_12_paragraph": "您的許可\n在您第一次訪問我們的網站時，您會被要求接受我們不同類型的 cookie。您可以允許或拒絕\n按類別分類的cookies。您可以隨時通過超鏈接更改我們網站的 cookie 設置\n我們網站的底部，從而撤回您的同意。\n\n您可以通過在第一次提供的彈出屏幕中選擇“拒絕 cookie”來拒絕安裝這些 cookie\n平台的使用時間。\n\n您還可以通過更改導航系統的配置參數來拒絕或阻止 cookie。禁用\ncookie 可能意味著您無法使用平台的某些功能。\n\n您同意 dineli 有權發布用於檢測廣告攔截器的腳本。"
+        },
+        "": "隱私政策",
+        "Success": "成功",
+        "Privacy Policy saved!": "隱私政策已保存！",
+        "Save changes": "保存更改"
+    },
+    "MyAccount": {
+        "DASHBOARD": "儀錶盤",
+        "PORTFOLIO": "文件夾",
+        "ID VERIFICATION": "身份驗證",
+        "ORDERS": "訂單",
+        "ACCOUNT DETAILS": "帳戶詳細資料",
+        "LOGOUT": "登出",
+        "MY ACCOUNT": "我的賬戶"
+    },
+    "AccountDetail": {
+        "This field is required": "此字段是必需的",
+        "Failed": "失敗的",
+        "Password does not match": "密碼不匹配",
+        "Account Details": "帳戶詳細資料",
+        "Reset Password": "重設密碼",
+        "First Name": "名",
+        "Last Name": "姓",
+        "Username": "用戶名",
+        "Email": "電子郵件",
+        "Current Password": "當前密碼",
+        "Password": "密碼",
+        "Confirm": "確認",
+        "Save": "節省"
+    },
+    "Dashboard": {
+        "Success": "成功",
+        "Wallet updated successfully": "錢包更新成功",
+        "ALERT": "警報",
+        "Please click on \"ID verification\" tab and upload your ID to verify.": "請點擊“ID驗證”選項卡並上傳您的ID進行驗證。",
+        "IMPORTANT ALERT": "重要提醒",
+        "Please transfer": "請轉",
+        "tokens to the given wallet address": "到給定錢包地址的代幣",
+        "to complete order": "完成訂單",
+        "To view details against order": "根據訂單查看詳細信息",
+        "please click on 'ORDERS' tab": "請點擊“訂單”標籤",
+        "Welcome to dineli.com, Your source for Tokenized real estate": "歡迎來到 dineli.com，您的代幣化房地產來源",
+        "Transaction hash": "交易哈希",
+        "Submit": "提交",
+        "desc-1": "查看 dineli 的最新屬性：dineli Marketplace 請使用菜單鏈接查看您的投資組合併管理您的帳戶。需要幫助？請通過下面的聊天與我們聯繫，或發送電子郵件至：help@dineli.com。"
+    },
+    "IDVerification": {
+        "": "身份驗證",
+        "SUBMIT DOCUMENTS HERE": "在此處提交文件"
+    },
+    "Orders": {
+        "Orders": "訂單",
+        "Order": "命令",
+        "Status": "地位",
+        "Order Type": "訂單類型",
+        "Order Date": "訂購日期",
+        "Total Price": "總價",
+        "Total Tokens": "總代幣",
+        "Property": "財產",
+        "Target Wallet Address": "目標錢包地址",
+        "Token Quantity": "代幣數量",
+        "Transaction Hash": "交易哈希"
+    },
+    "Portfolio": {
+        "Option1": "選項1",
+        "Deposit xDai": "充值 xDai",
+        "Change Wallet Address": "更改錢包地址",
+        "Save": "節省",
+        "Close": "關閉",
+        "Rent": "租",
+        "Rent Payment Method": "租金支付方式",
+        "XDAI RENT DEPOSIT WALLET": "XDAI 租金押金錢包",
+        "Change wallet": "換錢包",
+        "desc-1": "租金將直接存入 xDai 網絡上的這個錢包。 RealT 支付這些交易的費用。",
+        "Claim rent on Ethereum": "在以太坊上索取租金",
+        "Asset By Sell": "出售資產",
+        "Token Delivery Method": "代幣交付方式",
+        "desc-2": "注意：xDai 網絡上持有的代幣餘額尚未顯示在您的資產文件夾中。此功能將在未來幾週內推出。請在您的錢包中或通過 Blockscout 查看您的 xDail 代幣餘額：Blockscout",
+        "5601 S Wood St, Chicago, IL 60636": "5601 S伍德街，芝加哥，IL 60636",
+        "Tokens Rent": "代幣租金",
+        "Total Price": "總價",
+        "Value Held": "持有價值",
+        "Fraction Held": "保持分數",
+        "per year": "每年",
+        "Tokens issued": "代幣發行",
+        "Price-Token": "價格/代幣",
+        "Rent Token": "租代幣",
+        "year": "年",
+        "Gross Rent": "總租金",
+        "Net Rent": "淨租金"
+    },
+    "MarketPlace": {
+        "price-low2low": "價格：低到高",
+        "price-high2low": "價格：從高到高",
+        "Default Sorting": "默認排序",
+        "Our Listings": "我們的房源",
+        "Become the landlord of the future": "成為未來的房東",
+        "desc-1": "全球投資者第一次可以通過完全合規的、部分的、代幣化的所有權購買美國房地產市場。由區塊鏈提供支持。",
+        "LOOKING FOR OUR OLDER OFFERINGS?": "尋找我們的舊產品？",
+        "PREVIOUS PROPERTIES": "以前的屬性",
+        "Showing all 10 results": "顯示所有 10 個結果"
+    },
+    "LostPassword": {
+        "Please input user name or email": "請輸入用戶名或郵箱",
+        "MY ACCOUNT": "我的賬戶",
+        "Lost Password": "忘記密碼",
+        "USERNAME OR EMAIL ADDRESS": "用戶名或郵箱地址",
+        "Reset Password": "重設密碼"
+    },
+    "Learn": {
+        "ppm": "私募備忘錄 (PPM)",
+        "PPM Supplement": "PPM 補充",
+        "Series Designation": "系列名稱",
+        "Subscraption Agreement (Generic)": "訂閱協議（通用）",
+        "content": "你好！我是身體",
+        "Introduction to Dineli": "迪內利簡介",
+        "desc-1": "對於剛剛了解 Dineli 的人，請閱讀該系統的簡短介紹。這提供了 Dineli 系統的高級概述，是入門的好方法。",
+        "READ MORE": "閱讀更多",
+        "Download Whitepaper": "下載白皮書",
+        "desc-2": "白皮書描述了 Dineli 系統。它解釋了代幣化房地產的需求，以及 Dineli 是如何建造的。",
+        "DOWNLOAD WHITEPAPER": "下載白皮書",
+        "Our Documentation": "我們的文檔",
+        "desc-3": "透明度是區塊鏈技術的一個關鍵原則，它使房地產標記化成為可能。 Dineli 重視這一原則，並努力向我們的社區提供盡可能多的文檔。"
+    },
+    "Home3": {
+        "TOKIZED PROPERTIES": "通证属性",
+        "VIEW ALL PROPERTIES":"查看所有属性",
+        "Build your real estate investment portfolio today": "立即建立您的房地产投资组合",
+        "you will receive rents and a potential real estate capital appreciation": "您将获得租金和潜在的房地产资本增值"
+    },
+    "HowWorks": {
+        "how": {
+            "mainTitle": "從創建帳戶到您的第一筆投資。在本頁\n我們將逐步解釋如何第一次投資 dineli。",
+            "_1_step": {
+                "step": 1,
+                "title": "登記",
+                "description": "要訪問屬性詳細信息，我們要求您\n無義務註冊。您可以通過以下方式註冊\n右上角的“註冊”按鈕。註冊後你\n將收到一封確認電子郵件。它最多需要\n在您收到電子郵件前 3 分鐘。如果你不\n收到它，發送消息到 info@dineli.com"
+            },
+            "_2_step": {
+                "step": 2,
+                "title": "上傳和身份證",
+                "description": "要購買 Dineli，您必須表明自己的身份。這可以很容易地\n通過發送您的身份證照片或複印件來完成。\n我們使用此信息來檢查您的購買資格\n迪內利"
+            },
+            "_3_step": {
+                "step": 3,
+                "title": "選擇一個\n投資物業",
+                "description": "通過“投資”按鈕，您可以獲得我們可用的概覽\n特性。您可以比較財產的類型，回報，\n租賃合同、地點……我們確保所有\n所提供的物業質量很高，但您使\n最後的選擇。"
+            },
+            "_4_step": {
+                "step": 4,
+                "title": "閱讀\n仔細記錄",
+                "description": "我們為每個房產製定了一份信息說明。讀這個\n小心謹慎，讓您可以放心投資。進一步在\n過程是一般和法律條件。這個\n文檔是關於財產本身的。"
+            },
+            "_5_step": {
+                "step": 5,
+                "title": "選擇一個\n投資金額",
+                "description": "您可以自由選擇最低投資金額\n50 歐元。沒有最高金額。"
+            },
+            "_6_step": {
+                "step": 6,
+                "title": "讀",
+                "description": "閱讀一般發行條件和註冊\n協議和信息說明。你也可以閱讀\n常見問題解答中最常見的問題。"
+            },
+            "_7_step": {
+                "step": 7,
+                "title": "安全支付\n通過莫莉",
+                "description": "您可以自由選擇最低投資金額\n50 歐元。沒有最高金額。"
+            },
+            "_8_step": {
+                "step": 8,
+                "title": "成功！",
+                "description": "如果一切順利，您現在就是您的驕傲擁有者\n新的投資組合。你可以找到你的投資\n在“我的投資組合”下。\n\n您會在下面找到每項投資的每月更新\n“文件”。\n您將每 6 年收到租金收入的份額\n個月。\n您還將收到有關\n通過電子郵件進行投資。"
+            }
+        },
+        "Simple steps to become a real estate investor": "成為房地產投資者的簡單步驟",
+        "Save changes": "保存更改"
+    },
+    "header": {
+        "MY ACCOUNT": "我的賬戶",
+        "ADMIN": "行政",
+        "ACCOUNT": "帳戶",
+        "CALCULATOR": "計算器",
+        "AFFILIATE DASHBOARD": "附屬儀表板",
+        "LOGOUT": "登出",
+        "Affiliate Program": "聯盟計劃",
+        "Sign In": "登入",
+        "MARKETPLACE": "查看市场",
+        "SELL TOKENS": "出售代幣",
+        "SELL MY PROPERTY":"出售我的财产",
+        "TEAM": "團隊",
+        "LEARN": "学",
+        "FAQ": "常問問題",
+        "BLOG": "博客"
+    },
+    "footer": {
+        "Privacy Policy": "隱私政策",
+        "General Information": "一般信息",
+        "Cookies Policy": "Cookie 政策",
+        "LEARN": "学",
+        "FAQs": "常見問題",
+        "content1": "本網站及其內容，以及 Dineli 社交媒體網站上顯示或鏈接的任何信息，不是買賣證券的要約或邀請，也不構成投資建議。 Dineli 對其會員或訂閱者的任何投資決定不承擔任何責任。強烈建議與財務顧問、經紀自營商或任何金融監管機構的成員討論任何購買或出售決定。投資者請注意，他們可能會失去對這家公司或任何其他公司的全部或部分投資。",
+        "content2": "本網站及其內容，以及 Dineli 社交媒體網站上顯示或鏈接的任何信息，可能包含關於未來事件、目標、預測或預期的預測或其他前瞻性陳述，這些信息僅在截至日期表示。無法保證此類事件或目標會實現，您不應過分依賴此類聲明，因為實際結果可能會因隨後的市場事件或其他發展而有很大差異。過去的表現並不能保證未來的表現。該信息截至提供之日，Dineli's 不承諾通知您任何更改或提供此類信息的任何更新。"
+    }
+}

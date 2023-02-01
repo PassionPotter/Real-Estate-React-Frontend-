@@ -1,0 +1,340 @@
+{
+    "affiliate": {
+        "INTRODUCING THE DINELI": "ПРЕДСТАВЛЯЕМ DINELI",
+        "AFFILIATE PROGRAM!": "ПАРТНЕРСКАЯ ПРОГРАММА!",
+        "Become a Real Estate Agent": "Стать агентом по недвижимости",
+        "When you invest in a Dineli property token, you are starting a tokenized real estate portfolio, the easiest way to invest in ownership of property in the United States. You also gain access to our Dineli Affiliate Program!": "Когда вы инвестируете в токен собственности Dineli, вы запускаете токенизированный портфель недвижимости - самый простой способ инвестировать в собственность в Соединенных Штатах. Вы также получаете доступ к нашей партнерской программе Dineli!",
+        "Dineli Affiliate Program": "Партнерская программа Dineli",
+        "Investors in any Dineli property on the market get special perks 2% cashback on all Dineli Tokens sold VIP access to events and special promotions Early notification of new property listings": "Инвесторы в любую недвижимость Dineli на рынке получают специальные льготы: 2% кэшбэка на все проданные токены Dineli VIP-доступ к мероприятиям и специальным акциям Раннее уведомление о новых объявлениях о недвижимости",
+        "Anyone who owns just one Dineli Token is invited to join the Affiliate Program. Begin you real estate investment portfolio, and start earning rental payments and referral rewards to your wallet on a daily basis.": "Любой, у кого есть только один токен Dineli, приглашается присоединиться к партнерской программе. Начните свой портфель инвестиций в недвижимость и начните ежедневно зарабатывать арендные платежи и реферальные вознаграждения на свой кошелек.",
+        "Join the first generation of tokenized real estate professionals today!": "Присоединяйтесь к первому поколению профессионалов в области токенизированной недвижимости сегодня!",
+        "Become an Affiliate!": "Станьте партнером!",
+        "Congratulations!": "Поздравляю!",
+        "Join the new generation of digital real estate agents and grow your income stream with Dineli referrals.To get started, just sign in or register below!": "Присоединяйтесь к новому поколению цифровых агентов по недвижимости и увеличивайте свой доход с помощью рефералов Dineli. Чтобы начать, просто войдите в систему или зарегистрируйтесь ниже!",
+        "You are now a Dineli Affiliate!": "Теперь вы являетесь партнером Dineli!",
+        "You are ready to start earning referral rewards.": "Вы готовы начать зарабатывать реферальные вознаграждения.",
+        "Head to your Affiliate Dashboard to get set up!": "Зайдите в свою партнерскую панель, чтобы настроить!",
+        "AFFILIATE DASHBOARD": "ПАРТНЕРСКАЯ ПАНЕЛЬ"
+    },
+    "affiliateDashboard": {
+        "affiliateUrl": {
+            "Affiliate URLs": "Партнерские URL",
+            "Your affiliate username is": "Ваше партнерское имя пользователя",
+            "Your referral URL is": "Ваш реферальный URL",
+            "How Do Referral Links Work?": "Как работают реферальные ссылки?",
+            "When you share an affiliate link to RealT, we track the visit and purchases of any user who clicks that link.": "Когда вы делитесь партнерской ссылкой с RealT, мы отслеживаем посещения и покупки любого пользователя, который нажимает на эту ссылку.",
+            "If that user buys in the same browser session after following your link, they are counted as your referral, and you earn a": "Если этот пользователь совершает покупку в том же сеансе браузера после перехода по вашей ссылке, он считается вашим рефералом, и вы получаете",
+            "2% commission": "2% комиссия",
+            "on their purchases... and all their purchases going forward!": "on их покупок ... и всех их покупок в будущем!",
+            "For more information about how long you earn commission on a referred user's purchases, please see Lifetime Customers.": "Для получения дополнительной информации о том, как долго вы зарабатываете комиссию за покупки привлеченного пользователя, см. Раздел «Постоянные клиенты».",
+            "The links above point to our homepage, but you can also create links to any page on RealT.co in": "Ссылки выше указывают на нашу домашнюю страницу, но вы также можете создать ссылки на любую страницу на RealT.co в",
+            "one of two ways": "один из двух способов",
+            "Copy the Dineli URL you want to link to, and simply replace": "Скопируйте URL-адрес Dineli, на который хотите создать ссылку, и просто замените",
+            "with the new URL in your affiliate link. Make sure to keep the": "с новым URL в вашей партнерской ссылке. Обязательно сохраните",
+            "part — that's how we know the referral is yours!": "часть - вот как мы узнаем, что реферал ваш!",
+            "Copy the Dineli URL you want to link to into our Referral URL Generator below, click 'Generate URL'.": "Скопируйте URL-адрес Dineli, на который вы хотите создать ссылку, в наш Генератор URL-адресов рефералов ниже, нажмите «Создать URL-адрес».",
+            "(For more about Custom Slugs, check out Settings.)": "(Чтобы узнать больше о пользовательских слагах, ознакомьтесь с настройками.)",
+            "And if you're linking from your own website and don't want to bother with affiliate links at all, you should check out Direct Links!": "А если вы переходите по ссылкам со своего собственного веб-сайта и вообще не хотите возиться с партнерскими ссылками, вам следует проверить Прямые ссылки!",
+            "Referral URL Generator": "Генератор реферальных URL",
+            "Enter any URL from this website in the form below to generate a referral link!": "Введите любой URL с этого сайта в форму ниже, чтобы создать реферальную ссылку!",
+            "Page URL": "URL страницы",
+            "GENERATE URL": "СОЗДАТЬ URL",
+            "Affiliate User": "Аффилированный пользователь",
+            "Affiliated Amount": "Аффилированная сумма",
+            "Requesting a Payout": "Запрос выплаты",
+            "To request a payout of your accumulated Affiliate earnings, just email us at info@dineli.com! A Dineli representative will respond shortly to finalize your request.": "Чтобы запросить выплату накопленного партнерского дохода, просто напишите нам по адресу info@dineli.com! Представитель Dineli ответит вам в ближайшее время, чтобы завершить ваш запрос."
+        }
+    },
+    "blog": {
+        "Blog posts": "Сообщения в блоге"
+    },
+    "Calculator": {
+        "Savings calculator": "Калькулятор экономии",
+        "Starting placement": "Стартовое размещение",
+        "Periodic savings": "Периодическая экономия",
+        "Duration of placement": "Срок размещения",
+        "Expected annual rate of return": "Ожидаемая годовая доходность",
+        "Total capital": "Общий капитал",
+        "Calculate": "Рассчитать",
+        "New Calculation": "Новый расчет",
+        "Three possible options": "Три возможных варианта",
+        "You can": "Ты сможешь",
+        "calculate the capital at term that you will have at the end of your savings plan (click on “calculate total capital”.": "рассчитайте капитал на срок, который у вас будет в конце вашего сберегательного плана (нажмите «Рассчитать общий капитал».",
+        "But if you know how much capital you will need in X years, you can, knowing how much you can save per month": "Но если вы знаете, сколько капитала вам понадобится через X лет, вы можете, зная, сколько вы можете сэкономить в месяц.",
+        "or year,": "или год,",
+        "calculate the initial capital you need, (click on “calculate the initial": "рассчитать необходимый вам начальный капитал (нажмите «рассчитать начальный",
+        "payment“ or, knowing how much you can": "оплата »или, зная, сколько вы можете",
+        "save today,": "сэкономь сегодня,",
+        "calculate the amount of periodic savings you can build.": "рассчитайте сумму периодической экономии, которую вы можете накопить.",
+        "The main savings products [complete file]": "Основные сберегательные продукты [полный файл]"
+    },
+    "Cart": {
+        "CONTINUE SHOPPING": "ПРОДОЛЖИТЬ ПОКУПКИ",
+        "Asset": "Актив",
+        "Token Price": "Цена токена",
+        "Total Fees": "Общие сборы",
+        "Purchase Price": "Цена покупки",
+        "Quantity": "Количество",
+        "Subtotal": "Промежуточный итог",
+        "Cart Totals": "Итоги корзины",
+        "Total": "Всего",
+        "PROCEED TO CHECKOUT": "ПЕРЕЙТИ К ОФОРМЛЕНИЮ ЗАКАЗА",
+        "IS THIS ORDER A GIFT?": "ЭТОТ ЗАКАЗ - ПОДАРОК?",
+        "Learn More": "Выучить больше",
+        "To make your order a gift, just check 'This order is a gift' at checkout, then enter the recipient's name, email, and your preferred delivery date. We'll email you a printable certificate to give in person, and we'll email that certificate to the gift recipient on the delivery date, too.": "Чтобы сделать свой заказ подарком, просто установите флажок «Этот заказ является подарком» при оформлении заказа, затем введите имя получателя, адрес электронной почты и желаемую дату доставки. Мы отправим вам сертификат для печати лично, и мы отправим его получателю подарка по электронной почте в день доставки.",
+        "The recipient can follow a simple link or QR code to register and complete ID verification, including registering an Ethereum wallet. When they're done, we'll dispense their gift tokens!": "Получатель может перейти по простой ссылке или QR-коду, чтобы зарегистрироваться и завершить проверку личности, включая регистрацию кошелька Ethereum. Когда они будут готовы, мы раздадим им подарочные жетоны!",
+        "Note": "Примечание",
+        "Tokens may not yet be gifted to minors.": "Жетоны еще нельзя дарить несовершеннолетним.",
+        "Important": "Важный",
+        "Gift recipients who are U.S. citizens or residents must be verified as Accredited Investors before we can dispense their gifts.": "Получатели подарков, которые являются гражданами или резидентами США, должны быть проверены как аккредитованные инвесторы, прежде чем мы сможем раздать их подарки."
+    },
+    "Checkout": {
+        "Billing Details": "Платежные реквизиты",
+        "FIRST NAME": "ИМЯ",
+        "LAST NAME": "ФАМИЛИЯ",
+        "EMAIL ADDRESS": "АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ",
+        "PHONE": "ТЕЛЕФОН",
+        "Country": "Страна",
+        "STREET ADDRESS": "АДРЕС УЛИЦЫ",
+        "TOWN/CITY": "ГОРОД/ГОРОД",
+        "POST CODE/ZIP": "ПОЧТОВЫЙ ИНДЕКС/ПОЧТОВЫЙ ИНДЕКС",
+        "Additional Information": "Дополнительная информация",
+        "THIS ORDER IS A GIFT": "ДАННЫЙ ЗАКАЗ ЯВЛЯЕТСЯ ПОДАРОМ",
+        "ORDER NOTES (OPTIONAL)": "ПРИМЕЧАНИЯ ДЛЯ ЗАКАЗА (ДОПОЛНИТЕЛЬНО)",
+        "Hello Sign": "Привет знак",
+        "YOUR ORDER": "ТВОЯ ОЧЕРЕДЬ",
+        "Product": "Продукт",
+        "Sub Total": "Промежуточный итог",
+        "TOTAL": "ВСЕГО",
+        "PAY WITH CRYPTOCURRENCY": "ОПЛАТИТЬ КРИПТОВАЛЮТУ",
+        "Pay with cryptocurrency. If you pay in USDC or DAI, you must pay only on the ETHEREUM network!": "Платите криптовалютой. Если вы платите в USDC или DAI, вы должны платить только в сети ETHEREUM!",
+        "PAY WITH PAYPAL": "ОПЛАТА С PAYPAL",
+        "Your proposal data will be used to process your order, support your experience throughout this website, and for other purposes described in our": "Данные вашего предложения будут использоваться для обработки вашего заказа, поддержки вашего опыта на этом веб-сайте и для других целей, описанных в нашем",
+        "Privacy Policy": "Политика конфиденциальности",
+        "I HAVE READ AND AGREE TO THE WEBSITE TEAMS AND CONDITIONS": "Я ПРОЧИТАЮ И СОГЛАСЕН С УСЛОВИЯМИ ВЕБ-САЙТА",
+        "PLACE ORDER": "РАЗМЕСТИТЬ ЗАКАЗ"
+    },
+    "Cookies": {
+        "why_use_cookies": {
+            "title": "ПОЧЕМУ МЫ ИСПОЛЬЗУЕМ файлы cookie?",
+            "content": "Для обеспечения правильной работы веб-сайта и оптимального взаимодействия с пользователем. \n \t \tДля понимания количества посетителей нашего сайта и просматриваемых ими страниц. \n \t \tДля интеграции социальных сетей в веб-сайт. \n \t \tДля создания объявлений с учетом ваших потребностей. \n \t \t"
+        },
+        "what_is_cookies": {
+            "title": "ЧТО ТАКОЕ ПЕЧЕНЬЕ?",
+            "content": "Файл cookie - это простой небольшой файл, который отправляется вместе со страницами этого веб-сайта и сохраняется браузером на \n \t \t жестком диске вашего компьютера. Информация, хранящаяся в нем, может быть отправлена обратно на наши серверы при следующем посещении. Файл cookie - это файл \n \t \t, содержащий идентификатор (строка букв и цифр), который отправляется веб-сервером в веб-браузер и сохраняется в нем. \n \t \t Затем идентификатор отправляется обратно на сервер каждый раз, когда браузер запрашивает страницу с сервера. Файлы cookie - это небольшие \n \t \t фрагменты данных, которые хранятся в браузере посетителя. Обычно они используются для отслеживания того, какие настройки выбрали пользователи и какие \n \t \t действия они предприняли на сайте. \n \t \t \n \t \t Файлы cookie не могут использоваться для идентификации людей, файлы cookie могут только идентифицировать машину. Файлы cookie обычно не содержат \n \t \t информации, которая позволяет идентифицировать пользователя, но личная информация, которую мы храним о вас, может быть связана с информацией, \n \t \t хранящейся и полученной с помощью файлов cookie. \n \t \t"
+        },
+        "use_of_permanent_cookies": {
+            "title": "Использование постоянных файлов cookie",
+            "content": "С помощью постоянного файла cookie мы можем узнать вас, когда вы снова посетите наш веб-сайт. Поэтому веб-сайт можно \n \t \t специально настроить в соответствии с вашими предпочтениями. Даже если вы дали разрешение на размещение файлов cookie, мы можем запомнить это с помощью \n \t \t файлов cookie. В результате вам не нужно каждый раз повторять свои предпочтения, что экономит ваше время и позволяет \n \t \t использовать наш веб-сайт с большим удовольствием. Постоянные файлы cookie хранятся в веб-браузере и остаются действительными до установленной \n \t \t даты истечения срока, если они не были удалены пользователем до истечения срока действия в настройках вашего браузера. \n \t \t"
+        },
+        "use_of_session_cookies": {
+            "title": "Использование сессионных файлов cookie",
+            "content": "Срок действия файла cookie сеанса истекает в конце пользовательского сеанса, когда веб-браузер закрывается. Обычно они хранят информацию в \n \t \t форме идентификатора сеанса, который не идентифицирует пользователя лично. С помощью файла cookie сеанса мы можем \n \t увидеть, какие части веб-сайта вы просматривали во время этого посещения. Это позволяет нам максимально адаптировать наш сервис к \n \t \t поведению наших посетителей при серфинге. Эти файлы cookie автоматически удаляются при закрытии браузера. \n \t \t"
+        },
+        "google_analytics": {
+            "title": "Гугл Аналитика",
+            "content": "На нашем веб-сайте файлы cookie размещаются компанией Google как часть службы «Аналитика». Мы используем эту службу, чтобы \n \t \t отслеживать и получать отчеты о том, как посетители используют веб-сайт. Google может предоставить эту информацию третьим лицам, если \n \t \t Google юридически обязан это сделать, или если третьи лица обрабатывают информацию от имени Google. Мы не \n \t \t на это влияем. Мы не разрешили Google использовать полученную аналитическую информацию для других сервисов Google. \n \t \t \n \t \t Информация, которую собирает Google, максимально анонимна. Ваш IP-адрес категорически не указывается. Информация \n \t \t передается и хранится Google на серверах в США. Google утверждает, что придерживается принципов Safe Harbor и участвует в программе Safe Harbor Министерства торговли США. Это означает, что \n \t \t существует соответствующий уровень защиты для обработки любых персональных данных. \n \t \t"
+        },
+        "right_to_access": {
+            "title": "Право на доступ и исправление или удаление ваших данных",
+            "content": "У вас есть право запросить доступ к вашим данным, их исправление или удаление. Чтобы предотвратить неправомерное использование, мы можем попросить вас \n \t \t адекватно идентифицировать себя. Когда дело доходит до доступа к личным данным, связанным с файлом cookie, вы должны отправить копию \n \t \t файла cookie. Вы можете найти их в настройках вашего браузера. \n \t \t \n \t \t Вы можете отправить свой вопрос, используя контактную информацию, указанную в нашем Заявлении о конфиденциальности. \n \t \t"
+        },
+        "the_cookies_we_use": {
+            "title": "ПЕЧЕНЬЕ, КОТОРЫЕ МЫ ИСПОЛЬЗУЕМ",
+            "content": {
+                "dftt": {
+                    "name": "DFTT_END_USER_PREV_BOOTSTRAPPED",
+                    "lifespan": "Два года",
+                    "purpose": "Он сообщает dineli, что мы уже создали запись для \n \t \t \t \t \t \t этого посетителя сайта, поэтому он не требует никакой работы и \n \t \t \t \t \t \t экономит время при загрузке. dineli классифицирует эти \n \t \t \t \t \t \t куки по типу функциональности. \n \t \t \t \t \t \t"
+                },
+                "xsrf_token": {
+                    "name": "XSRF_TOKEN",
+                    "lifespan": "Сессия",
+                    "purpose": "Этот файл cookie содержит уникальный идентификатор, который ссылается на \n \t \t \t \t \t \t информацию о сеансе пользователя в вашей базе данных. Браузер доставляет этот файл cookie при будущих запросах, и сервер знает, кто вы. \n \t \t \t \t \t \n \t \t \t \t \t \t"
+                },
+                "__gads": {
+                    "name": "__gads",
+                    "lifespan": "<2 лет",
+                    "purpose": "Целью этого файла cookie является измерение \n \t \t \t \t взаимодействий с рекламой в этом домене и предотвращение слишком частого показа одной и той же \n \t \t \t \t рекламы. Эти \n \t \t \t \t файлы cookie не могут быть прочитаны Google, если вы находитесь на \n \t \t \t \t сайте, отличном от того, на котором они размещены. \t \t \t \t \n \t \t \t \t"
+                },
+                "__hssc": {
+                    "name": "__hssc",
+                    "lifespan": "1 год",
+                    "purpose": "Этот файл cookie отслеживает сеансы. Это используется \n \t \t \t \t, чтобы определить, должны ли мы увеличивать \n \t \t \t \t номер сеанса и временные метки в __hstc cookie. Он \n \t \t \t \t содержит домен, viewCount (увеличивает каждую \n \t \t \t \t страницу в сеансе) и отметку времени начала сеанса. \n \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "__hssrc": {
+                    "name": "__hssrc",
+                    "lifespan": "Сессия",
+                    "purpose": "Когда HubSpot изменяет файл cookie сеанса, этот файл cookie \n \t \t \t \t также устанавливается. Мы устанавливаем его на 1 и используем его, чтобы \n \t \t \t \t определить, перезапустил ли посетитель свой браузер. \n \t \t \t \t Если этот файл cookie не существует, когда мы управляем \n \t \t \t \t файлами cookie, мы будем считать, что это новый сеанс. \n \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "__hstc": {
+                    "name": "__hstc",
+                    "lifespan": "2 года",
+                    "purpose": "Основной файл cookie для отслеживания посетителей. Он содержит домен \n \t \t \t \t, utk (см. Ниже), начальную метку времени (первое посещение), \n \t \t \t \t последнюю метку времени (последнее посещение), текущую метку времени (это \n \t \t \t \t визит), и номер сеанса (увеличивается для каждого \n \t \t \t \t последующего сеанса). \n \t \t \t \t \n \t \t \t \t"
+                },
+                "__utma": {
+                    "name": "__utma",
+                    "lifespan": "1 год 6 месяцев",
+                    "purpose": "Этот файл cookie отслеживает, сколько раз посетитель \n \t \t \t \t был на сайте по отношению к файлу cookie, когда \n \t \t \t \t был их первым посещением и когда он последний раз визит занял \n \t \t \t \t место. Google Analytics использует информацию из \n \t \t \t \t этого файла cookie для расчета таких параметров, как количество дней и посещений до \n \t \t \t \t покупки. \n \t \t \t \t"
+                },
+                "__ga": {
+                    "name": "__ga",
+                    "lifespan": "2 года",
+                    "purpose": "Идентификатор клиента хранится в файле cookie Google Analytics \n \t \t \t \t. Файл cookie GA устанавливается, когда человек впервые \n \t \t \t \t посещает ваш сайт. Google Analytics отправляет клиенту \n \t \t \t \t идентификатор вместе с каждым обращением, чтобы связать обращения с пользователем. \n \t \t \t \t Файл cookie GA может существовать только на устройстве и \n \t \t \t \t браузере, в котором он установлен. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "__utmx": {
+                    "name": "__utmx",
+                    "lifespan": "18 месяцев",
+                    "purpose": "Эти файлы cookie Google Analytics используются для вовлечения \n \t \t \t \t пользователей в эксперименты с контентом. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "hubspotutk": {
+                    "name": "hubspotutk",
+                    "lifespan": "10 лет",
+                    "purpose": "Этот файл cookie используется для отслеживания личности посетителя. \n \t \t \t \t Этот файл cookie передается в HubSpot при отправке форм \n \t \t \t \t и используется при дедупликации контактов. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_fbc": {
+                    "name": "_fbc",
+                    "lifespan": "3 месяца",
+                    "purpose": "Этот файл cookie Facebook устанавливается только в том случае, если пользователь \n \t \t \t \t зашел на нашу страницу с параметром URL-адреса fbclid. Он \n \t \t \t \t будет содержать идентификатор клика, который будет использоваться для отслеживания Facebook \n \t \t \t \t событий Pixel до клика Facebook. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_fbp": {
+                    "name": "_fbp",
+                    "lifespan": "3 месяца",
+                    "purpose": "Используется Facebook для доставки ряда рекламных \n \t \t \t \t продуктов, таких как назначение ставок в реальном времени от сторонних \n \t \t \t \t рекламодателей. Основное назначение этого файла cookie: \n \t \t \t \t Таргетинг / реклама \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_gcl_au": {
+                    "name": "_gcl_au",
+                    "lifespan": "1 месяц",
+                    "purpose": "Используется Google AdSense для экспериментов с \n \t \t \t \t эффективностью рекламы на веб-сайтах, использующих свои \n \t \t \t \t услуги. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_gid": {
+                    "name": "_gid",
+                    "lifespan": "1 день",
+                    "purpose": "Регистрирует уникальный идентификатор, который используется для генерации \n \t \t \t \t статистических данных о том, как посетитель использует \n \t \t \t \t веб-сайт. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_hjid": {
+                    "name": "_hjid",
+                    "lifespan": "6 месяцев",
+                    "purpose": "Файл cookie Hotjar: этот файл cookie устанавливается, когда клиент \n \t \t \t \t впервые попадает на страницу со сценарием Hotjar. Он используется \n \t \t \t \t для сохранения уникального идентификатора пользователя Hotjar для этого сайта в \n \t \t \t \t браузере. Это гарантирует, что поведение будет присвоено \n \t \t \t \t одному и тому же идентификатору пользователя при последующих посещениях \n \t \t \t \t того же сайта. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "_hjptid": {
+                    "name": "_hjptid",
+                    "lifespan": "Сессия",
+                    "purpose": "Файл cookie Hotjar: этот файл cookie устанавливается, когда клиент \n \t \t \t \t впервые попадает на страницу со сценарием Hotjar. Он используется \n \t \t \t \t для сохранения уникального идентификатора пользователя Hotjar для этого сайта в \n \t \t \t \t браузере. Это гарантирует, что поведение будет присвоено \n \t \t \t \t одному и тому же идентификатору пользователя при последующих посещениях \n \t \t \t \t того же сайта. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "ajs_anonymous_id": {
+                    "name": "ajs_anonymous_id",
+                    "lifespan": "1 год",
+                    "purpose": "Эти файлы cookie обычно используются для аналитики и \n \t \t \t \t помогают подсчитать количество людей, посещающих конкретный \n \t \t \t \t сайт, отслеживая, были ли вы там раньше. \n \t \t \t \t Срок службы этого файла cookie составляет 1 год. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "ajs_group_id": {
+                    "name": "ajs_group_id",
+                    "lifespan": "1 год",
+                    "purpose": "Этот файл cookie Google Analytics дает вам уникальный идентификатор группы. \n \t \t \t \t \n \t \t \t \t"
+                },
+                "ajs_user_id": {
+                    "name": "ajs_user_id",
+                    "lifespan": "1 год",
+                    "purpose": "Этот файл cookie Google Analytics дает вам уникальный идентификатор пользователя. \t \t \t \t \n \t \t \t \t"
+                },
+                "c_user": {
+                    "name": "c_user",
+                    "lifespan": "3 месяца",
+                    "purpose": "Файл cookie c_user содержит идентификатор пользователя \n \t \t \t \t, который в данный момент вошел в систему. … Если установлен флажок «держать меня в журнале \n \t \t \t \t in», срок действия cookie истечет через 90 \n \t \t \t \t дней бездействия. Если флажок «держать меня в системе» \n \t \t \t \t не установлен, файл cookie является файлом cookie сеанса \n \t \t \t \t и будет удален при закрытии браузера. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "datr": {
+                    "name": "datr",
+                    "lifespan": "1 год 6 месяцев",
+                    "purpose": "Цель этого файла cookie - идентифицировать веб-браузер, \n \t \t \t \t, используемый для подключения к Facebook, независимо от того, \n \t \t \t \t вошедший в систему пользователь. Этот файл cookie играет важную \n \t \t \t \t роль в функциях безопасности и целостности Facebook. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "fr": {
+                    "name": "fr",
+                    "lifespan": "3 месяца",
+                    "purpose": "Используется Facebook для предоставления ряда рекламных \n \t \t \t \t продуктов, таких как назначение ставок в реальном времени от сторонних \n \t \t \t \t рекламодателей. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "intercom_session": {
+                    "name": "intercom session",
+                    "lifespan": "6 дней",
+                    "purpose": "Этот файл cookie используется для показа пользователю более релевантной \n \t \t \t \t рекламы. Назначение: Прицеливание / Приключения \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "laravel_cookie_consent": {
+                    "name": "laravel_cookie_consent",
+                    "lifespan": "20 лет",
+                    "purpose": "Этот файл cookie используется для отслеживания согласия пользователя на использование файлов cookie \n \t \t \t \t. \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "laravel_session": {
+                    "name": "laravel_session",
+                    "lifespan": "Сессия",
+                    "purpose": "Эти файлы cookie используются для хранения файловых сессий в \n \t \t \t \t storage / framework / sessions. Эти файлы хранятся \n \t \t \t \t в защищенных зашифрованных файлах cookie. \t \t \t \t \t \t \t \t \n \t \t \t \t"
+                },
+                "mp_hj_mixpanel": {
+                    "name": "mp_hj_mixpanel",
+                    "lifespan": "4 месяца",
+                    "purpose": "Tего файл cookie используется для применения аналитики. \t \t \t \n \t \t \t \t"
+                },
+                "optimizelyBuckets": {
+                    "name": "optimizelyBuckets",
+                    "lifespan": "8 лет",
+                    "purpose": "Этот файл cookie используется для применения аналитики. \t \t \t \n \t \t \t \t"
+                }
+            }
+        },
+        "anabling_disabling_cookie": {
+            "title": "Включение и отключение файлов cookie и их удаление",
+            "content": "Вы можете настроить свой интернет-браузер таким образом, чтобы файлы cookie не принимались, вы получали предупреждение при установке файла cookie \n \t \t или чтобы файлы cookie впоследствии удалялись с вашего жесткого диска. Дополнительную информацию о включении, отключении \n \t \t и удалении файлов cookie можно найти в инструкциях и / или с помощью функции справки вашего браузера. \n \t \t \n \t \t В большинстве браузеров вы можете отказаться файлы cookie, а также удалить существующие файлы cookie. Способы сделать это различаются от браузера к браузеру \n \t \t и от версии к версии. Имейте в виду, что некоторые графические элементы могут отображаться некорректно или что вы не \n \t \t сможете использовать определенные приложения. \n \t \t \n \t \t Вы можете получить текущую информацию о блокировке и удаление файлов cookie по этим ссылкам: \n \t \t \n \t \t (a) https://support.google.com/chrome/answer/95647?hl=en (Chrome); \n \t \t \n \t \t (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox); \n \t \t \n \t \t (c) http://www.opera.com/help/tutorials/security/cookies/ (Opera); \n \t \t \n \t \t (d) https://support.microsoft. com / en-gb / help / 17442 / windows-internet-explorer-delete-manage-cookies (Интернет \n \t \t Explorer); \n \t \t \n \t \t (e) https: / /support.apple.com/kb/PH21411 (Safari); и \n \t \t \n \t \t (f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge). \n \t \t"
+        },
+        "Cookie Policy": "Политика использования файлов cookie",
+        "Save changes": "Сохранить изменения",
+        "NAME": "НАЗВАНИЕ",
+        "LIFESPAN": "СРОК ЖИЗНИ",
+        "PURPOSE": "ЦЕЛЬ"
+    },
+    "detail": {
+        "Total Investment": "Всего инвестиций",
+        "TOKEN PRICE": "ЦЕНА НА ТОКЕН",
+        "Total TOKEN": "Всего ТОКЕН",
+        "TOKEN Available": "ТОКЕН Доступен",
+        "Google Map": "Google Map",
+        "EtherScanID": "EtherScanID",
+        "Property Detail": "Детали собственности",
+        "Market Evaluation Details": "Детали оценки рынка",
+        "Longterm Asset Management": "Долгосрочное управление активами",
+        "COMING SOON": "ВСКОРЕ",
+        "PURCHASE TOKEN": "ПОКУПКА ТОКЕНА",
+        "Purchase limit": "Лимит покупки",
+        "Property Highlights": "Особенности недвижимости",
+        "Expected Yield": "Ожидаемая доходность",
+        "Rent Starts from": "Аренда начинается с",
+        "Yearly Rent Per Token": "Годовая арендная плата за жетон",
+        "Token Value": "Стоимость токена",
+        "Generated Token": "Сгенерированный токен",
+        "Property Type": "Тип недвижимости",
+        "Neighborhood": "Район",
+        "Square Feet": "Квадратный фут",
+        "Lot Size": "Объем партии",
+        "Bedroom/Bath": "Спальня / Ванна",
+        "Construction Year": "Год постройки",
+        "Current Status of Property": "Текущее состояние собственности",
+        "Section 8": "Раздел 8",
+        "All details displayer here are best estimates based on current market": "Все детали, отображаемые здесь, являются лучшими оценками, основанными на текущем рынке",
+        "conditions, and may change in future.": "условия и могут измениться в будущем.",
+        "Such type of investments are highly risky which may result in partial or": "Такой тип инвестиций очень рискован и может привести к частичному или частичному вложению средств.",
+        "total loss of your investment": "полная потеря ваших инвестиций",
+        "Financials": "Финансы",
+        "Yearly Gross Rent": "Годовая валовая аренда",
+        "Monthly Gross Rent": "Ежемесячная валовая аренда",
+        "Monthly Costs": "Ежемесячные расходы",
+        "Property Management (7.00%)": "Управление недвижимостью (7,00%)",
+        "Dineli Platform (2.00%)": "Платформа Dineli (2,00%)",
+        "Property Taxes": "Налог на недвижимость",
+        "Insurance": "Страхование",
+        "Utilities": "Утилиты",
+        "Monthly Net Rent": "Ежемесячная чистая арендная плата",
+        "Yearly Net Rent": "Годовая чистая рента",
+        "Underlying Asset Price": "Цена базового актива",
+        "Dineli Listing Fee (10%)": "Комиссия за листинг Dineli (10%)",
+        "Initial Maintenance Reserve": "Резерв начального обслуживания",
+        "Property Reserve Accumulation": "Накопление имущественного резерва",
+        "Compound": "Сложный"
+    }
+}

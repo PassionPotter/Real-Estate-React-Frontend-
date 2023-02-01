@@ -1,0 +1,284 @@
+@media only screen and (min-width: 0px) and (max-width: 480px) {
+  .img-box-home1 {
+    background: url("../../assets/imgs/home1.png") no-repeat center;
+    background-size: cover;
+    background-color: #2e2e2e;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 612px) {
+  .img-box-home1 {
+    background: url("../../assets/imgs/home1.png") no-repeat center;
+    background-size: cover;
+    background-color: #2e2e2e;
+  }
+}
+
+@media only screen and (min-width: 613px) and (max-width: 1024px) {
+  .img-box-home1 {
+    background: url("../../assets/imgs/home1.png") no-repeat center;
+    background-size: contain;
+    background-color: #2e2e2e;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 3500px) {
+  .img-box-home1 {
+    background-size: contain;
+    background-color: #2e2e2e;
+  }
+}
+
+.img-box-home2 {
+  background: url("../../assets/imgs/home2.png") no-repeat center;
+  background-size: cover;
+}
+
+.img-box-home3 {
+  /* background-color: rgb(120, 110, 100); */
+  background-color: var(--secondary-color);
+  background-size: cover;
+}
+
+.img-box-home4 {
+  background: url("../../assets/imgs/home4.png") no-repeat center;
+  background-size: cover;
+}
+
+.img-box-home5-2 {
+  /* background: url("../../assets/imgs/home5_1.png") no-repeat center; */
+  /* background-size: cover; */
+  background-color: #fff;
+}
+
+.img-box-home7 {
+  background-color: #fff;
+}
+@media only screen and (min-width: 0px) and (max-width: 480px) {
+  .img-box-home8 {
+    background-size: cover;
+    margin-bottom: -13px;
+  }
+  .img-box-home8 .home8-tag {
+    margin-top: 20vh;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 612px) {
+  .img-box-home8 {
+    background-size: cover;
+    margin-bottom: -13px;
+  }
+  .img-box-home8 .home8-tag {
+    margin-top: 20vh;
+  }
+}
+
+@media only screen and (min-width: 613px) and (max-width: 1024px) {
+  .img-box-home8 {
+    background-size: contain;
+    margin-bottom: -13px;
+  }
+  .img-box-home8 .home8-tag {
+    margin-top: 30vh;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1900px) {
+  .img-box-home8 {
+    background-size: contain;
+    margin-bottom: -13px;
+  }
+  .img-box-home8 .home8-tag {
+    margin-top: 30vh;
+    padding: 12%;
+  }
+  .img-box-home8 .btn.btn-primary {
+    margin-left: 10%;
+  }
+}
+@media only screen and (min-width: 1900px) and (max-width: 3920px) {
+  .img-box-home8 {
+    background-size: cover;
+    margin-bottom: -13px;
+  }
+  .img-box-home8 .home8-tag {
+    margin-top: 30vh;
+    padding: 12%;
+  }
+  .img-box-home8 .btn.btn-primary {
+    margin-left: 10%;
+  }
+}
+
+/*  home 2 buttons */
+@media only screen and (min-width: 0px) and (max-width: 635px) {
+  .home2-btn {
+    width: 36vw !important;
+    height: 9vw !important;
+    font-size: 2.5vw !important;
+  }
+  .home3-btn {
+    width: 30vw !important;
+    height: 9vw !important;
+    font-size: 2.5vw !important;
+    background-color: var(--text-color) !important;
+  }
+
+  .home2-btn img {
+    width: 6.5vw;
+  }
+
+  .btn-start-now {
+    width: 34vw !important;
+    height: 12vw;
+    font-size: 3.5vw;
+  }
+  .home-footer {
+    width: 30vw !important;
+  }
+}
+
+@media only screen and (min-width: 636px) and (max-width: 3500px) {
+  .home2-btn {
+    width: 20vw !important;
+    height: 50px !important;
+  }
+  .home3-btn {
+    width: 18vw !important;
+    height: 50px !important;
+    background-color: var(--text-color) !important;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 612px) {
+  .home6-margin {
+    margin: 2% 1% 8% 0% !important;
+  }
+}
+
+@media only screen and (min-width: 613px) and (max-width: 3500px) {
+  .home6-margin {
+    margin: 8% 12% 8% 12% !important;
+  }
+}
+
+.img-box-home3 .carousel-control-prev {
+  font-size: 3vw;
+  margin-left: -8vw;
+}
+.img-box-home3 .carousel-control-prev :hover {
+  color: #dba87e;
+}
+
+.img-box-home3 .carousel-control-next {
+  font-size: 3vw;
+  margin-right: -8vw;
+}
+.img-box-home3 .carousel-control-next :hover {
+  color: #dba87e;
+}
+.accItem {
+  color: #dba87e !important;
+  background-color: #2e2e2e;
+}
+.accItem .flowline {
+  padding-bottom: 7px;
+  border-bottom: 3px solid #fff;
+}
+@media only screen and (min-width: 0px) and (max-width: 590px) {
+  .becomeInventor {
+    left: 8%;
+    position: absolute;
+    width: 80vw;
+  }
+  .paddingtop {
+    padding-top: 15.5vw !important;
+  }
+  .becomeInvestorDiv {
+    min-height: 350px;
+  }
+  .d-text-32 {
+    font-size: 20px !important;
+  }
+  .d-text-18 {
+    font-size: 18px !important;
+  }
+}
+@media only screen and (min-width: 590px) and (max-width: 768px) {
+  .becomeInventor {
+    left: 0%;
+    position: absolute;
+  }
+  .paddingtop {
+    padding-top: 5.5vw !important;
+  }
+  .becomeInvestorDiv {
+    min-height: 250px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1020px) {
+  .becomeInventor {
+    position: absolute;
+    left: 0%;
+  }
+  .d-text-18 {
+    font-size: 9px !important;
+  }
+  .paddingtop {
+    padding-top: 2.5vw !important;
+  }
+  .becomeInvestorDiv {
+    min-height: 100px;
+  }
+}
+@media only screen and (min-width: 1020px) {
+  .becomeInventor {
+    position: absolute;
+    left: 0%;
+  }
+  .paddingtop {
+    padding-top: 2.5vw !important;
+  }
+  .becomeInvestorDiv {
+    min-height: 100px;
+  }
+}
+
+.faq-item {
+  /* background-color: #41474f; */
+  /* background: url("../../assets/imgs/2.png") no-repeat center; */
+  background-size: contain !important;
+  /* padding: 5%;
+  margin-bottom: 20px;
+  border-radius: 10px; */
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 193px;
+  margin-top: -100px;
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1320px) {
+  .faq-item {
+    margin-top: -80px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+
+@media only screen and (min-width: 1320px) and (max-width: 1920px) {
+  .faq-item {
+    margin-top: -60px;
+  }
+}
+
+@media only screen and (min-width: 1920px) and (max-width: 3500px) {
+  .faq-item {
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 100px;
+    height: 193px;
+    margin-top: -50px;
+  }
+}
